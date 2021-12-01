@@ -1,0 +1,59 @@
+---
+title: "Grafici e statistiche di sei mesi del 2016 di /r/italy: Commenti interattivo"
+date: 2016-10-27T00:00:00+02:00
+draft: false
+---
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+  google.charts.load('current', {'packages':['corechart']});
+  google.charts.setOnLoadCallback(drawSeriesChart);
+  function drawSeriesChart() {
+	var data = google.visualization.arrayToDataTable([
+	  ["Utente","log(Numero)","Distanza","Media","Somma"],
+	  ['SpiegoLeDiscussioni',2.473,63,1081.000,3.640],
+	  ['martinomh',2.270,49,981.000,5.274],
+	  ['Emanuele676',2.728,75,852.000,1.596],
+	  ['LanciaStratos93',2.258,38,781.000,4.315],
+	  ['pokerissimo',2.137,53,761.000,5.555],
+	  ['HolyJesusOnAToast',1.903,115,659.000,8.238],
+	  ['kisstheblade69',2.107,56,624.000,4.875],
+	  ['lorenzojc',2.004,35,584.000,5.782],
+	  ['LaTalpa123',1.954,53,535.000,5.944],
+	  ['(vuoto)',2.447,70,518.000,1.850],
+
+	  ['osidovich',2.483,39,413.000,1.359],
+	  ['mirh',2.146,30,278.000,1.986],
+	  ['_samux_',2.146,30,369.000,2.636],
+	  ['annoyed_by_myself',2.114,14,313.000,2.408],
+	  ['ElvishCopter',2.090,49,443.000,3.602],
+
+	  ['El_Medico',0.000,0,109.000,109.000],
+	  ['Tebeku',0.477,7,164.000,54.667],
+	  ['00derper',0.699,166,211.000,42.200],
+	  ['uhuh',0.301,21,79.000,39.500],
+	  ['oggettosmarrito',0.301,25,77.000,38.500],
+	  ['SirJohnSmith',0.301,68,70.000,35.000],
+
+	  ['il_doc',1.146,208,243.000,17.357],
+	  ['weather-pan',0.845,139,160.000,22.857],
+	  ['oldpoint',1.792,130,304.000,4.903],
+	  ['Fab527',1.176,85,179.000,11.933],
+	  ['Servodellagleba',1.431,84,225.000,8.333],
+	  ['AzraelCrusader',0.602,81,92.000,23.000],
+	  ['Spaturno',1.996,85,357.000,3.606],
+
+
+	]);
+	var options = {
+	  title: 'Commenti per autore',
+	  colorAxis: {colors: ['blue', 'red']},
+	  hAxis: {title: 'Log numero'},
+	  vAxis: {title: 'Massimo'},
+	  bubble: {textStyle: {color: 'black', fontSize: '9px'}}
+	};
+
+	var chart = new google.visualization.BubbleChart(document.getElementById('series_chart_div'));
+	chart.draw(data, options);
+  }
+</script>
+<div id="series_chart_div" style="width: 900px; height: 500px;"></div>

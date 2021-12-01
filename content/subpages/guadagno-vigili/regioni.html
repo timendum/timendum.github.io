@@ -1,0 +1,47 @@
+---
+title: "Analisi sui comuni che guadagnano di più con la polizia municipale: Per Regione"
+date: 2016-10-10T00:00:00+02:00
+draft: false
+---
+<script type='text/javascript' src='https://www.gstatic.com/charts/loader.js'></script>
+<script type='text/javascript'>
+  google.charts.load('upcoming', {'packages': ['geochart']});
+  google.charts.setOnLoadCallback(drawMarkersMap);
+
+  function drawMarkersMap() {
+	var data = google.visualization.arrayToDataTable([
+	  ['Regione','Media' ], 
+	  ['Abruzzo', 4.932], 
+	  ['Basilicata', 2.977],
+	  ['Calabria', 3.830],
+	  ['Campania', 5.148],
+	  ['Emilia Romagna', 8.515],
+	  ['Friuli Venezia Giulia', 4.216],
+	  ['Lazio', 11.195],
+	  ['Liguria', 16.113],
+	  ['Lombardia', 7.991],
+	  ['Marche', 10.895],
+	  ['Molise', 6.619],
+	  ['Piemonte', 5.487],
+	  ['Puglia', 6.036],
+	  ['Sardegna', 3.699],
+	  ['Sicilia', 4.073],
+	  ['Toscana', 15.573],
+	  ['Trentino Alto Adige', 4.090],
+	  ['Umbria', 6.923],
+	  ['Valle D\'Aosta', 2.928],
+	  ['Veneto', 12.902]
+
+	]);
+
+	var options = {
+	  region: 'IT',
+	  displayMode: 'markers',
+
+	};
+
+	var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
+	chart.draw(data, options);
+  };
+</script>
+<div id="chart_div" style="width: 900px; height: 500px;"></div>

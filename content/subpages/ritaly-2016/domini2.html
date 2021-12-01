@@ -1,0 +1,44 @@
+---
+title: "Grafici e statistiche di sei mesi del 2016 di /r/italy: Domini interattivo"
+date: 2016-10-27T00:00:00+02:00
+draft: false
+---
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+  google.charts.load('current', {'packages':['corechart']});
+  google.charts.setOnLoadCallback(drawSeriesChart);
+  function drawSeriesChart() {
+	var data = google.visualization.arrayToDataTable([
+	  ["Dominio","Somma","Media","Massimo","Conteggio"],
+//          ['self.italy',2584.000,11.963,157,216],
+	  ['repubblica.it',1034.000,20.275,195,51],
+	  ['ilpost.it',210.000,7.500,20,28],
+	  ['lastampa.it',415.000,15.370,75,27],
+	  ['corriere.it',300.000,12.000,55,25],
+	  ['imgur.com',1273.000,63.650,306,20],
+	  ['youtube.com',470.000,27.647,188,17],
+	  ['reddit.com',1019.000,59.941,281,17],
+	  ['ilfattoquotidiano.it',171.000,12.214,88,14],
+	  ['ansa.it',167.000,15.182,34,11],
+	  ['reddituploads.com',138.000,23.000,70,6],
+	  //['gelocal.it',98.000,19.600,47,5],
+	  ['vice.com',69.000,17.250,36,4],
+	  ['facebook.com',67.000,22.333,56,3],
+	  ['linkiesta.it',81.000,27.000,62,3],
+	  ['huffingtonpost.it',63.000,21.000,46,3],
+	  ['ilfoglio.it',105.000,35.000,80,3],
+	  ['wikipedia.org',141.000,47.000,84,3]
+
+	]);
+	var options = {
+	  title: 'Voti per dominio',
+	  colorAxis: {colors: ['blue', 'red']},
+	  hAxis: {title: 'Somma voti'},
+	  vAxis: {title: 'Media voti'}
+	};
+
+	var chart = new google.visualization.BubbleChart(document.getElementById('series_chart_div'));
+	chart.draw(data, options);
+  }
+</script>
+<div id="series_chart_div" style="width: 900px; height: 500px;"></div>

@@ -1,0 +1,35 @@
+baseURL = 'https://timendum.github.io/'
+languageCode = 'it-it'
+title = 'Timendum'
+author = "Timendum"
+paginate = 5
+
+
+
+# Generate a nice robots.txt
+enableRobotsTXT = true
+
+
+theme = "indigo"
+
+[params]
+  Author = "Timendum"
+  Description = "Raccolta di produzioni di Timendum"
+  Subtitle = "Raccolta di cose fatte da me"
+  Avatar = "images/site-logo.svg"
+  Biography = "Posto su Reddit, faccio cose in Python principalmente."
+  ShowBio = false
+  PermalinkText = "🔗"
+  mainSections = ["posts", "updates"]
+  # Contact/social-network identifiers for social icons
+  GitHubUser = "timendum"
+  # KeybaseUser = "timendum"
+  RedditUser = "timendum"
+
+[markup.goldmark.parser.attribute]
+block = true
+
+[markup.tableOfContents]
+endLevel = 4
+ordered = false
+startLevel = 2
