@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geografia on Timendum</title>
+    <link>https://timendum.github.io/tags/geografia/</link>
+    <description>Recent content in geografia on Timendum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Mon, 16 Jul 2018 00:00:00 +0200</lastBuildDate><atom:link href="https://timendum.github.io/tags/geografia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Orientamento delle città italiane</title>
+      <link>https://timendum.github.io/posts/orientamento-citta-italiane/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/orientamento-citta-italiane/</guid>
+      <description>Ho creato dei grafici che rappresentano &amp;ldquo;come sono orientate&amp;rdquo; le città italiane.</description>
+    </item>
+    
+  </channel>
+</rss>

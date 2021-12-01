@@ -1,0 +1,35 @@
+code {
+    font-size: 87.5%;
+    color: #e83e8c;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+}
+
+article table {
+    min-width: 40%;
+	border-collapse:collapse;
+}
+
+article table td, article table th {
+	padding:.75rem;
+	vertical-align:top;
+	border-top:1px solid #dee2e6
+}
+article table thead th {
+	vertical-align:bottom;
+	border-bottom:2px solid #dee2e6
+}
+article table td, article table th {
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+article table tbody+tbody {
+	border-top:2px solid #dee2e6
+}
+.table-striped tbody tr:nth-of-type(odd) {
+ background-color:rgba(0,0,0,.05)
+}

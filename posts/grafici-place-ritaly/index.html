@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="it-it">
+<head>
+    <meta charset="utf-8">
+    
+    <title>Grafici su Place e Reddit Italia | Timendum</title>
+    <meta name="description" content="Raccolta di produzioni di Timendum">
+    <meta name="author" content="">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href=https://timendum.github.io/apple-touch-icon.png>
+    <link rel="icon" type="image/png" sizes="32x32" href=https://timendum.github.io/favicon-32x32.png>
+    <link rel="icon" type="image/png" sizes="16x16" href=https://timendum.github.io/favicon-16x16.png>
+    <link rel="manifest" href=https://timendum.github.io/site.webmanifest>
+    <link rel="mask-icon" href=https://timendum.github.io/safari-pinned-tab.svg color="#00416a">
+    <link rel="feed" type="application/rss+xml" href="./index.xml" title="Grafici su Place e Reddit Italia" />
+    <link rel="alternate" type="application/rss+xml" href="./index.xml" title="Grafici su Place e Reddit Italia" />
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="theme-color" content="#ffffff">
+    
+    
+    
+    
+    
+    <link rel="stylesheet" href=https://timendum.github.io/css/fonts.css />
+    <link rel="stylesheet" href=https://timendum.github.io/css/style.css />
+    <link rel="stylesheet" href=https://timendum.github.io/css/custom.css />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <header>
+        <nav>
+    
+    <div id="page-nav">
+        <div class="page-nav-item">
+            <a href="https://timendum.github.io/">Home</a>
+        </div>
+        
+    </div>
+</nav>
+        
+    </header>
+
+
+
+
+<div id="content">
+    <article class="h-entry">
+        <header>
+            <h1 class="post-title p-name">Grafici su Place e Reddit Italia</h1>
+            
+            <p class="post-date">Posted on
+                <time class="dt-published" datetime="2017-04-19T00:00:00&#43;02:00">
+                    19 April, 2017 at 00:00 CEST
+                </time>  by <a href="https://timendum.github.io/" class="p-author h-card"
+                    rel="author">Timendum</a>
+            </p>
+            
+            
+			
+        </header>
+        <section class="content e-content">
+            <p>Reddit ha rilasciato il <a href="https://www.reddit.com/r/redditdata/comments/6640ru/place_datasets_april_fools_2017/">dataset completo</a> di /r/place. Io ho incrociato i dati con gli utenti di Reddit italia e questo è il risultato</p>
+<h2 id="i-colori-più-usati">I colori più usati</h2>
+<p><img src="/images/rplace/colori.png" alt="Grafico"></p>
+<p>L&rsquo;immagine parla da sé!</p>
+<h2 id="gli-utenti-più-attivi">Gli utenti più attivi</h2>
+<p><img src="/images/rplace/utenti.png" alt="Grafico"></p>
+<p>Ecco la top ten:</p>
+<table class="table-striped">
+<thead>
+<tr>
+<th>utente</th>
+<th>click</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Poggor</td>
+<td>357</td>
+</tr>
+<tr>
+<td>yupswing</td>
+<td>319</td>
+</tr>
+<tr>
+<td>EnderStarways</td>
+<td>282</td>
+</tr>
+<tr>
+<td>Rerecursing</td>
+<td>275</td>
+</tr>
+<tr>
+<td>Diffeomorphisms</td>
+<td>251</td>
+</tr>
+<tr>
+<td>TheHammerstein</td>
+<td>245</td>
+</tr>
+<tr>
+<td>PotatoResearch</td>
+<td>242</td>
+</tr>
+<tr>
+<td>ENSilLosco</td>
+<td>238</td>
+</tr>
+<tr>
+<td>ThePopeShitsInHisHat</td>
+<td>229</td>
+</tr>
+<tr>
+<td>un_Fiorentino</td>
+<td>223</td>
+</tr>
+</tbody>
+</table>
+<p>I dati completi su <a href="http://www.sharecsv.com/s/04a27ec539dbcb17917258c5aecca94e/new%205.csv">sharecsv</a>.</p>
+<h2 id="la-zona-più-combattuta">La zona più combattuta</h2>
+<p><img src="/images/rplace/combattimenti.png" alt="Grafico"></p>
+<p>La parte alta sinistra della bandiera, con la vespa e il cuore UK.</p>
+<h2 id="come-ho-fatto">Come ho fatto</h2>
+<p>Ho considerato utenti di Reddit Italia chi abbia fatto almeno 2 commenti sui reddit italiani (alcuni) a marzo.</p>
+<p>Potete trastullarvi anche voi, su BigQuery, io ho fatto SQL Standard (non legacy) ecco le query:</p>
+<p>Parte comune:</p>
+<pre><code>WITH users AS
+  (SELECT TO_BASE64(SHA1(comments.author)) as sha, comments.author as author
+   FROM `fh-bigquery.reddit_comments.2017_03` as comments
+   WHERE comments.subreddit in ('italy', 'italyInformatica', 'perlediritaly', 'ItalyMotori', 'ITAGLIA')
+   group by comments.author
+   HAVING count(*) &gt; 2)
+</code></pre>
+<p>Utenti:</p>
+<pre><code>SELECT author, count(*)
+FROM `reddit-jg-data.place_events.all_tile_placements` as place
+LEFT JOIN users ON users.sha = place.user
+WHERE users.sha is not null
+group by author    
+</code></pre>
+<p>Coordinate:</p>
+<pre><code>SELECT x_coordinate, y_coordinate, count(*) as clicks
+FROM `reddit-jg-data.place_events.all_tile_placements` as place
+LEFT JOIN users ON users.sha = place.user
+WHERE users.sha is not null
+group by x_coordinate, y_coordinate
+having count(*) &gt; 1
+</code></pre>
+<p>Colore:</p>
+<pre><code>SELECT color, count(*) as clicks
+FROM `reddit-jg-data.place_events.all_tile_placements` as place
+LEFT JOIN users ON users.sha = place.user
+WHERE users.sha is not null
+group by color
+having count(*) &gt; 1</code></pre>
+
+        </section>
+        <footer>
+            
+            <hr class="post-underline">
+            <p class="post-tag">Tags for this post:
+                
+                <a href="https://timendum.github.io/tags/reddit" class="post-tag p-category">reddit</a>
+                
+                <a href="https://timendum.github.io/tags/metareddit" class="post-tag p-category">metareddit</a>
+                
+            </p>
+            
+        </footer>
+    </article>
+</div>
+
+    
+    <div id="footer">
+      
+      <nav id="article-skip">
+        <div class="next">
+          
+          <a alt="Newer article" href="https://timendum.github.io/posts/analisi-caffe-ritaly-2017/">&larr; Newer</a>
+          
+        </div>
+        <div class="top">
+          <a alt="Top of page" href="#">Top</a>
+        </div>
+        <div class="prev">
+          
+          <a alt="Older article" href="https://timendum.github.io/posts/ritaly-gold/">Older &rarr;</a>
+          
+        </div>
+      </nav>
+      
+      <aside id="social">
+  <div id="social-icons">
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="GitHub profile" href="https://github.com/timendum"><img src=https://timendum.github.io/icons/github.svg height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Reddit profile" href="https://www.reddit.com/user/timendum"><img src=https://timendum.github.io/icons/reddit-alien.svg height="24px" width="24px" /></a>
+    </div>
+    
+    
+    
+    
+    
+  </div>
+</aside>
+
+      
+    </div>
+
+
+</body>
+</html>

@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="it-it">
+<head>
+    <meta charset="utf-8">
+    
+    <title>Orientamento delle città italiane | Timendum</title>
+    <meta name="description" content="Raccolta di produzioni di Timendum">
+    <meta name="author" content="">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href=https://timendum.github.io/apple-touch-icon.png>
+    <link rel="icon" type="image/png" sizes="32x32" href=https://timendum.github.io/favicon-32x32.png>
+    <link rel="icon" type="image/png" sizes="16x16" href=https://timendum.github.io/favicon-16x16.png>
+    <link rel="manifest" href=https://timendum.github.io/site.webmanifest>
+    <link rel="mask-icon" href=https://timendum.github.io/safari-pinned-tab.svg color="#00416a">
+    <link rel="feed" type="application/rss+xml" href="./index.xml" title="Orientamento delle città italiane" />
+    <link rel="alternate" type="application/rss+xml" href="./index.xml" title="Orientamento delle città italiane" />
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="theme-color" content="#ffffff">
+    
+    
+    
+    
+    
+    <link rel="stylesheet" href=https://timendum.github.io/css/fonts.css />
+    <link rel="stylesheet" href=https://timendum.github.io/css/style.css />
+    <link rel="stylesheet" href=https://timendum.github.io/css/custom.css />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <header>
+        <nav>
+    
+    <div id="page-nav">
+        <div class="page-nav-item">
+            <a href="https://timendum.github.io/">Home</a>
+        </div>
+        
+    </div>
+</nav>
+        
+    </header>
+
+
+
+
+<div id="content">
+    <article class="h-entry">
+        <header>
+            <h1 class="post-title p-name">Orientamento delle città italiane</h1>
+            
+            <p class="post-date">Posted on
+                <time class="dt-published" datetime="2018-07-16T00:00:00&#43;02:00">
+                    16 July, 2018 at 00:00 CEST
+                </time>  by <a href="https://timendum.github.io/" class="p-author h-card"
+                    rel="author">Timendum</a>
+            </p>
+            
+            
+			
+        </header>
+        <section class="content e-content">
+            <p>Ispirato da <a href="http://geoffboeing.com/2018/07/city-street-orientations-world/">questo articolo</a>
+ho creato, grazie a
+<a href="https://github.com/gboeing/osmnx-examples/blob/master/notebooks/17-street-network-orientations.ipynb">tanto bel codice</a>
+quasi già pronto,
+dei grafici che rappresentano &ldquo;come sono orientate&rdquo; le città italiane.</p>
+<p>In pratica il programma,
+che trovate condiviso <a href="https://notebooks.anaconda.org/timendum/street-network-orientations">su anaconda</a>,
+scarica da <a href="http://openstreetmap.org/">OpenStreetMap</a>
+le strate di una città,
+poi semplifica la cartina,
+fa l&rsquo;elenco delle strade che rimangono
+e ne calcola l&rsquo;orientamento,
+cioè trova qual&rsquo;è la loro direzione seguendo la bussola,
+quindi il tutto viene rappresentato in grafico.</p>
+<p>Due note sui grafici:</p>
+<ol>
+<li>non sono normalizzati tra loro,
+cioè gli assi solo lunghi diversi tra grafici.</li>
+<li>Sui grafici vengono rappresentate
+quante strade sono orientate in un certo modo.</li>
+</ol>
+<p>Ho analizzato le città con più abitanti d&rsquo;Italia più alcune città interessanti.</p>
+<p><img src="/images/orientamento/PllPntU.png" alt="Roma"></p>
+<p><img src="/images/orientamento/HmsZR4J.png" alt="Milano"></p>
+<p><img src="/images/orientamento/Lzsm9CV.png" alt="Napoli"></p>
+<p><img src="/images/orientamento/jzuPoug.png" alt="Torino"></p>
+<p><img src="/images/orientamento/u6dQozd.png" alt="Palermo"></p>
+<p><img src="/images/orientamento/JpX9Ehy.png" alt="Genova"></p>
+<p><img src="/images/orientamento/yBsGGlW.png" alt="Bologna"></p>
+<p><img src="/images/orientamento/MP1RZaW.png" alt="Firenze"></p>
+<p><img src="/images/orientamento/cZPT77g.png" alt="Catania"></p>
+<p><img src="/images/orientamento/YDaLddB.png" alt="Reggio Calabria"></p>
+<p><img src="/images/orientamento/YjLijPy.png" alt="Bari"></p>
+<p><img src="/images/orientamento/cQGwCwE.png" alt="Giulianova"></p>
+<p><img src="/images/orientamento/iChp2xi.png" alt="Parmanova"></p>
+<p><img src="/images/orientamento/pd4CVCh.png" alt="Cortemaggiore"></p>
+<p><img src="/images/orientamento/h6MOs07.png" alt="Bergamo"></p>
+<p><img src="/images/orientamento/jCx4dNu.png" alt="Bitonto"></p>
+<p><img src="/images/orientamento/YSRFVZD.png" alt="Grammichele"></p>
+<p><img src="/images/orientamento/FYJOW85.png" alt="Verona"></p>
+<p><img src="/images/orientamento/ImyAL6l.png" alt="Messina"></p>
+<p><img src="/images/orientamento/9yXfgio.png" alt="Padova"></p>
+<p><img src="/images/orientamento/r5xZXB1.png" alt="Latina"></p>
+<p>Per i più curiosi
+<a href="https://imgur.com/a/EBYIOIG">su questo album</a>
+trovate la cartina semplificata di ogni città analizzata.</p>
+<p>Extra sui grafici:
+ho provato ad aggiungere &ldquo;peso&rdquo; in base alla lunghezza della strada,
+il risultato non cambia sensibilmente.</p>
+<p>Edit: Aggiungo, a parte, <a href="https://imgur.com/a/s5s4fZR">Venezia</a>, però tecnicamente il comune di Venezia include anche Mestre e le zone limitrofe.<br>
+Se passo all&rsquo;isola invece, chiaramente le strade per le automobili sono pochissime, quindi devo cambiare l&rsquo;estrazione dei dati per includere anche le strade pedonali etc.</p>
+
+        </section>
+        <footer>
+            
+            <hr class="post-underline">
+            <p class="post-tag">Tags for this post:
+                
+                <a href="https://timendum.github.io/tags/reddit" class="post-tag p-category">reddit</a>
+                
+                <a href="https://timendum.github.io/tags/geografia" class="post-tag p-category">geografia</a>
+                
+            </p>
+            
+        </footer>
+    </article>
+</div>
+
+    
+    <div id="footer">
+      
+      <nav id="article-skip">
+        <div class="next">
+          
+          <a alt="Newer article" href="https://timendum.github.io/posts/ritaly-2019/">&larr; Newer</a>
+          
+        </div>
+        <div class="top">
+          <a alt="Top of page" href="#">Top</a>
+        </div>
+        <div class="prev">
+          
+          <a alt="Older article" href="https://timendum.github.io/posts/swag-negro-libro-bello-figo-analisi-markov/">Older &rarr;</a>
+          
+        </div>
+      </nav>
+      
+      <aside id="social">
+  <div id="social-icons">
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="GitHub profile" href="https://github.com/timendum"><img src=https://timendum.github.io/icons/github.svg height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Reddit profile" href="https://www.reddit.com/user/timendum"><img src=https://timendum.github.io/icons/reddit-alien.svg height="24px" width="24px" /></a>
+    </div>
+    
+    
+    
+    
+    
+  </div>
+</aside>
+
+      
+    </div>
+
+
+</body>
+</html>

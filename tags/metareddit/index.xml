@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>metareddit on Timendum</title>
+    <link>https://timendum.github.io/tags/metareddit/</link>
+    <description>Recent content in metareddit on Timendum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0200</lastBuildDate><atom:link href="https://timendum.github.io/tags/metareddit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un anno di /r/italy (Giugno 2018-Giugno 2019)</title>
+      <link>https://timendum.github.io/posts/ritaly-2019/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/ritaly-2019/</guid>
+      <description>Ho analizzato un anno di contenuti di /r/italy, dal 1 giugno 2018 al 1 giugno 2019. L&amp;rsquo;analisi è divisa in due parti: una prima sui post (numero di voti, commenti, autori, eccetera) e una seconda sulle parole (quanti commenti o post hanno generato).</description>
+    </item>
+    
+    <item>
+      <title>Civati, the day after</title>
+      <link>https://timendum.github.io/posts/analisi-ama-civati/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/analisi-ama-civati/</guid>
+      <description>L&amp;rsquo;AMA di Civati mi ha colpito, 491 commenti e 262 voti. Sono pochissimi i casi così tanti voti E più commentati del caffè. Quindi segue un thread di contenuti meta, per i più curiosi.</description>
+    </item>
+    
+    <item>
+      <title>Sei mesi del caffè di /r/italy (Gennaio-Maggio 2017)</title>
+      <link>https://timendum.github.io/posts/analisi-caffe-ritaly-2017/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/analisi-caffe-ritaly-2017/</guid>
+      <description>Ho analizzato sei mesi di contenuti del caffè di /r/italy, dal Gennaio a Maggio 2017.</description>
+    </item>
+    
+    <item>
+      <title>Grafici su Place e Reddit Italia</title>
+      <link>https://timendum.github.io/posts/grafici-place-ritaly/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/grafici-place-ritaly/</guid>
+      <description>Reddit ha rilasciato il dataset completo di /r/place. Io ho incrociato i dati con gli utenti di Reddit italia e questo è il risultato.</description>
+    </item>
+    
+    <item>
+      <title>Analisi dei contenuti con gold su r/italy</title>
+      <link>https://timendum.github.io/posts/ritaly-gold/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/ritaly-gold/</guid>
+      <description>Ecco una personale analisi dei contenuti di /r/italy che hanno ricevuto il gold.</description>
+    </item>
+    
+    <item>
+      <title>Grafici e statistiche di sei mesi del 2016 di /r/italy</title>
+      <link>https://timendum.github.io/posts/ritaly-2016/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/ritaly-2016/</guid>
+      <description>Ho estratto tutti i post e i commenti di 6 mesi di r/italy, ho quindi avviato alcune analisi.</description>
+    </item>
+    
+  </channel>
+</rss>

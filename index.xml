@@ -1,0 +1,3499 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timendum</title>
+    <link>https://timendum.github.io/</link>
+    <description>Recent content on Timendum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0200</lastBuildDate>
+    
+        <atom:link href="https://timendum.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ho creato dei podcast per tutti gli audiolibri di Ad Alta voce [update 2021]</title>
+      <link>https://timendum.github.io/posts/podcast-ad-alta-voce/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/podcast-ad-alta-voce/</guid>
+      <description>&lt;p&gt;Visto l&amp;rsquo;interesse crescente per gli audiolibri, (ri)condivido con voi un mio progettino, aggiornato oggi.&lt;/p&gt;
+&lt;p&gt;Ho creato un feed podcast per ogni audiolibro letto da &lt;a href=&#34;https://www.raiplayradio.it/programmi/adaltavoce/&#34;&gt;Ad Alta Voce&lt;/a&gt;, il programma di Radio 3.&lt;/p&gt;
+&lt;h1 id=&#34;ad-alta-voce---podcast-non-ufficialehttpstimendumgithubioadaltavoce&#34;&gt;&lt;a href=&#34;https://timendum.github.io/adaltavoce/&#34;&gt;Ad alta voce - Podcast non ufficiale&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Potete sfruttare i podcast con il vostro programma di podcast preferito, io uso &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&#34;&gt;Podcast Addict&lt;/a&gt;.&lt;br&gt;
+Perché usare un app apposta? Così si ricorda dove sono arrivato ad ascoltare e non devo farlo io.&lt;/p&gt;
+&lt;p&gt;Per i curiosi, il codice (Python) sta su &lt;a href=&#34;https://github.com/timendum/adaltavoce/&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;u/Rant423 ha inviato tutti i link a PocketCast, ecco la &lt;a href=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vTl6vd0-KAEniGaVZkPL0rIeR6Vi3NfjPXchYVGLc5-IYN7Dwzh83VHhj5iv6xzA79S7lOjgydWiAR1/pubhtml&#34;&gt;lista completa&lt;/a&gt; delle URL per questa app.&lt;/p&gt;
+&lt;p&gt;A questo giro ho:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;aggiornato tutti i podcast fino ad oggi (quindi c&amp;rsquo;è qualcosa in più)&lt;/li&gt;
+&lt;li&gt;aggiornato la sintassi XML rendendoli più moderni  (così PocketCast non si lamenta troppo)&lt;/li&gt;
+&lt;li&gt;recuperato alcuni podcast che dal sito della Rai risultano cancellati, mentre gli mp3 sono ancora lì&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>La Bibbia MCU [update agosto 2021]</title>
+      <link>https://timendum.github.io/posts/bibbia-mcu/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/bibbia-mcu/</guid>
+      <description>&lt;p&gt;Ho adattato in italiano &amp;ldquo;La Bibbia MCU&amp;rdquo;, dove si possono cercare e citare i film della Marvel come se fossero passaggi della Bibbia.&lt;/p&gt;
+&lt;h1 id=&#34;la-bibbia-mcuhttpstimendumgithubiomcuverse&#34;&gt;&lt;a href=&#34;https://timendum.github.io/mcuverse/&#34;&gt;La Bibbia MCU&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;L&amp;rsquo;idea e il codice viene da &lt;a href=&#34;https://www.reddit.com/r/marvelstudios/comments/c0sbxv/now_you_can_quote_thanos_like_its_a_bible_verse/&#34;&gt;questo post&lt;/a&gt;, io ho solo cercato, ripulito e convertito i sottotitoli italiani, più due o tre traduzioni della pagina.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update agosto 2021&lt;/strong&gt;: Ho aggiunto Spider-Man 2 e Black Widow.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Un&#39;analisi degli attuali ministri e i loro precedenti incarichi</title>
+      <link>https://timendum.github.io/posts/analisi-ministri-governo-draghi/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/analisi-ministri-governo-draghi/</guid>
+      <description>&lt;p&gt;Ispirato da un servizio di PropagandaLive
+andato in onda Venerdì scorso,
+ho messo un tabella
+l&amp;rsquo;elenco dei ministri del governo attuale 
+e i loro precedenti incarichi governativi:&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Draghi&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Conte II&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Conte I&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Gentiloni&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Renzi&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Letta&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Berlusconi IV&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Federico D&amp;rsquo;Incà&lt;/strong&gt; (M5S)&lt;/td&gt;
+&lt;td&gt;Ministro per i Rapporti con il Parlamento&lt;/td&gt;
+&lt;td&gt;Ministro per i Rapporti con il Parlamento&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Vittorio Colao&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Ministro dell&amp;rsquo;Innovazione tecnologica e transizione digitale&lt;/td&gt;
+&lt;td&gt;Capo della task force &amp;ldquo;Fase 2&amp;rdquo;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Renato Brunetta&lt;/strong&gt; (FI)&lt;/td&gt;
+&lt;td&gt;Ministro per la pubblica amministrazione&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Ministro per la pubblica amministrazione&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Mariastella Gelmini&lt;/strong&gt; (FI)&lt;/td&gt;
+&lt;td&gt;Ministra per gli Affari regionali e autonomie&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Ministra dell&amp;rsquo;istruzione, dell&amp;rsquo;università e della ricerca&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Mara Carfagna&lt;/strong&gt; (FI)&lt;/td&gt;
+&lt;td&gt;Ministra per il Sud e la Coesione territoriale&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Ministra per le pari opportunità&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Fabiana Dadone&lt;/strong&gt; (M5S)&lt;/td&gt;
+&lt;td&gt;Ministra per le politiche giovanili&lt;/td&gt;
+&lt;td&gt;Ministra per la pubblica amministrazione&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Elena Bonetti (IV)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Ministra per le pari opportunità e la famiglia&lt;/td&gt;
+&lt;td&gt;Ministra per le pari opportunità e la famiglia&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Erika Stefani&lt;/strong&gt; (Lega)&lt;/td&gt;
+&lt;td&gt;Ministra per le disabilità&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Ministra degli affari regionali e delle autonomie&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Massimo Garavaglia&lt;/strong&gt; (Lega)&lt;/td&gt;
+&lt;td&gt;Ministro del turismo&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Sottosegretario al Ministero dell&amp;rsquo;economia e delle finanze&lt;/td&gt;
+&lt;td&gt;Viceministro dell&amp;rsquo;Economia&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Luigi Di Maio&lt;/strong&gt; (M5S)&lt;/td&gt;
+&lt;td&gt;Ministro degli affari esteri e della cooperazione internazionale&lt;/td&gt;
+&lt;td&gt;Ministro degli affari esteri e della cooperazione internazionale&lt;/td&gt;
+&lt;td&gt;Ministro dello sviluppo economico+ Ministro del lavoro e delle politiche sociali&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Luciana Lamorgese&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Ministra dell&amp;rsquo;interno&lt;/td&gt;
+&lt;td&gt;Ministra dell&amp;rsquo;interno&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Lorenzo Guerini&lt;/strong&gt; (PD)&lt;/td&gt;
+&lt;td&gt;Ministro della difesa&lt;/td&gt;
+&lt;td&gt;Ministro della difesa&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Giancarlo Giorgetti&lt;/strong&gt; (Lega)&lt;/td&gt;
+&lt;td&gt;Ministro dello sviluppo economico&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Sottosegretario alla Presidenza del Consiglio dei ministri&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Stefano Patuanelli&lt;/strong&gt; (M5S)&lt;/td&gt;
+&lt;td&gt;Ministro delle politiche agricole alimentari e forestali&lt;/td&gt;
+&lt;td&gt;Ministro dello sviluppo economico&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Andrea Orlando&lt;/strong&gt; (PD)&lt;/td&gt;
+&lt;td&gt;Ministro del lavoro e delle politiche sociali&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Ministro della Giustizia&lt;/td&gt;
+&lt;td&gt;Ministro della Giustizia&lt;/td&gt;
+&lt;td&gt;Ministro dell&amp;rsquo;ambiente e della tutela del territorio e del mare&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Dario Franceschini&lt;/strong&gt; (PD)&lt;/td&gt;
+&lt;td&gt;Ministro per i beni e le attività culturali e per il turismo&lt;/td&gt;
+&lt;td&gt;Ministro per i beni e le attività culturali e per il turismo&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Ministro per i beni e le attività culturali e per il turismo&lt;/td&gt;
+&lt;td&gt;Ministro per i beni e le attività culturali e per il turismo&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Roberto Speranza&lt;/strong&gt; (Art.1)&lt;/td&gt;
+&lt;td&gt;Ministro della salute&lt;/td&gt;
+&lt;td&gt;Ministro della salute&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Nota: dalla tabella manca il Governo Monti, perché non condivide nessun ministro con il governo attuale.&lt;/p&gt;
+&lt;p&gt;Inoltre mancano anche i seguenti ministri, perché senza cariche precedenti:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Marta Cartabia (Giustizia)&lt;/li&gt;
+&lt;li&gt;Daniele Franco (Economia e finanze)&lt;/li&gt;
+&lt;li&gt;Roberto Cingolani (Ambiente e tutela del territorio e del mare )&lt;/li&gt;
+&lt;li&gt;Enrico Giovannini (Infrastrutture e trasporti)&lt;/li&gt;
+&lt;li&gt;Patrizio Bianchi (Istruzione)&lt;/li&gt;
+&lt;li&gt;Maria Cristina Messa (Università e ricerca)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Una suddivisione per regioni:&lt;/p&gt;
+&lt;table class=&#34;table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Regione&lt;/th&gt;
+&lt;th&gt;Ministri&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Lombardia&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Veneto&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lazio&lt;/td&gt;
+&lt;td&gt;1 + PdC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Basilicata&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Campania&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Emilia-Romagna&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Friuli-Venezia Giulia&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Liguria&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Piemonte&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Un anno di /r/italy (Giugno 2018-Giugno 2019)</title>
+      <link>https://timendum.github.io/posts/ritaly-2019/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/ritaly-2019/</guid>
+      <description>&lt;p&gt;Continuo con le analisi su Reddit e /r/italy in particolare.&lt;/p&gt;
+&lt;p&gt;Questa volta ho analizzato un anno di contenuti di /r/italy, dal 1 giugno 2018 al 1 giugno 2019.&lt;/p&gt;
+&lt;p&gt;Inoltre l&amp;rsquo;analisi è divisa in due parti:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;una prima sui post (numero di voti, commenti, autori, eccetera)&lt;/li&gt;
+&lt;li&gt;una seconda sulle parole (quanti commenti o post hanno generato)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;perimetro&#34;&gt;Perimetro&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;analisi include &lt;code&gt;30.373&lt;/code&gt; post dal &lt;a href=&#34;https://www.reddit.com/r/italy/comments/8no1y8/pasta_con_olio_oppure_pasta_col_burro/&#34;&gt;2018-06-01T01:46:09+00:00&lt;/a&gt; al &lt;a href=&#34;https://www.reddit.com/r/italy/comments/bvf08u/ha_reddito_cittadinanza_e_lavora_in_nero_perder%C3%A0/&#34;&gt;2019-06-01T00:31:05+00:00&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sono stati inclusi anche i post cancellati o di utenti cancellati, sempre che abbia salvato l&#39;&lt;em&gt;id&lt;/em&gt; in tempo.&lt;/p&gt;
+&lt;p&gt;Ho preferito aspettare qualche giorno per chiudere i risultati, per avere gli ultimi upvote. In ogni caso i voti dei contenuti degli ultimi sei mesi possono cambiare, in quanto non ancora archiviati da Reddit.&lt;/p&gt;
+&lt;h2 id=&#34;qualche-numero-per-partire&#34;&gt;Qualche numero per partire&lt;/h2&gt;
+&lt;p&gt;Iniziamo con qualche numero facile e generico sui post.&lt;/p&gt;
+&lt;p&gt;Il totale del karma, cioè la somma di tutti i punteggi di tutte le submission è &lt;code&gt;1.084.969&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Il numero dei commenti di tutti i post è &lt;code&gt;797.011&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;I &lt;strong&gt;self post&lt;/strong&gt; sono il &lt;code&gt;37.64%&lt;/code&gt;, cioè sono &lt;code&gt;11.433&lt;/code&gt; (su 30.373). I post NSFW sono &lt;code&gt;183&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;analisi-sui-post&#34;&gt;Analisi sui post&lt;/h2&gt;
+&lt;h3 id=&#34;i-voti&#34;&gt;I Voti&lt;/h3&gt;
+&lt;p&gt;Il &lt;strong&gt;voto medio&lt;/strong&gt; è &lt;code&gt;35.7&lt;/code&gt;, ma la deviazione standard è di &lt;code&gt;115&lt;/code&gt;, molto alta. Per capirci:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Il 25% dei post è a &lt;code&gt;1&lt;/code&gt; o meno&lt;/li&gt;
+&lt;li&gt;Il 50% dei post è a &lt;code&gt;5&lt;/code&gt; o meno&lt;/li&gt;
+&lt;li&gt;Il 75% dei post è a &lt;code&gt;25&lt;/code&gt; o meno&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Per i più curiosi, ho disegnato un &lt;a href=&#34;https://timendum.github.io/images/italy-2019/hist_score.png&#34;&gt;istogramma cumulativo&lt;/a&gt; in scala logaritmica.&lt;/p&gt;
+&lt;h4 id=&#34;la-classifica&#34;&gt;La classifica&lt;/h4&gt;
+&lt;p&gt;Ecco i 5 thread più votati:&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Punteggio&lt;/th&gt;
+&lt;th&gt;Titolo&lt;/th&gt;
+&lt;th&gt;Autore&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;3125&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/b5atml/un_doge_a_venezia/&#34;&gt;Un Doge a Venezia&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;ForLadiesPleasure&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2396&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/b78e2z/italy_early_this_morning_panorama/&#34;&gt;Italy, early this morning, panorama.&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;n0_1d&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2357&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/amzq1b/vampiri_italiani/&#34;&gt;Vampiri Italiani&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;42n8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2357&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/amdd23/evergreen/&#34;&gt;Evergreen&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;francesco11111&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2192&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/9xw60a/meanwhile_in_alto_adige/&#34;&gt;Meanwhile in Alto Adige&amp;hellip;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Duxuev&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;il-numero-di-commenti&#34;&gt;Il numero di commenti&lt;/h3&gt;
+&lt;p&gt;Il numero &lt;strong&gt;medio di commenti&lt;/strong&gt; riportati da Reddit è circa &lt;code&gt;26&lt;/code&gt;, ma la deviazione standard è di &lt;code&gt;80&lt;/code&gt;. Per capirci:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Il &lt;code&gt;25%&lt;/code&gt; dei post è a &lt;code&gt;1&lt;/code&gt; o meno&lt;/li&gt;
+&lt;li&gt;Il &lt;code&gt;50%&lt;/code&gt; dei post è a &lt;code&gt;5&lt;/code&gt; o meno&lt;/li&gt;
+&lt;li&gt;Il &lt;code&gt;75%&lt;/code&gt; dei post è a &lt;code&gt;22&lt;/code&gt; o meno (ancora meno degli upvote!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Per i più curiosi, ho disegnato un &lt;a href=&#34;https://timendum.github.io/images/italy-2019/hist_comments.png&#34;&gt;istogramma cumulativo&lt;/a&gt; in scala logaritmica.&lt;/p&gt;
+&lt;h4 id=&#34;la-classifica-1&#34;&gt;La classifica&lt;/h4&gt;
+&lt;table class=&#34;table table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Commenti&lt;/th&gt;
+&lt;th&gt;Titolo&lt;/th&gt;
+&lt;th&gt;Autore&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2023&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/aov74r/megathread_69_festival_di_sanremo_quinta_serata/&#34;&gt;[Megathread] 69° Festival di Sanremo - Quinta Serata (Finale)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Jockbaia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2009&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/bsw9g1/elezioni_europee_2019_megathread/&#34;&gt;🇪🇺🇮🇹 Elezioni Europee 2019 - Megathread 🇮🇹🇪🇺&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Lord_TheJc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1475&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/aojnul/megathread_69_festival_di_sanremo_quarta_serata/&#34;&gt;[Megathread] 69° Festival di Sanremo - Quarta Serata (Duetti)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Jockbaia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1156&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/ag4g06/caff%C3%A8_italia_150119/&#34;&gt;Caffè Italia * 15/01/19&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;RedditItalyBot&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1070&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/app3wg/caff%C3%A8_italia_120219/&#34;&gt;Caffè Italia * 12/02/19&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;RedditItalyBot&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&amp;hellip; Altri escludendo Megathread, Caffè e Casual &amp;hellip;&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Commenti&lt;/th&gt;
+&lt;th&gt;Titolo&lt;/th&gt;
+&lt;th&gt;Autore&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;771&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/9ev1qm/negozi_chiusi_la_domenica_ma_di_cosa_stiamo/&#34;&gt;Negozi chiusi la domenica&amp;hellip; ma di cosa stiamo parlando?&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;V_Frln&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;683&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/95ca1c/quali_sono_le_vostre_opinioni_impopolari/&#34;&gt;Quali sono le vostre opinioni impopolari?&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;albadellasera&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;597&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/bimi18/andrologo_here_mi_occupo_di_curare_piselli_e/&#34;&gt;Andrologo here - Mi occupo di curare piselli e palle della gente. AMA (per la terza volta!)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Mishulo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;571&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/b1brtt/attentato_in_moschea_in_nuova_zelanda_40_morti/&#34;&gt;Attentato in moschea in Nuova Zelanda, 40 morti. Sui caricatori i terroristi hanno lasciato un omaggio a Luca Traini&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;HarmfulCicada&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;525&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/b5owha/il_parlamento_europeo_approva_con_348_voti/&#34;&gt;Il parlamento europeo approva con 348 voti favorevoli e 274 contrari la direttiva sul copyright&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;accountperritaly&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;511&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/acfu9g/no_stupid_questions/&#34;&gt;No stupid questions&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;nerdvana89&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;467&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://reddit.com/r/italy/comments/9hmp04/sono_un_dentista_e_ho_pensato_di_scrivere_una/&#34;&gt;Sono un dentista e ho pensato di scrivere una guida sull&amp;rsquo;igiene orale. Spero possa esservi utile!&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;il_dentista&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;punteggio-e-numero-di-commenti&#34;&gt;Punteggio e Numero di commenti&lt;/h3&gt;
+&lt;p&gt;Di seguito un grafico di TUTTI i thread: sulle X (in orizzontale) il numero dei commenti, sulle Y (in verticale) il voto (o punteggio o score).&lt;/p&gt;
+&lt;p&gt;Per i più nerd, ne ho anche una versione &lt;a href=&#34;https://timendum.github.io/images/italy-2019/score_comments_log.png&#34;&gt;logaritmica&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2019/score_comments.png&#34; alt=&#34;Grafico punteggio e Numero di commenti&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;gli-autori&#34;&gt;Gli autori&lt;/h3&gt;
+&lt;p&gt;Analisi degli autori più attivi. I primi &lt;code&gt;13&lt;/code&gt; poster, per numero di post, totalizzano &lt;code&gt;2.944&lt;/code&gt; submission (su 30.373, quindi quasi il &lt;code&gt;10%&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;Sommando il punteggio dei loro post, arriviamo a &lt;code&gt;93.825&lt;/code&gt; karma (su 1.084.969), quindi &lt;code&gt;8.6%&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Di seguito i &lt;code&gt;13&lt;/code&gt; autori più prolifici in un grafico: sulle X (in orizzontale) il numero dei post, sulle Y il karma totale accumulato con i post.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2019/autori.png&#34; alt=&#34;Grafico autori&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;i-domini&#34;&gt;I domini&lt;/h3&gt;
+&lt;p&gt;Analizziamo ora i siti più condivisi su Reddit.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nota&lt;/strong&gt;: ho cercato di normalizzare i domini il più possibile, per convertire i link &lt;code&gt;youtu.be&lt;/code&gt; in &lt;code&gt;youtube.com&lt;/code&gt; per esempio. Qualcosa potrebbe essermi sfuggito.&lt;/p&gt;
+&lt;h4 id=&#34;i-migliori&#34;&gt;I migliori&lt;/h4&gt;
+&lt;p&gt;I migliori &lt;code&gt;3&lt;/code&gt; domini sono:&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Dominio&lt;/th&gt;
+&lt;th&gt;Karma totale&lt;/th&gt;
+&lt;th&gt;Numero di post&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;reddit.com&lt;/td&gt;
+&lt;td&gt;432.296 (39,84%)&lt;/td&gt;
+&lt;td&gt;4.330 (14,25%)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;self.italy&lt;/td&gt;
+&lt;td&gt;177.725 (16,38%)&lt;/td&gt;
+&lt;td&gt;11.433 (37,64%)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;imgur.com&lt;/td&gt;
+&lt;td&gt;94.331 (8,69%)&lt;/td&gt;
+&lt;td&gt;865 (2,85%)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;per-karma&#34;&gt;Per karma&lt;/h4&gt;
+&lt;p&gt;Un bel grafico a torta dei &lt;code&gt;10&lt;/code&gt; domini con più karma accumulato tra tutti i post.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2019/domain_score.png&#34; alt=&#34;Grafico domini per karma&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;per-numero&#34;&gt;Per numero&lt;/h4&gt;
+&lt;p&gt;Ora gli stessi &lt;code&gt;10&lt;/code&gt; domini, i valori rappresentano il numero di post.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2019/domain_number.png&#34; alt=&#34;Grafico domini per numero di post&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;gli-orari&#34;&gt;Gli orari&lt;/h3&gt;
+&lt;p&gt;Ho trovato interessante gli orari in cui vengono inviati i post, in particolare rispetto al karma accumulato e al numero di post.&lt;/p&gt;
+&lt;p&gt;In arancione il punteggio atteso, cioè &lt;code&gt;x&lt;/code&gt; per il karma totale dei post dell&amp;rsquo;anno diviso il numero di post stessi.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;orario riportato è quello relativo al fuso orario Italiano.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2019/orario.png&#34; alt=&#34;Grafico post per orario&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;i-giorni-della-settimana&#34;&gt;I giorni della settimana&lt;/h3&gt;
+&lt;p&gt;In che giorno appaiono più post? E quando vengono più votati?.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2019/dweek.png&#34; alt=&#34;Grafico post per giorno della settimana&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Non si nota molto, ma il sabato e domenica il rapporto upvote su numero di post è migliore: &lt;a href=&#34;https://timendum.github.io/images/italy-2019/dweek_orange.png&#34;&gt;grafico specifico&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;analisi-sulle-parole&#34;&gt;Analisi sulle parole&lt;/h2&gt;
+&lt;p&gt;Per questa sezione mi sono concentrato su quante volte una certa parola compare nei commenti di /r/italy.&lt;/p&gt;
+&lt;h3 id=&#34;operatori-telefonici&#34;&gt;Operatori telefonici&lt;/h3&gt;
+&lt;p&gt;Un argomento molto ricorrente sono gli operatori telefonici, le loro offerte e i disservizi.&lt;/p&gt;
+&lt;p&gt;Il grafico seguente mostra quante volte un certo operatore è stato nominato in quella settimana.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2019/operatori.png&#34; alt=&#34;Citazioni di un operatore telefonico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Per curiosità ho fatto un conto e l&#39;&lt;a href=&#34;https://it.wikipedia.org/wiki/Indice_di_correlazione_di_Pearson&#34;&gt;indice di correlazione di Pearson&lt;/a&gt; tra &amp;ldquo;vodafone&amp;rdquo; e &amp;ldquo;Iliad&amp;rdquo; è di &lt;code&gt;0.873&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;piatti&#34;&gt;Piatti&lt;/h3&gt;
+&lt;p&gt;Quali sono i piatti preferiti da r/italy?&lt;/p&gt;
+&lt;p&gt;Il seguente grafico mostra tutti i post con più di 1 voto, suddivisi per piatto.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2019/piatto.png&#34; alt=&#34;Citazione di piatti&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;cibo&#34;&gt;Cibo&lt;/h3&gt;
+&lt;p&gt;Di quale cibo si parla di più?&lt;/p&gt;
+&lt;p&gt;Il seguente grafico mostra quanti commenti sono stati fatti, per settimana.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2019/cibo.png&#34; alt=&#34;Citazioni di cibo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;i-politici&#34;&gt;I politici&lt;/h3&gt;
+&lt;p&gt;Questo invece quante volte appare il cognome di un politico nei commenti.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2019/politici.png&#34; alt=&#34;Citazione di un politico&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;focus-salvini&#34;&gt;Focus Salvini&lt;/h4&gt;
+&lt;p&gt;Avete idea di quanti post su Salvini sono stati aperti su r/italy?.&lt;/p&gt;
+&lt;p&gt;Ve lo dico io: &lt;code&gt;953&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Nel seguente grafico tutti i post con punteggio almeno 2 dove &amp;ldquo;Salvini&amp;rdquo; appare nel titolo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2019/salvini.png&#34; alt=&#34;Post su Salvini&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;tecnicismi&#34;&gt;Tecnicismi&lt;/h2&gt;
+&lt;p&gt;Ho usato PRAW per estrarre le submission, salvate per /r/italy_SS e riaggiornate.&lt;/p&gt;
+&lt;p&gt;Il tutto è stato salvato su CSV.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;analisi e i grafici sono stati fatti su Jupyter Notebook, con pandas, NumPy e matplotlib; in cloud su &lt;a href=&#34;https://notebooks.azure.com/&#34;&gt;Azure Notebook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ho formattato con Visual Studio code e buttato su Netlify.&lt;/p&gt;
+&lt;p&gt;Un grazie a LaTalpa123 per la revisione; a Fennec223 per l&amp;rsquo;idea sul grafico per giorno della settimana; a iltredici, giovablackops98, ulhio e kidmenot per le correzioni.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Orientamento delle città italiane</title>
+      <link>https://timendum.github.io/posts/orientamento-citta-italiane/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/orientamento-citta-italiane/</guid>
+      <description>&lt;p&gt;Ispirato da &lt;a href=&#34;http://geoffboeing.com/2018/07/city-street-orientations-world/&#34;&gt;questo articolo&lt;/a&gt;
+ho creato, grazie a
+&lt;a href=&#34;https://github.com/gboeing/osmnx-examples/blob/master/notebooks/17-street-network-orientations.ipynb&#34;&gt;tanto bel codice&lt;/a&gt;
+quasi già pronto,
+dei grafici che rappresentano &amp;ldquo;come sono orientate&amp;rdquo; le città italiane.&lt;/p&gt;
+&lt;p&gt;In pratica il programma,
+che trovate condiviso &lt;a href=&#34;https://notebooks.anaconda.org/timendum/street-network-orientations&#34;&gt;su anaconda&lt;/a&gt;,
+scarica da &lt;a href=&#34;http://openstreetmap.org/&#34;&gt;OpenStreetMap&lt;/a&gt;
+le strate di una città,
+poi semplifica la cartina,
+fa l&amp;rsquo;elenco delle strade che rimangono
+e ne calcola l&amp;rsquo;orientamento,
+cioè trova qual&amp;rsquo;è la loro direzione seguendo la bussola,
+quindi il tutto viene rappresentato in grafico.&lt;/p&gt;
+&lt;p&gt;Due note sui grafici:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;non sono normalizzati tra loro,
+cioè gli assi solo lunghi diversi tra grafici.&lt;/li&gt;
+&lt;li&gt;Sui grafici vengono rappresentate
+quante strade sono orientate in un certo modo.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ho analizzato le città con più abitanti d&amp;rsquo;Italia più alcune città interessanti.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/PllPntU.png&#34; alt=&#34;Roma&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/HmsZR4J.png&#34; alt=&#34;Milano&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/Lzsm9CV.png&#34; alt=&#34;Napoli&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/jzuPoug.png&#34; alt=&#34;Torino&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/u6dQozd.png&#34; alt=&#34;Palermo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/JpX9Ehy.png&#34; alt=&#34;Genova&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/yBsGGlW.png&#34; alt=&#34;Bologna&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/MP1RZaW.png&#34; alt=&#34;Firenze&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/cZPT77g.png&#34; alt=&#34;Catania&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/YDaLddB.png&#34; alt=&#34;Reggio Calabria&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/YjLijPy.png&#34; alt=&#34;Bari&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/cQGwCwE.png&#34; alt=&#34;Giulianova&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/iChp2xi.png&#34; alt=&#34;Parmanova&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/pd4CVCh.png&#34; alt=&#34;Cortemaggiore&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/h6MOs07.png&#34; alt=&#34;Bergamo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/jCx4dNu.png&#34; alt=&#34;Bitonto&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/YSRFVZD.png&#34; alt=&#34;Grammichele&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/FYJOW85.png&#34; alt=&#34;Verona&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/ImyAL6l.png&#34; alt=&#34;Messina&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/9yXfgio.png&#34; alt=&#34;Padova&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/orientamento/r5xZXB1.png&#34; alt=&#34;Latina&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Per i più curiosi
+&lt;a href=&#34;https://imgur.com/a/EBYIOIG&#34;&gt;su questo album&lt;/a&gt;
+trovate la cartina semplificata di ogni città analizzata.&lt;/p&gt;
+&lt;p&gt;Extra sui grafici:
+ho provato ad aggiungere &amp;ldquo;peso&amp;rdquo; in base alla lunghezza della strada,
+il risultato non cambia sensibilmente.&lt;/p&gt;
+&lt;p&gt;Edit: Aggiungo, a parte, &lt;a href=&#34;https://imgur.com/a/s5s4fZR&#34;&gt;Venezia&lt;/a&gt;, però tecnicamente il comune di Venezia include anche Mestre e le zone limitrofe.&lt;br&gt;
+Se passo all&amp;rsquo;isola invece, chiaramente le strade per le automobili sono pochissime, quindi devo cambiare l&amp;rsquo;estrazione dei dati per includere anche le strade pedonali etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Swag negro, il libro di Bello Figo: Analisi e generazione testo</title>
+      <link>https://timendum.github.io/posts/swag-negro-libro-bello-figo-analisi-markov/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/swag-negro-libro-bello-figo-analisi-markov/</guid>
+      <description>&lt;p&gt;Per chi non lo sapesse, questo mese è uscito &lt;a href=&#34;https://img.ibs.it/images/9788817101875_0_0_0_75.jpg&#34;&gt;Swag Negro - Nessuno ce la fa&lt;/a&gt;, il primo libro di &lt;strong&gt;Bello Figo&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Io ho preso il libro e ne ho fatta un&amp;rsquo;analisi.&lt;/p&gt;
+&lt;h1 id=&#34;qualche-numero&#34;&gt;Qualche numero&lt;/h1&gt;
+&lt;p&gt;Il libro è composto da 19,900 parole.&lt;br&gt;
+Ci sono 108,470 battute nel libro.&lt;/p&gt;
+&lt;h1 id=&#34;word-cloud&#34;&gt;Word cloud&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/swag-negro-word-cloud.png&#34; alt=&#34;Word cloud di Swag Negro&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Le parole più frequenti (escluse le stopwords) sono:&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Parola&lt;/th&gt;
+&lt;th&gt;Occorenze&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;swag&lt;/td&gt;
+&lt;td&gt;78&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;figo&lt;/td&gt;
+&lt;td&gt;56&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;bello&lt;/td&gt;
+&lt;td&gt;49&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cazzo&lt;/td&gt;
+&lt;td&gt;47&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;canzone&lt;/td&gt;
+&lt;td&gt;43&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;figa&lt;/td&gt;
+&lt;td&gt;43&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;difficile&lt;/td&gt;
+&lt;td&gt;37&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;nero&lt;/td&gt;
+&lt;td&gt;37&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;musica&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;canzoni&lt;/td&gt;
+&lt;td&gt;35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;dico&lt;/td&gt;
+&lt;td&gt;34&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;modo&lt;/td&gt;
+&lt;td&gt;34&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;niente&lt;/td&gt;
+&lt;td&gt;32&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ragazzi&lt;/td&gt;
+&lt;td&gt;32&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;piace&lt;/td&gt;
+&lt;td&gt;29&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;penso&lt;/td&gt;
+&lt;td&gt;28&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ridere&lt;/td&gt;
+&lt;td&gt;28&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;detto&lt;/td&gt;
+&lt;td&gt;26&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;fuori&lt;/td&gt;
+&lt;td&gt;26&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;successo&lt;/td&gt;
+&lt;td&gt;26&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;affitto&lt;/td&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;casa&lt;/td&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;dice&lt;/td&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;pasta&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;video&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;coppie-di-parole&#34;&gt;Coppie di parole&lt;/h1&gt;
+&lt;p&gt;Le due parole più frequenti (escluse quelle non banali, come &amp;ldquo;E il&amp;rdquo;, &amp;ldquo;sono quelle&amp;rdquo;, etc) sono:&lt;/p&gt;
+&lt;table class=&#34;table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Parole&lt;/th&gt;
+&lt;th&gt;Occorrenze&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;bello figo&lt;/td&gt;
+&lt;td&gt;32&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;pago affitto&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;troppo figo&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;gucci boy&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;figa bianka&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;mezzo milione&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;swag swag&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;trigrammi-frequenti&#34;&gt;Trigrammi frequenti&lt;/h1&gt;
+&lt;p&gt;Le tre parole più frequenti sono:&lt;/p&gt;
+&lt;table class=&#34;table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Parole&lt;/th&gt;
+&lt;th&gt;Occorrenze&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;non pago affitto&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;pasta con tonno&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;faccio una sega&lt;/td&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;la mia musica&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;con gli amici&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;il mio stile&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;le mie canzoni&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;nel mio mondo&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;tutti sanno che&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Nota: le prime 3 sono titoli di canzoni.&lt;/p&gt;
+&lt;h1 id=&#34;testo-generato&#34;&gt;Testo generato&lt;/h1&gt;
+&lt;p&gt;Con lo stesso metodo di /r/italy_SS ho generato il seguente testo:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Se vuoi puoi cambiare le cose, indipendentemente dal fatto che ci siano i profughi o meno.&lt;/p&gt;
+&lt;p&gt;Comunque Mi faccio una sega e canto Mi faccio una sega, una bomba, in un momento in cui ero solo.&lt;/p&gt;
+&lt;p&gt;Ho iniziato a palleggiare con un bambino e mi sono fatto fighe nere e se lo facessi da sempre.&lt;br&gt;
+La figa bianka… Io vedo il mondo a modo mio e ho creato uno stile di vita che loro si aspettano di trovare.&lt;br&gt;
+Che vogliono fare arte e se non è pasta è pizza.&lt;br&gt;
+SwaG è libertà di fare le cose normali non mi diverto!&lt;br&gt;
+Trollo, se voglio: mi guardo intorno e penso che non sanno un cazzo di me.&lt;/p&gt;
+&lt;p&gt;Ogni giorno metto le mie storie su Instagram, un sacco di soldi ma non riescono a risolvere questa situazione.&lt;br&gt;
+Prendo il tema forte e intorno ci metto le mie storie su Instagram, un sacco di tempo.&lt;br&gt;
+Dico cose forti, vere, ma so che le cose vadano bene, dovete pregare!&lt;br&gt;
+Canto che mi faccio una sega, mangio pasta con tonno piace a tutti.&lt;/p&gt;
+&lt;p&gt;Io conosco il dolore, ogni giorno faccio i conti con i detrattori: per un po’ mi sono sentito tutti gli occhi puntati addosso.&lt;br&gt;
+E se poi a insultarmi è un rapper non è che solo perché fai sesso sei un oggetto.&lt;br&gt;
+Questi sono i peggiori, i nazisti, poi ci sono quelli che non mi frega un cazzo di quello che pensa la gente.&lt;br&gt;
+Vogliono metterti paura, così tu la smetti di fare quello che voglio!. Perché se no vado in fissa.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analisi del contratto di Governo Lega - Movimento 5 Stelle</title>
+      <link>https://timendum.github.io/posts/analisi-contratto-governo-lega-m5s/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/analisi-contratto-governo-lega-m5s/</guid>
+      <description>&lt;p&gt;Come &lt;a href=&#34;https://www.reddit.com/r/italy/comments/8mmyct/caff%C3%A8_italia_28052018/dzp5z8t/&#34;&gt;anticipato&lt;/a&gt; ho svolto un&amp;rsquo;analisi del &lt;a href=&#34;https://www.ansa.it/documents/1526633072676_contratto_governo.pdf&#34;&gt;contratto di governo&lt;/a&gt; Movimento 5 Stelle-Lega.&lt;/p&gt;
+&lt;p&gt;Eccone i risultati:&lt;/p&gt;
+&lt;h1 id=&#34;conteggio&#34;&gt;Conteggio&lt;/h1&gt;
+&lt;h3 id=&#34;ho-contato-421-righe-con-17922-parole-i-caratteri-totali-sono-123531&#34;&gt;Ho contato 421 righe, con 17,922 parole, i caratteri totali sono 123,531.&lt;/h3&gt;
+&lt;p&gt;Per questi numeri ho contato solo parole, numeri e spazi, esclusi quindi &amp;ldquo;a capo&amp;rdquo;, numeri di pagina, etc&lt;/p&gt;
+&lt;h3 id=&#34;le-parole-significative-uniche-sono-3818-e-appaiono-9754-volte&#34;&gt;Le parole significative uniche sono 3,818 e appaiono 9,754 volte.&lt;/h3&gt;
+&lt;p&gt;Con parole significative si intendono le parole (non i numeri) almeno lunghe due e che non siano stopword.&lt;/p&gt;
+&lt;h1 id=&#34;sentiment-analisys&#34;&gt;Sentiment Analisys&lt;/h1&gt;
+&lt;p&gt;Ho passato a &lt;a href=&#34;https://cloud.google.com/natural-language/&#34;&gt;Google Natual Language&lt;/a&gt; il documento e ho registrato la polarità di ogni frase, per poter valutare se quella contiene termini negativi, positivi o neutri.&lt;/p&gt;
+&lt;p&gt;Il risultato è questo grafico:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/sentiment-contratto.png&#34; alt=&#34;Sentiment Analisys Contratto di Governo&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;le-più-frequenti&#34;&gt;Le più frequenti&lt;/h1&gt;
+&lt;p&gt;(escluse sempre le stopwords)&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Parola&lt;/th&gt;
+&lt;th&gt;Occorrenze&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;necessario&lt;/td&gt;
+&lt;td&gt;88&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sistema&lt;/td&gt;
+&lt;td&gt;64&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;occorre&lt;/td&gt;
+&lt;td&gt;58&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;attraverso&lt;/td&gt;
+&lt;td&gt;51&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;garantire&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;risorse&lt;/td&gt;
+&lt;td&gt;43&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;nazionale&lt;/td&gt;
+&lt;td&gt;37&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;paese&lt;/td&gt;
+&lt;td&gt;32&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;governo&lt;/td&gt;
+&lt;td&gt;32&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cittadini&lt;/td&gt;
+&lt;td&gt;31&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lavoro&lt;/td&gt;
+&lt;td&gt;31&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;servizi&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sviluppo&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;gestione&lt;/td&gt;
+&lt;td&gt;27&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;politiche&lt;/td&gt;
+&lt;td&gt;26&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;particolare&lt;/td&gt;
+&lt;td&gt;26&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;tutela&lt;/td&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;maggiore&lt;/td&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;formazione&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;misure&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;strumenti&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;politica&lt;/td&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;territorio&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ricerca&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;disabilità&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;pubblica&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;modo&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;nonché&lt;/td&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;riferimento&lt;/td&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;imprese&lt;/td&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;la-coppia-di-parole-più-frequenti&#34;&gt;La coppia di parole più frequenti&lt;/h1&gt;
+&lt;p&gt;(escluse quelle contenenti almeno una stopword)&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Parole&lt;/th&gt;
+&lt;th&gt;Occorrenze&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;presente contratto&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;pubblica amministrazione&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sviluppo economico&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;particolare attenzione&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;necessario garantire&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;gruppi parlamentari&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;unione europea&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;enti locali&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;economia circolare&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;particolare riferimento&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;amministrazione finanziaria&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;polizia locale&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;pratica motoria&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;impianti sportivi&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;servizio sanitario&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;livello nazionale&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sistema universitario&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;territorio nazionale&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;associazioni sportive&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;occorre introdurre&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;triplette-di-parole-più-frequenti&#34;&gt;Triplette di parole più frequenti&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Parole&lt;/th&gt;
+&lt;th&gt;Occorrenze&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;persone con disabilità&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;in termini di&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;in grado di&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;forze dell ordine&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;un sistema di&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;in materia di&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;per quanto riguarda&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;del nostro paese&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;reddito di cittadinanza&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;del sistema di&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analisi sui testi di Sanremo</title>
+      <link>https://timendum.github.io/posts/analisi-testi-sanremo-2018/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/analisi-testi-sanremo-2018/</guid>
+      <description>&lt;p&gt;Ispirato da &lt;a href=&#34;https://www.reddit.com/r/italy/comments/5srlym/qualche_dato_sui_testi_di_sanremo/&#34;&gt;questo post&lt;/a&gt; dell&amp;rsquo;anno scorso,
+ho analizzato i testi di Sanremo 2018, ecco i miei risultati:&lt;/p&gt;
+&lt;h2 id=&#34;parole-più-frequenti&#34;&gt;Parole più frequenti&lt;/h2&gt;
+&lt;p&gt;Su 925 parole uniche, in un testo di 1735 parole, le più frequenti sono:&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Parola&lt;/th&gt;
+&lt;th&gt;Totale&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;niente&lt;/td&gt;
+&lt;td&gt;42&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sbagliato&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;vita&lt;/td&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;mondo&lt;/td&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;amore&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;occhi&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;vuoi&lt;/td&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;donna&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;storia&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;capire&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;word-cloud&#34;&gt;Word cloud&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/sanremo-2018-wordcloud.png&#34; alt=&#34;Word cloud di Sanremo 2018&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;la-canzone-di-ritaly&#34;&gt;La canzone di /r/Italy&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Dallo stesso motore di /r/italy_SS ho generato un &amp;ldquo;super&amp;rdquo; testo&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;**/u/Lele_ ne ha &lt;a href=&#34;https://vocaroo.com/i/s0HjncziVrdn&#34;&gt;cantata&lt;/a&gt; un pezzo per noi!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Senti il peso di una tastiera.&lt;br&gt;
+Donna non di tutti non è un punto di vista.&lt;br&gt;
+Com’era il mondo che non potrò mai lasciare.&lt;br&gt;
+E la promessa che mi legano ad un passato vissuto mai. resta fisso e immobile.&lt;br&gt;
+Ma non c’è mai una storia unica, una carriera artistica.&lt;br&gt;
+Tu stai parlando a una persona che non ti vuole, che sembra scegliere senza te.&lt;br&gt;
+La tua vita che va avanti.&lt;br&gt;
+Ne han visti di imbrogli i miei limiti più di quanto immagini.&lt;br&gt;
+E la mia vita che ho vissuto co’ te.&lt;/p&gt;
+&lt;p&gt;Parlare sempre e non cercare niente.&lt;br&gt;
+Parlare sempre e non volere niente.&lt;/p&gt;
+&lt;p&gt;Sono consapevole che tutto intorno illumina.&lt;br&gt;
+A Londra piove sempre ma oggi non è un punto di vista.&lt;br&gt;
+Qualcosa di strano, qualcosa di buono un imprevisto.&lt;br&gt;
+Siamo senza un addio, siamo bellezza che si cambia mille volte e resta quella.&lt;br&gt;
+Io non li chiamo più lividi sono colori e ci provi ancora, ma non fingiamo sia per sempre.&lt;br&gt;
+Perché volevi cambiare il mondo prima di te.&lt;br&gt;
+N’avemo fatta de strada e de strada e de strada e de strada e de strada ancora ce n’è.&lt;/p&gt;
+&lt;p&gt;Se chiudo gli occhi vedi l’infinito in me.&lt;br&gt;
+Se chiudi gli occhi vedo l’infinito in te.&lt;/p&gt;
+&lt;p&gt;Caro amico chiedi al cielo il tuo tempo indietro, ma non pensare a niente vieni.&lt;br&gt;
+Scrivo la mia vita che ho buttato via.&lt;br&gt;
+Ti accorgerai che un mondo senza nebbia, in un mondo diverso.&lt;br&gt;
+Ora e per sempre gli occhi riusciranno a guardare.&lt;br&gt;
+Veri chiari e limpidi i ricordi che mi abbaglia e mi vesto nel posto.&lt;br&gt;
+E non capire niente, a parte questo nostro naufragare e non volere capire che.&lt;/p&gt;
+&lt;p&gt;Fuoco dentro all’anima che tutto più non c’era.&lt;br&gt;
+Il sole sulla Rambla oggi non è un punto di vista.&lt;br&gt;
+Della vita che non c’è.&lt;br&gt;
+Più niente a parte che l’amore può salvare, non volere mai ammetter che.&lt;br&gt;
+Come non abbiamo fatto a esistere.&lt;br&gt;
+Con la paura che non potrò mai lasciare.&lt;br&gt;
+E non è lo spazio di un bambino.&lt;br&gt;
+E più sarai lontana e più sarai lontana e più sarai lontana e più sarai con me.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;Per chi volesse fare altro, ecco &lt;a href=&#34;https://pastebin.com/VBsxm8rr&#34;&gt;tutti i testi raccolti&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I dati e le analisi sono rilasciate sotto creative commons license con la sigla &amp;ldquo;CC BY-NC&amp;rdquo; &lt;sup&gt;&lt;sup&gt;&lt;sup&gt;stagisti puppate&lt;/sup&gt;&lt;/sup&gt;&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Renzi vs Di Maio Simulator</title>
+      <link>https://timendum.github.io/posts/renzi-di-maio-simulator/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/renzi-di-maio-simulator/</guid>
+      <description>&lt;p&gt;Purtroppo il grande incontro è saltato, ma io non mi tiro indietro e da un&amp;rsquo;idea di /u/rocco88 ecco a voi&lt;/p&gt;
+&lt;h1 id=&#34;renzi-vs-di-maio-simulator&#34;&gt;Renzi vs Di Maio Simulator&lt;/h1&gt;
+&lt;p&gt;Dai &lt;a href=&#34;https://www.facebook.com/matteorenziufficiale/posts/&#34;&gt;rispettivi&lt;/a&gt; &lt;a href=&#34;https://www.facebook.com/LuigiDiMaio/posts/&#34;&gt;facebook&lt;/a&gt; ho catturato gli ultimi 3 mesi di interventi, li ho dati in pasto al motore di /r/italy_SS ed ecco qui il risultato. Più sotto qualche nota.&lt;/p&gt;
+&lt;h2 id=&#34;di-maio&#34;&gt;Di Maio&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Avevo chiesto il confronto con Renzi qualche giorno fa, a neutralizzare il Rosatellum sarà il voto dei cittadini.&lt;br&gt;
+Anche oggi saremo ovunque: io e Giancarlo Cancelleri a Gazzerosse, una Casa Vinicola di Mazara del Vallo e dopodomani a Marsala.&lt;br&gt;
+Decideranno loro chi votare, ma ditegli di andare a chiedere il voto dei cittadini e in Sicilia l&amp;rsquo;abbiamo già fatto.&lt;br&gt;
+Ma io non ci sto e so che non ci sono liste civetta, ammucchiate, trucchetti che tengano.&lt;br&gt;
+Io vi prometto che formeremo una squadra di Governo con cui ci presenteremo alle prossime elezioni.
+Il MoVimento 5 Stelle tra quattro mesi alle elezioni politiche.&lt;br&gt;
+Raggiungete sui social tutti i siciliani che in molti stanno aspettando.&lt;br&gt;
+Grazie Siamo in Sicilia a Randazzo con Giancarlo Cancelleri e la sua banda di impresentabili condannati e arrestati.&lt;br&gt;
+Gli ho espresso anche la nostra preoccupazione per la legge elettorale a 6 mesi dalle elezioni per provare a batterci.&lt;br&gt;
+Abituiamoci, perché se passerà la legge, un voto a Berlusconi e viceversa.&lt;br&gt;
+Alle 13 circa sarò ospite a Di Martedì, su La7.&lt;br&gt;
+Per neutralizzare la loro truffa elettorale bisogna scegliere l’unica forza che ha il coraggio di presentarsi alle elezioni senza imbrogliare.&lt;br&gt;
+Questa legge l’hanno fatta per impedire al MoVimento 5 Stelle non vuole un’Italia populista, anti-europeista o estremista.&lt;br&gt;
+Non è un libro dei sogni, è la Smart Nation che abbiamo in mente e che vogliamo realizzare.&lt;br&gt;
+È per questo che si stanno formando adesso.&lt;br&gt;
+Ad Ostia ci siamo confermati la prima forza politica del paese, cioè il MoVimento 5 Stelle.&lt;br&gt;
+Un grande grazie a Beppe Grillo e molti altri portavoce del MoVimento 5 Stelle.&lt;br&gt;
+Nonostante il calo improvviso delle temperature, un po’ di giustizia e di equità a questo Paese.&lt;br&gt;
+Continuiamo a lavorare a testa bassa, poi nei prossimi mesi la commissione antimafia analizzerà gli impresentabili delle liste.&lt;br&gt;
+In questo momento stanno provando ad accerchiarci da tutti i partiti vogliono cambiare il 5 novembre si vota.&lt;br&gt;
+L’obiettivo è fare in questa isola.&lt;br&gt;
+Con la testa, con il 30%. Come vi dicevo qualche giorno fa sono stato a Lampedusa per la prima forza politica con il voto dei cittadini.&lt;br&gt;
+Per l&amp;rsquo;abusivismo edilizio noi non abbiamo nessuna tolleranza, per la prima tappa del tour e dobbiamo essere in tanti aspettavano.&lt;br&gt;
+Dopo la bellissima piazza di ieri sera a IN ONDA su La7 dove abbiamo parlato di un millimetro.&lt;br&gt;
+Tra le facce giovani e pulite di Giancarlo Cancelleri domani alle 8.30 saremo al mercato di Sciacca ✌ Qui Sicilia.&lt;br&gt;
+Dopo essere stato scelto come candidato premier del centro e scambiato quattro chiacchiere con tutti coloro che sono stati costretti ad ingoiare solo perché avevano il nostro sguardo.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;renzi&#34;&gt;Renzi&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Oggi i dati della produzione industriale ISTAT dicono che la strategia di questi anni produce risultati.&lt;br&gt;
+E anche se non fa notizia, questa è una grande notizia anche se vorrebbero farci parlare di altro.&lt;br&gt;
+Questo significa che il MILIONE di posti di lavoro ed è la prima forma di lotta alla violenza e al bullismo.&lt;br&gt;
+Io ho semplicemente accettato perché Di Maio è il leader del Pd lo decidono le correnti, non lo decide Di Maio.&lt;br&gt;
+Ho sempre detto una cosa diversa: pieno rispetto delle istituzioni, quella della giustizia e non del giustizialismo.&lt;br&gt;
+Luigi Di Maio mi ha sfidato con un tweet a un confronto pubblico e trasparente davanti agli italiani.&lt;br&gt;
+Qui abbiamo toccato con mano lo straordinario coraggio di chi ha lavorato in miniera, di chi ha lavorato in miniera, di chi ha più difficoltà.&lt;br&gt;
+Ormai non si parla più della vita dei nostri figli vale più di qualsiasi campagna elettorale.&lt;br&gt;
+Qui abbiamo toccato con mano lo straordinario coraggio di chi ha perso il lavoro per la mancanza di credito.&lt;br&gt;
+Se invece - per paura che qualcuno rubi, organizzi controlli efficienti.&lt;br&gt;
+Ma se è vero che noi dobbiamo fare di più per queste periferie esistenziali, non solo periferie geografiche.&lt;br&gt;
+Oggi, 2 ottobre, è la festa della liberazione, la festa della liberazione, la festa della liberazione, la festa della libertà.&lt;br&gt;
+Ma siccome so quanto costi, a Tiziano, non dire quello che abbiamo fatto durante gli anni di piombo: un terrorista, un criminale.&lt;br&gt;
+C&amp;rsquo;è chi fa gli show in piazza, noi facciamo proposte per il programma del prossimo governo.&lt;br&gt;
+Non dateci ragione per il passato, ci serve che ci diano ragione per il passato, dateci ascolto per il futuro.&lt;br&gt;
+Ho provato a farlo discutendo durante il viaggio con i giornalisti da mesi perché gli ho chiesto di crederci, di partecipare.&lt;br&gt;
+Ormai non si parla più della vita dei nostri figli vale più di qualsiasi campagna elettorale.&lt;br&gt;
+Per questo sulla vicenda Battisti - dovrebbe essere affidato alla scienza, non alle divisioni di partito.&lt;br&gt;
+In questo giorno di più sulla prevenzione bisogna anche riconoscere che gli italiani di buona volontà.&lt;br&gt;
+L&amp;rsquo;ambiente è una grande notizia anche se non fa notizia, questa è la festa dei nonni.&lt;br&gt;
+E pensare che gli italiani sono tra i 30 e i 50 miliardi di euro durante i #millegiorni.&lt;br&gt;
+Il risarcimento danni lo destineremo a un&amp;rsquo;associazione che si è smarcata, si giochi sulla pelle dei bimbi.&lt;br&gt;
+Per tutelare l&amp;rsquo;onore della famiglia Di Battista figlio stavolta ha ragione: no, non è un grande dibattito politico sul tema dell&amp;rsquo;adozione.&lt;br&gt;
+La vita dei nostri figli: di questo Paese ha tutto per farcela.&lt;br&gt;
+Chi è il metro che misura il livello di civiltà di una macchina in Arabia Saudita adesso non ci dimenticheremo mai di incontri come questo.&lt;br&gt;
+Personalmente penso che chi ha conosciuto troppo presto le difficoltà dell&amp;rsquo;attuazione della Buona Scuola.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;note&#34;&gt;Note:&lt;/h3&gt;
+&lt;p&gt;Entrambi i contenuti sono moolto omogenei, fin troppi, ho imposto una coerenza di 3 (cioè chiavi di tre parole di fila) e ho dovuto scartare alcune frasi perché indistinguibili dall&amp;rsquo;originale!&lt;/p&gt;
+&lt;p&gt;Di Maio scrive molto di più, oltre i 100k contro i 66k di Renzi.&lt;/p&gt;
+&lt;p&gt;Ultimo appunto sull&amp;rsquo;incontro saltato, il &lt;a href=&#34;https://www.facebook.com/matteorenziufficiale/posts/10155390694099915&#34;&gt;post di Renzi&lt;/a&gt; ha 56.000 likes e 9.000 condivisioni, mentre &lt;a href=&#34;https://www.facebook.com/LuigiDiMaio/posts/1512987378737803&#34;&gt;Di Maio&lt;/a&gt; fa 11.000 likes e 3.600 condivisioni, senza neanche entrare in merito dei top comment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Avanti - Matteo Renzi Simulator</title>
+      <link>https://timendum.github.io/posts/avanti-matteo-renzi-simulator/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/avanti-matteo-renzi-simulator/</guid>
+      <description>&lt;p&gt;Grazie a Medialibrary, sono venuto finalmente in possesso di &lt;em&gt;Avanti&lt;/em&gt; il libro di Matteo Renzi.&lt;/p&gt;
+&lt;p&gt;Dopo il successo di &lt;a href=&#34;https://www.reddit.com/r/italy/comments/5udtly/a_testa_in_su_alessandro_di_battista_simulator/&#34;&gt;Alessandro Di Battista Simulator&lt;/a&gt;, ho quindi pensato di generare alcune frasi partendo dai più di 400kb di testo presenti, con il modello di markov, lo stesso che alimenta /r/italy_SS e /r/subredditSimulator.&lt;/p&gt;
+&lt;p&gt;Ecco il risultato, buon divertimento:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lo specchio è il mondo del virale, la finestra è il lavoro degli incentivi e del Jobs Act.&lt;br&gt;
+E sicuramente vale la pena di fare qualche ragionamento in più e dimezzare le ore della cassa integrazione.&lt;br&gt;
+Che, lungi dall’essere solo un fattore etico, siamo in presenza di una ferita inaccettabile al diritto all’uguaglianza sostanziale.&lt;br&gt;
+Per ogni telecamera nuova che viene installata, ci deve essere un euro in più investito in sicurezza, ci deve essere un videomaker o un regista teatrale che sperimenta.&lt;br&gt;
+Ma lo penso anche ricordando a me stesso che non ci sono più le banche d’affari di una volta.&lt;br&gt;
+Ragazzi come Linarello e i suoi imitatori distruggevano i telai meccanici per non far morire quella straordinaria comunità.&lt;br&gt;
+L’idea che, con la nostra fatica e il nostro tentativo di creare una squadra economica, l’“unità di missione”, a Palazzo Chigi sono dipinti come i nuovi unni.&lt;br&gt;
+In una trasmissione televisiva disponibile a fare un campionato con l’Affrico.&lt;br&gt;
+E l’8 gennaio 2008, dopo la vittoria emoziona anche i robot.&lt;/p&gt;
+&lt;p&gt;Perché quello che è accaduto con il governo dei mille giorni già definiscono in modo chiaro e puntuale.&lt;br&gt;
+I numeri del resto sono chiari e per una volta almeno ti rendi utile in casa.&lt;br&gt;
+Nella settimana della sconfitta vedo tre volte il presidente della Repubblica ha chiesto a tutte le forze politiche pensano il lavoro nello stesso modo.&lt;br&gt;
+No, non è l’impegno a dimettermi in caso di sconfitta non riconoscerà la vittoria della Clinton.&lt;br&gt;
+La mia impressione è che, al netto di tutto quello che fai, non hai il diritto di decidere da solo di andartene.&lt;br&gt;
+Ci hanno detto che la politica è un’altra.&lt;br&gt;
+In questo senso il Movimento 5 Stelle ma anche il senso del dovere.&lt;br&gt;
+La visione per la quale un avviso di garanzia non deve dimettersi automaticamente.&lt;br&gt;
+Se su alcuni punti non la penso allo stesso modo poi si alleeranno contro altri primi ministri.&lt;br&gt;
+In realtà qui l’unica cosa da cambiare è il significato autentico del costante attacco di De Bortoli.&lt;br&gt;
+Forse la ruggine per le dimissioni da presidente del Consiglio a visitare un carcere.&lt;br&gt;
+Eppure siamo circondati da una contronarrazione puramente distruttiva, che fa male all’Europa, che, da speranza politica, diventa guardiana antipatica.&lt;br&gt;
+Forse perché rimpiange la stagione dei malus, quella in cui la mia è la prima visita privata con la famiglia.&lt;br&gt;
+Puoi candidarti alla leadership e presentare i risultati di ciò che accadeva nel mondo del credito finché era legittimo farlo.&lt;br&gt;
+È soprattutto il modo di porsi nel rapporto con i paesi amici.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Note tecniche:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;se qualcuno ha altri libri che meritano, me li segnali pure, se riesco potrei replicare il risultato più che volentieri.&lt;/li&gt;
+&lt;li&gt;no, non condividerò il file originale, sarebbe una chiara violazione dei copyright del libro.&lt;/li&gt;
+&lt;li&gt;per chi volesse replicare, io ho usato &lt;a href=&#34;https://github.com/jsvine/markovify&#34;&gt;markovify&lt;/a&gt;, con i seguenti parametri: sequenze di 3/4 parole, massimo 6/10 della frase uguale all&amp;rsquo;originale.&lt;/li&gt;
+&lt;li&gt;ho dovuto eliminare una dozzina di frasi, che sono state generate uguali ad altre.&lt;/li&gt;
+&lt;li&gt;il file epub originale era molto buono, l&amp;rsquo;ho solo convertito con Calibre in txt e tolte le parti di troppo (numero del capitolo, frontespizio, colophon e simili).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Civati, the day after</title>
+      <link>https://timendum.github.io/posts/analisi-ama-civati/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/analisi-ama-civati/</guid>
+      <description>&lt;p&gt;La discussione di ieri di Civati mi ha colpito, &lt;code&gt;491&lt;/code&gt; commenti e &lt;code&gt;262&lt;/code&gt; voti. 
+Sono pochissimi i casi così tanti voti &lt;strong&gt;E&lt;/strong&gt; più commentati del caffè.&lt;/p&gt;
+&lt;p&gt;Quindi segue il mio solito thread di contenuti meta, per i più curiosi.&lt;/p&gt;
+&lt;h2 id=&#34;il-word-cloud&#34;&gt;Il word cloud&lt;/h2&gt;
+&lt;p&gt;Prima un bel mix di tutte le parole più usate, fatte a simbolo di Posssibile.&lt;br&gt;
+Ho escluso solo alcune parole molto comuni come non/per/come/più/dei/&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/civati-word-cloud.png&#34; alt=&#34;Word cloud AMA Civati&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-numeri&#34;&gt;I numeri&lt;/h2&gt;
+&lt;h3 id=&#34;chi-ha-commentato-di-più&#34;&gt;Chi ha commentato di più?&lt;/h3&gt;
+&lt;table class=&#34;table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Utente&lt;/th&gt;
+&lt;th&gt;Commenti&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;civati&lt;/td&gt;
+&lt;td&gt;58&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;xxmlgprosniperxx&lt;/td&gt;
+&lt;td&gt;40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;mirh&lt;/td&gt;
+&lt;td&gt;35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LanciaStratos93&lt;/td&gt;
+&lt;td&gt;27&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;No_grazie&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;martinomh&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jafarrolo&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MuFoliash&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;peppeuz&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;chi-ha-preso-più-karma&#34;&gt;Chi ha preso più karma?&lt;/h3&gt;
+&lt;table class=&#34;table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Utente&lt;/th&gt;
+&lt;th&gt;Karma&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;civati&lt;/td&gt;
+&lt;td&gt;481&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ionti&lt;/td&gt;
+&lt;td&gt;103&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;belokas&lt;/td&gt;
+&lt;td&gt;97&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LanciaStratos93&lt;/td&gt;
+&lt;td&gt;90&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;xxmlgprosniperxx&lt;/td&gt;
+&lt;td&gt;80&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;peppeuz&lt;/td&gt;
+&lt;td&gt;70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MuFoliash&lt;/td&gt;
+&lt;td&gt;64&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jafarrolo&lt;/td&gt;
+&lt;td&gt;57&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;im_a_c4t&lt;/td&gt;
+&lt;td&gt;54&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;le-medie&#34;&gt;Le medie&lt;/h3&gt;
+&lt;p&gt;Totale karma su commenti (cioè karma medio) per chi ha &lt;strong&gt;almeno 5 commenti&lt;/strong&gt;:&lt;/p&gt;
+&lt;table class=&#34;table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Utente&lt;/th&gt;
+&lt;th&gt;Media&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;civati&lt;/td&gt;
+&lt;td&gt;8,3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;peppeuz&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;alabarda-spaziale&lt;/td&gt;
+&lt;td&gt;6,5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ste29ebasta&lt;/td&gt;
+&lt;td&gt;5,6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MuFoliash&lt;/td&gt;
+&lt;td&gt;5,3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Osspn&lt;/td&gt;
+&lt;td&gt;4,2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;pipster33&lt;/td&gt;
+&lt;td&gt;4,1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jafarrolo&lt;/td&gt;
+&lt;td&gt;4,1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LanciaStratos93&lt;/td&gt;
+&lt;td&gt;3,3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;fagendaz&lt;/td&gt;
+&lt;td&gt;3,3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;il-commento-più-risposto&#34;&gt;Il commento più risposto?&lt;/h3&gt;
+&lt;p&gt;Ad 11 risposte si colloca primo il commento di &lt;a href=&#34;https://www.reddit.com/r/italy/comments/6jjj7u/civati_lettera_alle_ragazze_e_ai_ragazzi_del_99/djeqygb/&#34;&gt;mirazef&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Il secondo, terzo e quarto sono a 5, per rendere l&amp;rsquo;idea.&lt;/p&gt;
+&lt;h3 id=&#34;totalone&#34;&gt;Totalone&lt;/h3&gt;
+&lt;p&gt;Commenti:	&lt;code&gt;491&lt;/code&gt;
+Karma: &lt;code&gt;2.213&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Nota&lt;/em&gt;: Solo 2 sono i commenti negativi.&lt;/p&gt;
+&lt;h3 id=&#34;il-simulatore&#34;&gt;Il simulatore&lt;/h3&gt;
+&lt;p&gt;Non ne avete abbastanza di leggere? Ecco cosa ne pensa /r/italy_SS:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ma se vuole continuiamo a parlare di una cosa che distingue il m5s dagli altri. reddito di cittadinanza.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Una cosa che ho notato è che non si capisce mai un cavolo di quello che intendevo se non riesci a capirlo eh.&lt;br&gt;
+Devi pensare in ottica di cambiamento che il tuo voto o gradiresti un qualche genere di approfondimento?&lt;br&gt;
+In claris non fit interpretatio , evidentemente non si è riuscito a vincere anche se inizialmente sembrava difficile.&lt;br&gt;
+:- Non nominare la salsiccia e friarielli che proprio non si trova.&lt;br&gt;
+La risposta non esiste, ma dipende da quello che mi risulta l&amp;rsquo;accordo è saltato un paio di successi.?&lt;br&gt;
+Nel momento in cui si crede.&lt;br&gt;
+Come votare sempre il partito più grande del centrosinistra, anche se non ld rispecchia completamente?&lt;br&gt;
+verso una parte potenzialmente consistente dei giovani che non sono molto dentro alla politica per varie ragioni.&lt;/li&gt;
+&lt;li&gt;Una cosa che ho notato è che non si è riuscito a vincere anche se inizialmente sembrava difficile.&lt;br&gt;
+Più soldi per la scuola, salario minimo, politiche per la casa, che è letteralmente scomparsa, e invece è decisiva.&lt;br&gt;
+È una «missione» per il paese, per la sua capacità di competere, per la sua tenuta culturale, per la sua qualità complessiva.&lt;/li&gt;
+&lt;li&gt;Il reddito minimo garantito non è una minima parte.&lt;br&gt;
+Ma non vedo come i problemi di cui già si discute per quanto riguarda i turisti come si vuole regolare la cosa?&lt;br&gt;
+Anche nel momento in cui tu basi il tuo voto o gradiresti un qualche genere di approfondimento?&lt;br&gt;
+Io sono a favore, ma vorrei che fosse lo Stato a dover produrre, ma a dover controllare, appunto.&lt;br&gt;
+e un trend iniziato negli ultimi 15 anni e per la mancanza di lavoro ecc. ecc.&lt;br&gt;
+La seconda cosa non mi sembra che abbia il secondo e hanno percentuali da prefisso telefonico.&lt;br&gt;
+Io invece penso che abbia senso votare un partito che non faccia il contrario di quello che scrivi.&lt;br&gt;
+Più soldi per la ricerca, più soldi per la ricerca, più soldi per la ricerca, più soldi per la ricerca, più soldi per la ricerca, più soldi per la ricerca, più soldi per la ricerca, più soldi per la scuola.&lt;br&gt;
+Sto giro passo, oriento altrove il mio voto, nella speranza che non si capisce mai un cavolo di quello che scrivi.&lt;br&gt;
+Poi magari mi sbaglio, ma dire che i big data son così grandi da non poter essere nemmeno compresi facilmente, figuriamoci mantenuti e trattati.&lt;br&gt;
+Soluzioni sperimentali in ogni caso, il fatto che vada bene.&lt;br&gt;
+Il rifiuto non aiuta molto, a mio avviso, eccellente e per come si è visto.&lt;br&gt;
+Non credo, penso che sia solo un esempio di ciò che non dovrebbe essere la politica.&lt;br&gt;
+Io ho le mie idee anche se non rispecchia le mie idee.&lt;br&gt;
+Poi sarà che c&amp;rsquo;ho 18 anni in più di quelli che se ne è andato con maggiore classe.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sei mesi del caffè di /r/italy (Gennaio-Maggio 2017)</title>
+      <link>https://timendum.github.io/posts/analisi-caffe-ritaly-2017/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/analisi-caffe-ritaly-2017/</guid>
+      <description>&lt;p&gt;I più affezionati avranno capito che mi piace analizzare i contenuti di /r/italy.&lt;/p&gt;
+&lt;p&gt;Questa volta tocca ai caffè e Casual di quest&amp;rsquo;anno.&lt;/p&gt;
+&lt;h2 id=&#34;perimetro&#34;&gt;Perimetro&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;analisi include 151 post, dal &lt;a href=&#34;https://www.reddit.com/r/italy/comments/5ld83z/caff%C3%A8_italia_01012017/&#34;&gt;01/01/2017&lt;/a&gt; al &lt;a href=&#34;https://www.reddit.com/r/italy/comments/6ec9d5/caff%C3%A8_italia_31052017/&#34;&gt;31/05/2017&lt;/a&gt;.&lt;br&gt;
+Ho escluso questo mese, quando il topic ha qualche giorno i commenti tendono ad essere ancora volatili.&lt;/p&gt;
+&lt;p&gt;Sono stati inclusi tutti i commenti, anche quelli cancellati.&lt;br&gt;
+Potrebbe essere sfuggito qualche commento, perchè Reddit li pagina se sono troppi.&lt;/p&gt;
+&lt;h2 id=&#34;submission&#34;&gt;Submission&lt;/h2&gt;
+&lt;h3 id=&#34;per-autore&#34;&gt;Per autore&lt;/h3&gt;
+&lt;p&gt;Chiaramente AutoModerator ha aperto la stra grande maggioranza dei post, 129 su 151 (85%).&lt;br&gt;
+I rimanenti, per Casual Friday o per malfunzionamenti sono stati aperti da:&lt;/p&gt;
+&lt;table class=&#34;table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Autore&lt;/th&gt;
+&lt;th&gt;Quantità&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Doxep&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LaTalpa123&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MyPendrive&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cybertex1969&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;chhap&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;EnderStarways&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HaraGuroMegane&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;_samux_&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;fen0x&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;pittix&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;pumpedrabbit&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sempiternum&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;voti-per-giorni-della-settimana&#34;&gt;Voti per giorni della settimana&lt;/h3&gt;
+&lt;p&gt;Quale giorno riceve più voti?&lt;/p&gt;
+&lt;p&gt;Il &lt;strong&gt;Venerdì&lt;/strong&gt; nettamente, secondo me sia perchè &amp;ldquo;Casual&amp;rdquo; sia perchè aperto da un utente.&lt;br&gt;
+Ultima la domenica, seguita strettamente dal sabato.&lt;/p&gt;
+&lt;table class=&#34;table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Giorno&lt;/th&gt;
+&lt;th&gt;Voto medio&lt;/th&gt;
+&lt;th&gt;Quantità&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Lunedì&lt;/td&gt;
+&lt;td&gt;12.27&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Martedì&lt;/td&gt;
+&lt;td&gt;10.86&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mercoledì&lt;/td&gt;
+&lt;td&gt;10.81&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Giovedì&lt;/td&gt;
+&lt;td&gt;10.71&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Venerdì&lt;/td&gt;
+&lt;td&gt;20.52&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sabato&lt;/td&gt;
+&lt;td&gt;8.38&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Domenica&lt;/td&gt;
+&lt;td&gt;7.72&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;commenti&#34;&gt;Commenti&lt;/h2&gt;
+&lt;p&gt;Nota: sono stati estratti 43.239 commenti.&lt;/p&gt;
+&lt;h3 id=&#34;chi-commenta-di-più&#34;&gt;Chi commenta di più&lt;/h3&gt;
+&lt;p&gt;La domanda numero uno, ecco chi ne ha più di 400:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Nota&lt;/em&gt; questi insieme fanno 12.239 commenti, cioè più di un quarto dei commenti totali!&lt;br&gt;
+(comunque quasi un quarto se togliamo i &lt;em&gt;deleted&lt;/em&gt;)&lt;/p&gt;
+&lt;table class=&#34;table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Utente&lt;/th&gt;
+&lt;th&gt;Quantità&lt;/th&gt;
+&lt;th&gt;Quanti per caffè&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;[deleted]&lt;/td&gt;
+&lt;td&gt;1615&lt;/td&gt;
+&lt;td&gt;10,70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mechanicalmind&lt;/td&gt;
+&lt;td&gt;1136&lt;/td&gt;
+&lt;td&gt;7,52&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;annoyed_by_myself&lt;/td&gt;
+&lt;td&gt;1006&lt;/td&gt;
+&lt;td&gt;6,66&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LanciaStratos93&lt;/td&gt;
+&lt;td&gt;822&lt;/td&gt;
+&lt;td&gt;5,44&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wongfeihong&lt;/td&gt;
+&lt;td&gt;792&lt;/td&gt;
+&lt;td&gt;5,25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Trickyhere&lt;/td&gt;
+&lt;td&gt;781&lt;/td&gt;
+&lt;td&gt;5,17&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;IronMew&lt;/td&gt;
+&lt;td&gt;776&lt;/td&gt;
+&lt;td&gt;5,14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lus_&lt;/td&gt;
+&lt;td&gt;669&lt;/td&gt;
+&lt;td&gt;4,43&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;aWhiteSunset&lt;/td&gt;
+&lt;td&gt;542&lt;/td&gt;
+&lt;td&gt;3,59&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Doxep&lt;/td&gt;
+&lt;td&gt;504&lt;/td&gt;
+&lt;td&gt;3,34&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lorenzojc&lt;/td&gt;
+&lt;td&gt;492&lt;/td&gt;
+&lt;td&gt;3,26&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;pokerissimo&lt;/td&gt;
+&lt;td&gt;477&lt;/td&gt;
+&lt;td&gt;3,16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HaraGuroMegane&lt;/td&gt;
+&lt;td&gt;468&lt;/td&gt;
+&lt;td&gt;3,10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AndreaGot&lt;/td&gt;
+&lt;td&gt;450&lt;/td&gt;
+&lt;td&gt;2,98&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Grethee&lt;/td&gt;
+&lt;td&gt;443&lt;/td&gt;
+&lt;td&gt;2,93&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LaTalpa123&lt;/td&gt;
+&lt;td&gt;431&lt;/td&gt;
+&lt;td&gt;2,85&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;avlas&lt;/td&gt;
+&lt;td&gt;421&lt;/td&gt;
+&lt;td&gt;2,79&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;martinomh&lt;/td&gt;
+&lt;td&gt;414&lt;/td&gt;
+&lt;td&gt;2,74&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/caffe-2017/autori.png&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A disposizione anche il &lt;strong&gt;&lt;a href=&#34;https://thimbleprojects.org/timendum/286404/commenti-autore.html&#34;&gt;Tabellone completo&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;commenti-per-orario&#34;&gt;Commenti per orario&lt;/h3&gt;
+&lt;p&gt;Quando si commenta sul caffè?&lt;/p&gt;
+&lt;p&gt;Dire che il picco è ovviamente tre le 9 e le 12 ma c&amp;rsquo;è una buona contribuzione fino alle 16.&lt;/p&gt;
+&lt;p&gt;Come mai il picco alle 5/6? Perché NeckWarmer93 posta il suo contatore a tra le 5 e le 6. Più &lt;a href=&#34;https://www.reddit.com/r/italy/comments/6cs2z4/caff%C3%A8_italia_23052017/dhx0o6f/&#34;&gt;questo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/caffe-2017/orario.png&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;
+&lt;table class=&#34;table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Ora&lt;/th&gt;
+&lt;th&gt;Voto medio&lt;/th&gt;
+&lt;th&gt;Quantità&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;1,40&lt;/td&gt;
+&lt;td&gt;363&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1,33&lt;/td&gt;
+&lt;td&gt;175&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1,24&lt;/td&gt;
+&lt;td&gt;66&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1,17&lt;/td&gt;
+&lt;td&gt;41&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;4,27&lt;/td&gt;
+&lt;td&gt;67&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;8,87&lt;/td&gt;
+&lt;td&gt;101&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;7,13&lt;/td&gt;
+&lt;td&gt;160&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;5,89&lt;/td&gt;
+&lt;td&gt;636&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;4,94&lt;/td&gt;
+&lt;td&gt;1918&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;3,77&lt;/td&gt;
+&lt;td&gt;4084&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;2,99&lt;/td&gt;
+&lt;td&gt;4918&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;2,74&lt;/td&gt;
+&lt;td&gt;5033&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;2,58&lt;/td&gt;
+&lt;td&gt;4285&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;2,56&lt;/td&gt;
+&lt;td&gt;3570&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;2,34&lt;/td&gt;
+&lt;td&gt;3636&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;2,28&lt;/td&gt;
+&lt;td&gt;2894&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;2,27&lt;/td&gt;
+&lt;td&gt;2444&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;2,05&lt;/td&gt;
+&lt;td&gt;1990&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;2,25&lt;/td&gt;
+&lt;td&gt;1612&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;td&gt;2,04&lt;/td&gt;
+&lt;td&gt;1368&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;2,08&lt;/td&gt;
+&lt;td&gt;1219&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;1,84&lt;/td&gt;
+&lt;td&gt;1049&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;td&gt;1,68&lt;/td&gt;
+&lt;td&gt;927&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;td&gt;1,55&lt;/td&gt;
+&lt;td&gt;683&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;A disposizione anche il &lt;strong&gt;&lt;a href=&#34;https://thimbleprojects.org/timendum/286404/commenti-orario.html&#34;&gt;Grafico interattivo&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;risposte-per-orario&#34;&gt;Risposte per orario&lt;/h3&gt;
+&lt;p&gt;A che ora si ricevono più risposte?&lt;/p&gt;
+&lt;p&gt;Praticamente la metà dei commenti riceve una riposta, sensibilmente di meno solo quelli tra la mezzanotte e l&amp;rsquo;apertura.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/caffe-2017/risposte.png&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;
+&lt;table class=&#34;table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Ora&lt;/th&gt;
+&lt;th&gt;Risposte medie&lt;/th&gt;
+&lt;th&gt;Con risp&lt;/th&gt;
+&lt;th&gt;Senza rips&lt;/th&gt;
+&lt;th&gt;%&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;1,04&lt;/td&gt;
+&lt;td&gt;124&lt;/td&gt;
+&lt;td&gt;239&lt;/td&gt;
+&lt;td&gt;34%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1,00&lt;/td&gt;
+&lt;td&gt;46&lt;/td&gt;
+&lt;td&gt;129&lt;/td&gt;
+&lt;td&gt;26%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1,00&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;52&lt;/td&gt;
+&lt;td&gt;21%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1,00&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;33&lt;/td&gt;
+&lt;td&gt;20%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;1,88&lt;/td&gt;
+&lt;td&gt;42&lt;/td&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;td&gt;63%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;2,00&lt;/td&gt;
+&lt;td&gt;72&lt;/td&gt;
+&lt;td&gt;29&lt;/td&gt;
+&lt;td&gt;71%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;2,18&lt;/td&gt;
+&lt;td&gt;124&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;td&gt;78%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;2,01&lt;/td&gt;
+&lt;td&gt;450&lt;/td&gt;
+&lt;td&gt;186&lt;/td&gt;
+&lt;td&gt;71%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;1,86&lt;/td&gt;
+&lt;td&gt;1312&lt;/td&gt;
+&lt;td&gt;606&lt;/td&gt;
+&lt;td&gt;68%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;1,66&lt;/td&gt;
+&lt;td&gt;2661&lt;/td&gt;
+&lt;td&gt;1423&lt;/td&gt;
+&lt;td&gt;65%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;1,57&lt;/td&gt;
+&lt;td&gt;3008&lt;/td&gt;
+&lt;td&gt;1910&lt;/td&gt;
+&lt;td&gt;61%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;1,47&lt;/td&gt;
+&lt;td&gt;3044&lt;/td&gt;
+&lt;td&gt;1989&lt;/td&gt;
+&lt;td&gt;60%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;1,48&lt;/td&gt;
+&lt;td&gt;2495&lt;/td&gt;
+&lt;td&gt;1790&lt;/td&gt;
+&lt;td&gt;58%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;1,39&lt;/td&gt;
+&lt;td&gt;2038&lt;/td&gt;
+&lt;td&gt;1532&lt;/td&gt;
+&lt;td&gt;57%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;1,36&lt;/td&gt;
+&lt;td&gt;1932&lt;/td&gt;
+&lt;td&gt;1704&lt;/td&gt;
+&lt;td&gt;53%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;1,35&lt;/td&gt;
+&lt;td&gt;1627&lt;/td&gt;
+&lt;td&gt;1267&lt;/td&gt;
+&lt;td&gt;56%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;1,35&lt;/td&gt;
+&lt;td&gt;1325&lt;/td&gt;
+&lt;td&gt;1119&lt;/td&gt;
+&lt;td&gt;54%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;1,26&lt;/td&gt;
+&lt;td&gt;1016&lt;/td&gt;
+&lt;td&gt;974&lt;/td&gt;
+&lt;td&gt;51%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;1,30&lt;/td&gt;
+&lt;td&gt;867&lt;/td&gt;
+&lt;td&gt;745&lt;/td&gt;
+&lt;td&gt;54%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;td&gt;1,27&lt;/td&gt;
+&lt;td&gt;668&lt;/td&gt;
+&lt;td&gt;700&lt;/td&gt;
+&lt;td&gt;49%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;1,23&lt;/td&gt;
+&lt;td&gt;574&lt;/td&gt;
+&lt;td&gt;645&lt;/td&gt;
+&lt;td&gt;47%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;1,19&lt;/td&gt;
+&lt;td&gt;533&lt;/td&gt;
+&lt;td&gt;516&lt;/td&gt;
+&lt;td&gt;51%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;td&gt;1,14&lt;/td&gt;
+&lt;td&gt;426&lt;/td&gt;
+&lt;td&gt;501&lt;/td&gt;
+&lt;td&gt;46%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;td&gt;1,13&lt;/td&gt;
+&lt;td&gt;279&lt;/td&gt;
+&lt;td&gt;404&lt;/td&gt;
+&lt;td&gt;41%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;A disposizione anche il &lt;strong&gt;&lt;a href=&#34;https://thimbleprojects.org/timendum/286404/commenti-risposte.html&#34;&gt;Grafico interattivo&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;tipo-di-commenti&#34;&gt;Tipo di commenti&lt;/h3&gt;
+&lt;p&gt;Più di 4 commenti su 5 sono risposte, quindi meno di 1 su 5 sono commenti di primo livello.&lt;/p&gt;
+&lt;table class=&#34;table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Tipo&lt;/th&gt;
+&lt;th&gt;Quantità&lt;/th&gt;
+&lt;th&gt;Percentuale&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Risposta&lt;/td&gt;
+&lt;td&gt;36191&lt;/td&gt;
+&lt;td&gt;83,7%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Primo livello&lt;/td&gt;
+&lt;td&gt;7048&lt;/td&gt;
+&lt;td&gt;16,3%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/caffe-2017/tipo.png&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;i-commenti-più-lunghi&#34;&gt;I commenti più lunghi&lt;/h3&gt;
+&lt;p&gt;La top 3 dei commenti con il testo più lungo vede:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;6.695 - &lt;a href=&#34;https://www.reddit.com/r/italy/comments/6btm28/caff%C3%A8_italia_18052017/dhprno6/&#34;&gt;mangia vegetariano&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;6.684 - &lt;a href=&#34;https://www.reddit.com/r/italy/comments/5wlhov/caff%C3%A8_italia_28022017/debjrvc/?context=3&#34;&gt;il parere su Arrival&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;5.940 - &lt;a href=&#34;https://www.reddit.com/r/italy/comments/63yf8t/casual_friday_in_libert%C3%A0/dfy6tkj/?context=10&#34;&gt;la difesa della Finlandia&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Per capirci sono lunghi la metà del &lt;a href=&#34;http://www.quirinale.it/elementi/Continua.aspx?tipo=Discorso&amp;amp;key=525&#34;&gt;Discorso di fine anno 2016&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Il più corto riceve 9 voti ed è lungo &lt;a href=&#34;https://www.reddit.com/r/italy/comments/5rd12u/caff%C3%A8_italia_01022017/dd6syna/?context=2&#34;&gt;ZERO&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;casi-notevoli&#34;&gt;Casi notevoli&lt;/h2&gt;
+&lt;p&gt;Ci sono tre commenti (attualmente) piu votati, a 53:
+&lt;a href=&#34;https://www.reddit.com/r/italy/comments/67dyrz/caff%C3%A8_italia_25042017/dgptm91/&#34;&gt;Doxep e il Flixbus&lt;/a&gt;, 
+&lt;a href=&#34;https://www.reddit.com/r/italy/comments/5xqwm2/caff%C3%A8_italia_06032017/dekjaiq/&#34;&gt;Peduls e la famiglia in partenza&lt;/a&gt;,
+&lt;a href=&#34;https://www.reddit.com/r/italy/comments/5t5quc/causal_friday_finalmente/ddkepwl/&#34;&gt;segolas e i blackout&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Il commento più risposto &lt;a href=&#34;https://www.reddit.com/r/italy/comments/62j99d/ma_quanto_%C3%A8_casual_questo_friday/dfnieqe/&#34;&gt;Su cos&amp;rsquo;era la tesina di maturità?&lt;/a&gt; con 21 risposte.&lt;/p&gt;
+&lt;p&gt;Il caffè più votato è stato il &lt;a href=&#34;https://www.reddit.com/r/italy/comments/62j99d/ma_quanto_%C3%A8_casual_questo_friday/&#34;&gt;31/03&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I caffè meno votati sono stati il &lt;a href=&#34;https://www.reddit.com/r/italy/comments/5xxxzd/caff%C3%A8_italia_07032017/&#34;&gt;07/03&lt;/a&gt; e il &lt;a href=&#34;https://www.reddit.com/r/italy/comments/5nv6va/caff%C3%A8_italia_14012017/&#34;&gt;14/01&lt;/a&gt; con 3 voti.&lt;/p&gt;
+&lt;p&gt;Il commento meno votato che ho trovato è a &lt;a href=&#34;https://www.reddit.com/r/italy/comments/64vnty/caff%C3%A8_italia_12042017/dg5lbh5/&#34;&gt;-27&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;gold&#34;&gt;Gold&lt;/h2&gt;
+&lt;p&gt;Tre commenti hanno ricevuto il gold:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/italy/comments/6drotr/caff%C3%A8_italia_28052017/di5ujo5/&#34;&gt;La vita è un materasso&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/italy/comments/5q0sak/caff%C3%A8_italia_25012017/dcvot1j/&#34;&gt;L&amp;rsquo;anniversario meta di sempiternum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/italy/comments/5np2fb/casual_friday_al_freddo_e_al_gelo/dcdgltu/&#34;&gt;natsws in giappone&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tecnicismi&#34;&gt;Tecnicismi&lt;/h2&gt;
+&lt;p&gt;Ho usato PRAW per estrarre le submission (tramite la ricerca flair:/r/italy), ho aggiunto quelle mancanti a mano, quindi ho estratto i commenti.&lt;/p&gt;
+&lt;p&gt;SQLite ed un pizzico di Excel per elaborare i dati.&lt;/p&gt;
+&lt;p&gt;I grafici interattivi stanno sul bellissimo &lt;a href=&#34;https://thimbleprojects.org/timendum/286404/&#34;&gt;Thimble&lt;/a&gt; di Mozilla e sono fatti con &lt;a href=&#34;https://developers.google.com/chart/interactive/docs/&#34;&gt;Google Charts&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grafici su Place e Reddit Italia</title>
+      <link>https://timendum.github.io/posts/grafici-place-ritaly/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/grafici-place-ritaly/</guid>
+      <description>&lt;p&gt;Reddit ha rilasciato il &lt;a href=&#34;https://www.reddit.com/r/redditdata/comments/6640ru/place_datasets_april_fools_2017/&#34;&gt;dataset completo&lt;/a&gt; di /r/place. Io ho incrociato i dati con gli utenti di Reddit italia e questo è il risultato&lt;/p&gt;
+&lt;h2 id=&#34;i-colori-più-usati&#34;&gt;I colori più usati&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/rplace/colori.png&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;immagine parla da sé!&lt;/p&gt;
+&lt;h2 id=&#34;gli-utenti-più-attivi&#34;&gt;Gli utenti più attivi&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/rplace/utenti.png&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ecco la top ten:&lt;/p&gt;
+&lt;table class=&#34;table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;utente&lt;/th&gt;
+&lt;th&gt;click&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Poggor&lt;/td&gt;
+&lt;td&gt;357&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;yupswing&lt;/td&gt;
+&lt;td&gt;319&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;EnderStarways&lt;/td&gt;
+&lt;td&gt;282&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Rerecursing&lt;/td&gt;
+&lt;td&gt;275&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Diffeomorphisms&lt;/td&gt;
+&lt;td&gt;251&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;TheHammerstein&lt;/td&gt;
+&lt;td&gt;245&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PotatoResearch&lt;/td&gt;
+&lt;td&gt;242&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ENSilLosco&lt;/td&gt;
+&lt;td&gt;238&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ThePopeShitsInHisHat&lt;/td&gt;
+&lt;td&gt;229&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;un_Fiorentino&lt;/td&gt;
+&lt;td&gt;223&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;I dati completi su &lt;a href=&#34;http://www.sharecsv.com/s/04a27ec539dbcb17917258c5aecca94e/new%205.csv&#34;&gt;sharecsv&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;la-zona-più-combattuta&#34;&gt;La zona più combattuta&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/rplace/combattimenti.png&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;La parte alta sinistra della bandiera, con la vespa e il cuore UK.&lt;/p&gt;
+&lt;h2 id=&#34;come-ho-fatto&#34;&gt;Come ho fatto&lt;/h2&gt;
+&lt;p&gt;Ho considerato utenti di Reddit Italia chi abbia fatto almeno 2 commenti sui reddit italiani (alcuni) a marzo.&lt;/p&gt;
+&lt;p&gt;Potete trastullarvi anche voi, su BigQuery, io ho fatto SQL Standard (non legacy) ecco le query:&lt;/p&gt;
+&lt;p&gt;Parte comune:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;WITH users AS
+  (SELECT TO_BASE64(SHA1(comments.author)) as sha, comments.author as author
+   FROM `fh-bigquery.reddit_comments.2017_03` as comments
+   WHERE comments.subreddit in (&#39;italy&#39;, &#39;italyInformatica&#39;, &#39;perlediritaly&#39;, &#39;ItalyMotori&#39;, &#39;ITAGLIA&#39;)
+   group by comments.author
+   HAVING count(*) &amp;gt; 2)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Utenti:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;SELECT author, count(*)
+FROM `reddit-jg-data.place_events.all_tile_placements` as place
+LEFT JOIN users ON users.sha = place.user
+WHERE users.sha is not null
+group by author    
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Coordinate:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;SELECT x_coordinate, y_coordinate, count(*) as clicks
+FROM `reddit-jg-data.place_events.all_tile_placements` as place
+LEFT JOIN users ON users.sha = place.user
+WHERE users.sha is not null
+group by x_coordinate, y_coordinate
+having count(*) &amp;gt; 1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Colore:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;SELECT color, count(*) as clicks
+FROM `reddit-jg-data.place_events.all_tile_placements` as place
+LEFT JOIN users ON users.sha = place.user
+WHERE users.sha is not null
+group by color
+having count(*) &amp;gt; 1&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analisi dei contenuti con gold su r/italy</title>
+      <link>https://timendum.github.io/posts/ritaly-gold/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/ritaly-gold/</guid>
+      <description>&lt;p&gt;Come chiesto da LaTalpa123, ecco una personale analisi dei contenuti di /r/italy che hanno ricevuto il gold.&lt;/p&gt;
+&lt;h2 id=&#34;perimetro&#34;&gt;Perimetro&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;analisi include 99 post, dal &lt;a href=&#34;https://np.reddit.com/r/italy/comments/3lecya/ieri_sera_ho_mangiato_allosteria_francescana_di/&#34;&gt;18/09/2015&lt;/a&gt; a oggi (ieri in realtà l&#39;&lt;a href=&#34;https://np.reddit.com/r/italy/comments/5ziuim/come_immaginate_fisicamente_gli_utenti_di_ritaly/&#34;&gt;ultimo&lt;/a&gt; registrato).&lt;/p&gt;
+&lt;h2 id=&#34;grafici&#34;&gt;Grafici&lt;/h2&gt;
+&lt;h3 id=&#34;gold-su-tempo&#34;&gt;Gold su tempo&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/gold-tempo.jpg&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Blu = conteggio contenuti con gold&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Verde = somma dei valore&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ho eliminato ultimo e primo mese, in quanto potenzialmente incompleti.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Commento personale&lt;/strong&gt;: ad agosto tutti in ferie&lt;/p&gt;
+&lt;h3 id=&#34;gold-per-voto&#34;&gt;Gold per voto&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/gold-voto.jpg&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Blu = submission&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Verde = commenti&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NOTA&lt;/strong&gt;: ho dovuto eliminare &lt;a href=&#34;https://np.reddit.com/r/italy/comments/5gaxee/me_irl/&#34;&gt;questo&lt;/a&gt; perchè troppo fuori scala (2177 contro &amp;lt;500 del secondo)&lt;/p&gt;
+&lt;h2 id=&#34;tabelle-dei-notabili&#34;&gt;Tabelle dei notabili&lt;/h2&gt;
+&lt;h3 id=&#34;quanto-gold&#34;&gt;Quanto gold&lt;/h3&gt;
+&lt;p&gt;Per tipo:&lt;/p&gt;
+&lt;table class=&#34;table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Tipologia&lt;/th&gt;
+&lt;th&gt;quantità totale&lt;/th&gt;
+&lt;th&gt;numero volte&lt;/th&gt;
+&lt;th&gt;media&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Commento&lt;/td&gt;
+&lt;td&gt;31&lt;/td&gt;
+&lt;td&gt;27&lt;/td&gt;
+&lt;td&gt;1,148148148&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Link&lt;/td&gt;
+&lt;td&gt;73&lt;/td&gt;
+&lt;td&gt;72&lt;/td&gt;
+&lt;td&gt;1,013888889&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Quindi i commenti pagano poco di più ma capita molto meno spesso (meno della metà)&lt;/p&gt;
+&lt;h3 id=&#34;chi-ha-ricevuto-più-gold&#34;&gt;Chi ha ricevuto più Gold&lt;/h3&gt;
+&lt;table class=&#34;table-striped&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;utente&lt;/th&gt;
+&lt;th&gt;quantità totale&lt;/th&gt;
+&lt;th&gt;numero di volte&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;/u/LaTalpa123&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;/u/ElSelby&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;/u/BoxMulder&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;/u/LanciaStratos93&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;/u/vehement_nihilist&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;/u/kastardenna18&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;/u/Micolash90&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;/u/badgirlgoneworse&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;/u/giganterossa&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;/u/macedogna&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;/u/matart91&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;/u/sempiternum&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;/u/ZugNachPankow&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;casi-estremi&#34;&gt;Casi estremi&lt;/h3&gt;
+&lt;p&gt;Il punteggio peggiore, tra tutti i gold è di &lt;a href=&#34;https://np.reddit.com/comments/5c29lc//d9t667j&#34;&gt;Signor_Rana&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;unico altro negativo è di &lt;a href=&#34;https://np.reddit.com/comments/4vgfwk//d5yey8n&#34;&gt;LanciaStratos93&lt;/a&gt;, ma solo -1.&lt;/p&gt;
+&lt;p&gt;(non ci sono stati gold a submission non positive [il minimo dei post è 0]).&lt;/p&gt;
+&lt;p&gt;Il migliore è del periodo &lt;a href=&#34;https://np.reddit.com/r/italy/comments/5gaxee/me_irl/&#34;&gt;panettone/pandoro&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Il miglior link successivo si assesta a &lt;a href=&#34;https://np.reddit.com/comments/3o7bh8//cvuoi0n&#34;&gt;355&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Il contenuto con più gold è di &lt;a href=&#34;https://np.reddit.com/r/italy/comments/4u3y8v/suspense_oc/&#34;&gt;suspance di BoxMulder&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;tecnicismi&#34;&gt;Tecnicismi&lt;/h2&gt;
+&lt;p&gt;Ho usato PRAW per estrarre i gold di italy.&lt;/p&gt;
+&lt;p&gt;Excel per elaborare i dati.&lt;/p&gt;
+&lt;p&gt;Trovate i dati dell&amp;rsquo;estrazione su &lt;a href=&#34;http://www.sharecsv.com/s/ef327b8d8d279fe3c591ec730bbc5947/gold.csv&#34;&gt;sharecsv&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A testa in su - Alessandro Di Battista Simulator</title>
+      <link>https://timendum.github.io/posts/testa-alessandro-di-battista-simulator/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/testa-alessandro-di-battista-simulator/</guid>
+      <description>&lt;p&gt;Grazie a Medialibrary sono venuto finalmente in possesso di &lt;em&gt;A testa in su&lt;/em&gt; il libro di Alessandro Di Battista.&lt;/p&gt;
+&lt;p&gt;Ho quindi pensato di generare alcune frasi partendo dai quasi 350kb di testo presenti, con il modello di markov, lo stesso che alimenta /r/italy_SS e /r/subredditSimulator.&lt;/p&gt;
+&lt;p&gt;Ecco il risultato (per essere onesti ho rimosso le frasi doppie e chiuso una virgoletta), buon divertimento:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Io non sono in grado di prendere la palla al balzo.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Stavo bene, ero orgoglioso del viaggio che avevo fatto in Guatemala e di quanto le esplorazioni petrolifere le stessero minacciando.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Vorrei che un giorno vi trasformaste in una mosca per poter svolazzare indisturbato in Parlamento e per sciogliere alcuni nodi su di noi.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lo fanno attraverso i mezzi di informazione, dalla frequenza con la quale viviamo può illuminarla dandole una luce differente.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Arrivò alla prua del battello e da lì avrei preso un volo low cost per Roma.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tele-visione significa «vedere da lontano», io voglio vedere da vicino il Parlamento, i politici che non si lasciano comprare.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Noi, a parte il cinquanta per cento di quei 3600 euro per le spese telefoniche ma lui ne spende solo 500?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Rendetele felici e sarete felici anche voi”. Mio padre non mi ha detto niente?» Non sapevo darmi una risposta.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Avevo la possibilità di condizionare le mie scelte e io non avevo voglia di stare in una società o vivere ai suoi margini.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nella mia testa l’unica arma che avevo in corpo, era la rabbia di milioni di euro di denari pubblici alle banche private.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Non c’è lobby che mi abbia finanziato, non c’è criminale che mi abbia sostenuto, non c’è finanziatore che mi abbia sostenuto, non c’è finanziatore che mi abbia garantito pacchetti di voti.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Si complimentò per il nostro lavoro: se c’è da girare l’Italia per far conoscere il M5S ai cittadini.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Purtroppo si tratta di indispensabile spirito di adattamento, altre volte di un politico che promette prima delle elezioni europee del 2014.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Io comprendo l’insindacabilità, ovvero il fatto che una forza politica che ha tra le sue regole e le sue festività.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;La regola dei due mandati è la migliore garanzia che chi ha la forza di decidersi non è mica colpa loro!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ciononostante, spendendo, ripeto, tutto quel che conta davvero nella vita non si può misurare, così come l’eredità di Gianroberto.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Erano i primi giorni in Parlamento e vedere quel che vedo fare alla stragrande maggioranza dei deputati.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Avevo dormito un paio d’ore fino a che conobbi una signora.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Vi eravamo appena entrati e la Camera dei deputati, ovvero colui che ha la responsabilità di spiegare il M5S alle persone in strada.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nonostante questo siamo riusciti a mettere da parte milleseicento euro al mese non sentirei con la giusta dose di umiltà.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Arrivò alla prua del battello e da lì ero riuscito a entrare profondamente in contatto con il divino.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;È colpa della Costituzione se non si è professionisti della politica e delle loro famiglie.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Camerini, truccatori, luci, pubblico, diretta TV, scaletta, gente che ti dà una mano anche se non moriamo nel mar Mediterraneo.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Quel che è certo è che non basta essere onesti se i partiti di governo e di aver sacrificato la politica sull’altare della finanza internazionale.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ogni giorno leggevo un mucchio di persone che sono delle vere e proprie cavie del mio spagnolo.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Camerini, truccatori, luci, pubblico, diretta TV, scaletta, gente che ti dà una mano anche se non un uomo semplice.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Commettere errori è inevitabile, ancora di più per spiegare quel che è anormale fuori diventa normale dentro e viceversa.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Quando nel 2000 un altro ragazzo perse la vita in Parlamento, e la prima cosa che avrebbe fatto sarebbe stata dirmelo.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Io sono convinto che la battaglia del presente, e del futuro, non sarà tra le ideologie di destra e sinistra?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In primis, smettere di frequentare i miei amici stavano cercando lavoro.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Io venivo da due anni in lentezza e sobrietà e avevo avuto il coraggio di viaggiare, di ascoltare i consigli del cuscino.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«Io sono fiero di essere figlio di mio padre sono di mio padre e ancor meno stava riuscendo a mettermici lei.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Il visto me l’ero procurato a Città del Messico e da lì andai a piedi fino alla Casaleggio.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;La sobrietà è un valore, non soltanto perché ne avevo una gran voglia di parlare.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;E anziani che avrebbero voluto vedere i loro cari perdere tutto quel che in realtà dovrebbero essere approvati in circostanze straordinarie.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In Guatemala e forse ancora di più per spiegare quel che è successo in Italia negli ultimi quattro anni?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«La TV, certamente, mi ha permesso anche di scrivere un libro per noi?» «Io non ho mai conosciuto nessuno tanto schietto e onesto.»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Da mesi non ricevevano lo stipendio e destinare decine di milioni di cittadini al di sotto della soglia di povertà?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«Quindi per lei non è un problema, il fascismo non è un vero amico, e andrebbe ascoltato di più.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;E, credetemi, eravamo sicuri che ce l’avremmo fatta a proseguire quel che Gianroberto aveva seminato molto bene durante la sua vita.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Non avete idea di quel che si sogna illudendosi che un giorno le sarebbero scottati.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;E, su quella bilancia, la paura di dover tornare a casa con occhi nuovi.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Mi sentivo un fallito a Roma, in ufficio, a lavorare ore e ore bus, pranzi, riunioni, appuntamenti vari.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;È un appello a mettersi in viaggio e te ne esci con un paio di orrendi pantaloni tagliati all’altezza del ginocchio.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Io stavo in piedi, avevo avuto la conferma che tutto quel che avevano costruito li avrebbe segnati per sempre.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Il problema era il messaggio che i mezzi di informazione, dalla frequenza con la quale abbiamo trattato coloro che hanno gambe che si sono dimenticate di volare.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Gianroberto era un uomo, semplicemente, anche se non è del tutto ininfluente e anzi, in un certo senso, la mia autostima.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Chi lo dice che non è più soltanto un diritto ma è anche un dovere.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ti va di scrivere un piccolo progetto per metter su una band ma entrare in relazione con gli altri.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dopo averlo stirato con cura, mia madre mi avrebbe rimproverato e poi mi fece una domanda straordinaria.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ogniqualvolta conosco una persona che nemmeno conoscevano in cambio di un materasso nel salotto di casa.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ora immaginate di essere parlamentari della Repubblica tagliarsi lo stipendio e ora erano senza lavoro.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Note tecniche:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;se qualcuno ha altri libri che meritano, me li segnali pure, se riesco potrei replicare il risultato più che volentieri.&lt;/li&gt;
+&lt;li&gt;no, non condividerò il file originale, sarebbe una chiara violazione dei copyright del libro.&lt;/li&gt;
+&lt;li&gt;per chi volesse replicare, io ho usato &lt;a href=&#34;https://github.com/jsvine/markovify&#34;&gt;markovify&lt;/a&gt;, con i seguenti parametri: sequenze di 3 parole, massimo metà della frase uguale all&amp;rsquo;originale.&lt;/li&gt;
+&lt;li&gt;ho dovuto eliminare una dozzina di frasi, che sono state generate uguali ad altre.&lt;/li&gt;
+&lt;li&gt;il file epub originale era molto buono, l&amp;rsquo;ho solo convertito con Calibre in txt e tolte le parti di troppo (numero del capitolo, frontespizio, colophon e simili).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grafici e statistiche di sei mesi del 2016 di /r/italy</title>
+      <link>https://timendum.github.io/posts/ritaly-2016/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/ritaly-2016/</guid>
+      <description>&lt;p&gt;Grazie a &lt;a href=&#34;https://praw.readthedocs.io/en/praw4/&#34;&gt;PRAW&lt;/a&gt; ho estratto tutti i post e i commenti degli ultimi 6 mesi (esclusi gli ultimi 7 giorni).&lt;/p&gt;
+&lt;p&gt;Ho quindi avviato alcune analisi, sotto trovate il necessario per replicare.&lt;/p&gt;
+&lt;h2 id=&#34;migliori-domini&#34;&gt;Migliori domini&lt;/h2&gt;
+&lt;p&gt;Una volta raggruppati i domini e normalizzati i nomi, ecco un grafico rappresentativo: sulle x la somma dei voti, sulle y la media, il colore quant&amp;rsquo;è la media e la grandezza quanti ne ho trovati.&lt;/p&gt;
+&lt;p&gt;Per la versione ridotta ho mantenuto solo i maggiori domini e quelli con più di una entry.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/ritaly-2016/domini.jpg&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://timendum.github.io/subpages/ritaly-2016/domini/&#34;&gt;Grafico HTML&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://timendum.github.io/subpages/ritaly-2016/domini/&#34;&gt;Grafico interattivo&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;submission-per-autore&#34;&gt;Submission per autore&lt;/h2&gt;
+&lt;p&gt;Ho raggruppato i post per autore: sulle x la somma dei voti, sulle y la media, il colore quanti ne ho trovati e la grandezza quant&amp;rsquo;è il voto minimo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/ritaly-2016/autore.jpg&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://timendum.github.io/subpages/ritaly-2016/autore/&#34;&gt;Grafico interattivo&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;commenti&#34;&gt;Commenti&lt;/h2&gt;
+&lt;p&gt;Ho raggruppato i post per autore: sulle x quanti commenti in scala logaritmica_2, sulle y la distanza tra il migliore ed il peggiore, il colore la media dei voti e la grandezza la somma dei voti. Il filtro è a 100 di karma in questi 6 mesi.&lt;/p&gt;
+&lt;p&gt;Per la versione ridotta ho mantenuto solo le top 10 nelle dimensioni calcolate.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/ritaly-2016/commenti.jpg&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://timendum.github.io/subpages/ritaly-2016/commenti/&#34;&gt;Grafico HTML&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://timendum.github.io/subpages/ritaly-2016/commenti2/&#34;&gt;Grafico interattivo&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-commenti-migliori&#34;&gt;I commenti migliori&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;di /u/il_doc &lt;a href=&#34;https://www.reddit.com/r/italy/comments/57916s/%C3%A8_morto_dario_fo/d8pz661/?context=1&#34;&gt;dario fu&lt;/a&gt; con 209&lt;/li&gt;
+&lt;li&gt;di /u/00derper &lt;a href=&#34;https://www.reddit.com/r/italy/comments/56j7ms/make_italy_great_again_miga/d8jp8jq/?context=1&#34;&gt;FIGA&lt;/a&gt; con 168&lt;/li&gt;
+&lt;li&gt;di /u/weather-pan &lt;a href=&#34;https://www.reddit.com/r/italy/comments/57fniv/i_am_a_bored_girl_from_hong_kong_who_happened_to/d8rlgh9/?context=1&#34;&gt;Ariana grande&lt;/a&gt; con 142 (smentendo /u/HolyJesusOnAToast)&lt;/li&gt;
+&lt;li&gt;di /u/oldpoint &lt;a href=&#34;https://www.reddit.com/r/italy/comments/56r03c/til_il_reato_di_atti_osceni_%C3%A8_stato_depenalizzato/d8lnwcs/?context=1&#34;&gt;il riscatto&lt;/a&gt; con 128&lt;/li&gt;
+&lt;li&gt;di /u/El_Medico  &lt;a href=&#34;https://www.reddit.com/r/italy/comments/57m5d6/til_in_svezia_mettono_la_banana_sulla_pizza/d8tl04u?context=1&#34;&gt;lo svedese&lt;/a&gt; con 109 (traduzione &lt;em&gt;Most of Sweden also think it&amp;rsquo;s strange&lt;/em&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;note-tecniche&#34;&gt;Note tecniche&lt;/h3&gt;
+&lt;p&gt;Grazie soprattutto a Light_fenix per il consiglio di snellimento.&lt;/p&gt;
+&lt;p&gt;I due CSV: &lt;a href=&#34;https://paste.ee/p/xyFD0&#34;&gt;https://paste.ee/p/xyFD0&lt;/a&gt; e &lt;a href=&#34;https://paste.ee/p/cMoZl&#34;&gt;https://paste.ee/p/cMoZl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Per l&amp;rsquo;estrazione un piccolo script python che si appoggia a &lt;a href=&#34;https://praw.readthedocs.io/en/praw4/&#34;&gt;PRAW&lt;/a&gt;.  Li ho elaborati con Excel, qualche formula per i domini più tabelle pivot.&lt;/p&gt;
+&lt;p&gt;Per i grafici ho usato &lt;a href=&#34;https://developers.google.com/chart/interactive/docs/gallery/bubblechart&#34;&gt;Google bubble chart&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Per la creazione delle pagine ho usato &lt;a href=&#34;https://thimble.mozilla.org/&#34;&gt;Thimble di Mozilla&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;__&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;edit&lt;/em&gt; ho aggiunto le versioni ridotte di dominio e commenti, grazie al suggerimento di Light_fenix e SpiegoLeDiscussioni.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grafici e statistiche di sei mesi del 2016 di /r/italy: Autore interattivo</title>
+      <link>https://timendum.github.io/subpages/ritaly-2016/autore/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/subpages/ritaly-2016/autore/</guid>
+      <description>
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.gstatic.com/charts/loader.js&#34;&gt;&lt;/script&gt;
+    &lt;script type=&#34;text/javascript&#34;&gt;
+      google.charts.load(&#39;current&#39;, {&#39;packages&#39;:[&#39;corechart&#39;]});
+      google.charts.setOnLoadCallback(drawSeriesChart);
+      function drawSeriesChart() {
+        var data = google.visualization.arrayToDataTable([
+          [&#34;Autore&#34;,&#34;Somma&#34;,&#34;Media&#34;,&#34;Massimo&#34;,&#34;Contegio&#34;],
+          [&#39;Emanuele676&#39;,379.000,10.528,87,36],
+          [&#39;_samux_&#39;,520.000,17.931,96,29],
+          [&#39;giuliomagnifico&#39;,374.000,15.583,50,24],
+          [&#39;impiegato_statale&#39;,227.000,15.133,42,15],
+          [&#39;AutoModerator&#39;,82.000,6.833,13,12],
+          [&#39;catopleba1992&#39;,123.000,12.300,51,10],
+          [&#39;BruMun&#39;,69.000,9.857,36,7],
+          [&#39;fraunofen&#39;,81.000,13.500,30,6],
+          [&#39;giozamb&#39;,94.000,15.667,50,6],
+          [&#39;dunkin1980&#39;,26.000,4.333,11,6],
+          [&#39;osidovich&#39;,94.000,15.667,54,6],
+          [&#39;fedefede8&#39;,181.000,30.167,120,6],
+          [&#39;LanciaStratos93&#39;,40.000,6.667,17,6],
+          [&#39;sempiternum&#39;,98.000,19.600,45,5],
+          [&#39;MyPendrive&#39;,86.000,17.200,43,5],
+          [&#39;Mick94&#39;,35.000,7.000,17,5],
+          [&#39;LonerNerdGuy&#39;,45.000,9.000,27,5],
+          [&#39;napolux&#39;,93.000,18.600,40,5],
+          [&#39;martinomh&#39;,26.000,5.200,10,5],
+          [&#39;TheBufalo&#39;,174.000,34.800,114,5],
+          [&#39;MashLuke&#39;,543.000,108.600,195,5],
+          [&#39;moonknightsg&#39;,69.000,13.800,39,5],
+          [&#39;Travertino&#39;,113.000,28.250,75,4],
+          [&#39;ZugNachPankow&#39;,45.000,11.250,31,4],
+          [&#39;Antistene&#39;,85.000,21.250,57,4],
+          [&#39;Jaja1990&#39;,128.000,32.000,59,4],
+          [&#39;Doxep&#39;,68.000,17.000,28,4],
+          [&#39;cybertex1969&#39;,49.000,12.250,29,4],
+          [&#39;MrAlagos&#39;,7.000,1.750,3,4],
+          [&#39;nel0_angel0&#39;,0.000,0.000,0,4],
+          [&#39;Larelli&#39;,26.000,6.500,13,4],
+          [&#39;weather-pan&#39;,32.000,10.667,24,3],
+          [&#39;marcozambi&#39;,20.000,6.667,16,3],
+          [&#39;wereos3&#39;,18.000,6.000,9,3],
+          [&#39;Blacksyrium&#39;,11.000,3.667,8,3],
+          [&#39;subcomandantematteo&#39;,42.000,14.000,17,3],
+          [&#39;Chobeat&#39;,23.000,7.667,23,3],
+          [&#39;larrz&#39;,11.000,3.667,7,3],
+          [&#39;FiveOfTime&#39;,86.000,28.667,61,3],
+          [&#39;macedogna&#39;,20.000,6.667,9,3],
+          [&#39;fundamentis&#39;,14.000,4.667,6,3],
+          [&#39;SpiegoLeDiscussioni&#39;,131.000,43.667,119,3],
+          [&#39;giordanob&#39;,24.000,8.000,21,3],
+          [&#39;timendum&#39;,171.000,57.000,96,3],
+          [&#39;KarlFiabeschi&#39;,40.000,13.333,18,3],
+          [&#39;(vuoto)&#39;,53.000,17.667,30,3],
+          [&#39;LaTalpa123&#39;,79.000,26.333,58,3],
+          [&#39;subsonico&#39;,21.000,10.500,18,2],
+          [&#39;o-zone1978&#39;,76.000,38.000,75,2],
+          [&#39;TubePanic&#39;,50.000,25.000,46,2],
+          [&#39;hex75&#39;,19.000,9.500,18,2],
+          [&#39;spaceape__&#39;,21.000,10.500,13,2],
+          [&#39;IaintBatman&#39;,5.000,2.500,4,2],
+          [&#39;fen0x&#39;,68.000,34.000,43,2],
+          [&#39;improb&#39;,15.000,7.500,9,2],
+          [&#39;arancia&#39;,37.000,18.500,30,2],
+          [&#39;InLisbon&#39;,59.000,29.500,58,2],
+          [&#39;rdc-cmv&#39;,19.000,9.500,13,2],
+          [&#39;Jokeris91&#39;,25.000,12.500,25,2],
+          [&#39;gerino95&#39;,4.000,2.000,3,2],
+          [&#39;fghjnn&#39;,45.000,22.500,28,2],
+          [&#39;the_whiteline&#39;,25.000,12.500,15,2],
+          [&#39;l0rk-&#39;,3.000,1.500,3,2],
+          [&#39;trk8o&#39;,30.000,15.000,20,2],
+          [&#39;Lahfinger&#39;,50.000,25.000,34,2],
+          [&#39;guagno333&#39;,0.000,0.000,0,2],
+          [&#39;zykzakk&#39;,11.000,5.500,6,2],
+          [&#39;onmello&#39;,81.000,40.500,74,2],
+          [&#39;figuringitoutslowly&#39;,26.000,13.000,24,2],
+          [&#39;Poggor&#39;,25.000,12.500,21,2],
+          [&#39;chuego&#39;,9.000,4.500,9,2],
+          [&#39;Sonounuomoebasta&#39;,10.000,5.000,9,2],
+          [&#39;frisu&#39;,162.000,81.000,160,2],
+          [&#39;spaghialpomodoro&#39;,59.000,29.500,43,2],
+          [&#39;learninghunger&#39;,10.000,5.000,10,2],
+          [&#39;gerri_&#39;,41.000,20.500,25,2],
+          [&#39;Y677&#39;,3.000,1.500,3,2],
+          [&#39;tecnofauno&#39;,44.000,22.000,43,2],
+          [&#39;maantson&#39;,92.000,46.000,78,2],
+          [&#39;avgeek2805&#39;,17.000,8.500,9,2],
+          [&#39;Frydge&#39;,20.000,10.000,18,2],
+          [&#39;Baanfoo&#39;,25.000,12.500,15,2],
+          [&#39;malmostoso&#39;,87.000,43.500,47,2],
+          [&#39;trot-trot&#39;,23.000,11.500,22,2],
+          [&#39;AinorEarendil&#39;,6.000,3.000,5,2],
+          [&#39;Andreaaaaaaa&#39;,4.000,2.000,4,2],
+          [&#39;annoyed_by_myself&#39;,22.000,11.000,20,2],
+          [&#39;MoiraOrfei&#39;,64.000,32.000,59,2],
+          [&#39;lorenzo0004&#39;,3.000,1.500,3,2],
+          [&#39;natema1&#39;,70.000,70.000,70,1],
+          [&#39;edmael&#39;,36.000,36.000,36,1],
+          [&#39;rayzing&#39;,38.000,38.000,38,1],
+          [&#39;fedexist&#39;,0.000,0.000,0,1],
+          [&#39;vanlikeno1&#39;,12.000,12.000,12,1],
+          [&#39;felis_manul&#39;,2.000,2.000,2,1],
+          [&#39;ovvio_fake&#39;,36.000,36.000,36,1],
+          [&#39;botng&#39;,7.000,7.000,7,1],
+          [&#39;seaview218&#39;,82.000,82.000,82,1],
+          [&#39;BoxMulder&#39;,17.000,17.000,17,1],
+          [&#39;thrtxt&#39;,32.000,32.000,32,1],
+          [&#39;Bromao&#39;,26.000,26.000,26,1],
+          [&#39;antoniobellu&#39;,6.000,6.000,6,1],
+          [&#39;Fiorenzo_Z&#39;,0.000,0.000,0,1],
+          [&#39;nicolas1611&#39;,15.000,15.000,15,1],
+          [&#39;Brubndubn&#39;,6.000,6.000,6,1],
+          [&#39;Pich23&#39;,1.000,1.000,1,1],
+          [&#39;fkasophia&#39;,3.000,3.000,3,1],
+          [&#39;ricca1407&#39;,2.000,2.000,2,1],
+          [&#39;forseunfuturopovero&#39;,27.000,27.000,27,1],
+          [&#39;echoicreated&#39;,2.000,2.000,2,1],
+          [&#39;Frank-o-stante&#39;,20.000,20.000,20,1],
+          [&#39;elborghesan&#39;,2.000,2.000,2,1],
+          [&#39;alo75&#39;,24.000,24.000,24,1],
+          [&#39;esbio&#39;,21.000,21.000,21,1],
+          [&#39;3v1n0&#39;,4.000,4.000,4,1],
+          [&#39;wildeastmofo&#39;,178.000,178.000,178,1],
+          [&#39;FRizzo91&#39;,5.000,5.000,5,1],
+          [&#39;mrbyte72&#39;,1.000,1.000,1,1],
+          [&#39;buttatovia&#39;,14.000,14.000,14,1],
+          [&#39;nerdvana89&#39;,121.000,121.000,121,1],
+          [&#39;fuck_reddit_policy&#39;,2.000,2.000,2,1],
+          [&#39;OffMine&#39;,6.000,6.000,6,1],
+          [&#39;buttavia99&#39;,12.000,12.000,12,1],
+          [&#39;pasternacco&#39;,14.000,14.000,14,1],
+          [&#39;gecapoda&#39;,4.000,4.000,4,1],
+          [&#39;drstins_n&#39;,52.000,52.000,52,1],
+          [&#39;gentedinarni&#39;,11.000,11.000,11,1],
+          [&#39;Redegar&#39;,1.000,1.000,1,1],
+          [&#39;Buwski&#39;,3.000,3.000,3,1],
+          [&#39;Saggiolo&#39;,0.000,0.000,0,1],
+          [&#39;c_iggy&#39;,7.000,7.000,7,1],
+          [&#39;simoneobo&#39;,6.000,6.000,6,1],
+
+
+
+        ]);
+        var options = {
+          title: &#39;Voti per Autore&#39;,
+          colorAxis: {colors: [&#39;blue&#39;, &#39;red&#39;]},
+          hAxis: {title: &#39;Somma voti&#39;},
+          vAxis: {title: &#39;Media voti&#39;}
+        };
+
+        var chart = new google.visualization.BubbleChart(document.getElementById(&#39;series_chart_div&#39;));
+        chart.draw(data, options);
+      }
+    &lt;/script&gt;
+    &lt;div id=&#34;series_chart_div&#34; style=&#34;width: 900px; height: 500px;&#34;&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grafici e statistiche di sei mesi del 2016 di /r/italy: Commenti</title>
+      <link>https://timendum.github.io/subpages/ritaly-2016/commenti/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/subpages/ritaly-2016/commenti/</guid>
+      <description>&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.gstatic.com/charts/loader.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+  google.charts.load(&#39;current&#39;, {&#39;packages&#39;:[&#39;corechart&#39;]});
+  google.charts.setOnLoadCallback(drawSeriesChart);
+  function drawSeriesChart() {
+	var data = google.visualization.arrayToDataTable([
+	  [&#34;Utente&#34;,&#34;log(Numero)&#34;,&#34;Distanza&#34;,&#34;Media&#34;,&#34;Somma&#34;],
+	  [&#39;SpiegoLeDiscussioni&#39;,2.473,63,1081.000,3.640],
+	  [&#39;martinomh&#39;,2.270,49,981.000,5.274],
+	  [&#39;Emanuele676&#39;,2.728,75,852.000,1.596],
+	  [&#39;LanciaStratos93&#39;,2.258,38,781.000,4.315],
+	  [&#39;pokerissimo&#39;,2.137,53,761.000,5.555],
+	  [&#39;HolyJesusOnAToast&#39;,1.903,115,659.000,8.238],
+	  [&#39;kisstheblade69&#39;,2.107,56,624.000,4.875],
+	  [&#39;lorenzojc&#39;,2.004,35,584.000,5.782],
+	  [&#39;LaTalpa123&#39;,1.954,53,535.000,5.944],
+	  [&#39;(vuoto)&#39;,2.447,70,518.000,1.850],
+	  [&#39;FiveOfTime&#39;,2.009,50,500.000,4.902],
+	  [&#39;Doxep&#39;,1.949,42,489.000,5.494],
+	  [&#39;mccplusplus&#39;,1.886,43,470.000,6.104],
+	  [&#39;italianjob17&#39;,1.964,32,468.000,5.087],
+	  [&#39;napolux&#39;,1.982,55,465.000,4.844],
+	  [&#39;ElvishCopter&#39;,2.090,49,443.000,3.602],
+	  [&#39;pipster33&#39;,1.845,31,434.000,6.200],
+	  [&#39;brurino&#39;,1.806,34,426.000,6.656],
+	  [&#39;osidovich&#39;,2.483,39,413.000,1.359],
+	  [&#39;LurkerNo527&#39;,1.908,37,405.000,5.000],
+	  [&#39;cassitipe&#39;,1.806,55,387.000,6.047],
+	  [&#39;lestrigone&#39;,1.633,32,378.000,8.791],
+	  [&#39;Mercurism&#39;,1.944,28,377.000,4.284],
+	  [&#39;_samux_&#39;,2.146,30,369.000,2.636],
+	  [&#39;Spaturno&#39;,1.996,85,357.000,3.606],
+	  [&#39;bonzinip&#39;,2.009,35,354.000,3.471],
+	  [&#39;spaghialpomodoro&#39;,1.724,44,351.000,6.623],
+	  [&#39;Trouauey&#39;,1.672,40,337.000,7.170],
+	  [&#39;segolas&#39;,1.806,72,334.000,5.219],
+	  [&#39;avlas&#39;,1.881,41,322.000,4.237],
+	  [&#39;msx&#39;,1.826,54,321.000,4.791],
+	  [&#39;uomoLampione&#39;,1.602,43,316.000,7.900],
+	  [&#39;annoyed_by_myself&#39;,2.114,14,313.000,2.408],
+	  [&#39;oldpoint&#39;,1.792,130,304.000,4.903],
+	  [&#39;Jaja1990&#39;,1.813,16,288.000,4.431],
+	  [&#39;DDdms&#39;,1.699,34,285.000,5.700],
+	  [&#39;Travertino&#39;,1.580,38,280.000,7.368],
+	  [&#39;LonerNerdGuy&#39;,2.000,31,279.000,2.790],
+	  [&#39;mirh&#39;,2.146,30,278.000,1.986],
+	  [&#39;Fenor&#39;,1.949,15,274.000,3.079],
+	  [&#39;Edheldui&#39;,1.908,41,265.000,3.272],
+	  [&#39;panicClark&#39;,1.653,50,262.000,5.822],
+	  [&#39;improb&#39;,1.968,52,261.000,2.806],
+	  [&#39;liaisons_dangereuses&#39;,1.398,47,260.000,10.400],
+	  [&#39;ZugNachPankow&#39;,1.869,51,257.000,3.473],
+	  [&#39;TheSandaman69&#39;,1.724,55,254.000,4.792],
+	  [&#39;hex75&#39;,1.643,43,254.000,5.773],
+	  [&#39;TubePanic&#39;,1.591,43,253.000,6.487],
+	  [&#39;FZ_BA&#39;,1.708,61,251.000,4.922],
+	  [&#39;striderwhite&#39;,1.839,37,243.000,3.522],
+	  [&#39;il_doc&#39;,1.146,208,243.000,17.357],
+	  [&#39;HarambeBerlusconi&#39;,1.672,34,239.000,5.085],
+	  [&#39;Chobeat&#39;,1.820,33,237.000,3.591],
+	  [&#39;Lus_&#39;,1.771,28,236.000,4.000],
+	  [&#39;seaview218&#39;,1.591,42,234.000,6.000],
+	  [&#39;Servodellagleba&#39;,1.431,84,225.000,8.333],
+	  [&#39;westernwitch&#39;,1.342,41,217.000,9.864],
+	  [&#39;MrAlagos&#39;,1.690,20,215.000,4.388],
+	  [&#39;Diffeomorphisms&#39;,1.799,34,212.000,3.365],
+	  [&#39;00derper&#39;,0.699,166,211.000,42.200],
+	  [&#39;Ste29ebasta&#39;,1.663,29,206.000,4.478],
+	  [&#39;JustOneRandomGirl&#39;,1.724,23,204.000,3.849],
+	  [&#39;timendum&#39;,1.724,25,201.000,3.792],
+	  [&#39;RingoMandingo&#39;,1.580,45,201.000,5.289],
+	  [&#39;anthor_&#39;,1.763,28,198.000,3.414],
+	  [&#39;greppese&#39;,1.591,14,197.000,5.051],
+	  [&#39;xorgol&#39;,1.681,37,194.000,4.042],
+	  [&#39;ionizzatore&#39;,1.633,46,191.000,4.442],
+	  [&#39;chekhov45&#39;,1.362,31,190.000,8.261],
+	  [&#39;outofband&#39;,1.380,66,187.000,7.792],
+	  [&#39;kancolle_nigga&#39;,1.699,35,180.000,3.600],
+	  [&#39;Zioropa&#39;,1.531,33,179.000,5.265],
+	  [&#39;tartare4562&#39;,1.342,50,179.000,8.136],
+	  [&#39;Fab527&#39;,1.176,85,179.000,11.933],
+	  [&#39;MashLuke&#39;,1.279,39,175.000,9.211],
+	  [&#39;Dhelio&#39;,1.643,23,175.000,3.977],
+	  [&#39;EngineerDogIta&#39;,1.462,60,174.000,6.000],
+	  [&#39;MrGestore&#39;,1.778,31,173.000,2.883],
+	  [&#39;KarlFiabeschi&#39;,1.431,40,173.000,6.407],
+	  [&#39;alberto_81&#39;,1.763,15,172.000,2.966],
+	  [&#39;realqmaster&#39;,1.204,40,170.000,10.625],
+	  [&#39;Arcadess&#39;,1.342,34,170.000,7.727],
+	  [&#39;Stealthologist&#39;,1.279,29,169.000,8.895],
+	  [&#39;AlbaNera&#39;,1.663,35,169.000,3.674],
+	  [&#39;MoiraOrfei&#39;,1.176,30,168.000,11.200],
+	  [&#39;MyPendrive&#39;,1.613,19,168.000,4.098],
+	  [&#39;pandarossa&#39;,1.778,44,167.000,2.783],
+	  [&#39;cristobalcolon&#39;,1.531,14,165.000,4.853],
+	  [&#39;diolognomomongoloid&#39;,1.301,62,165.000,8.250],
+	  [&#39;Tebeku&#39;,0.477,7,164.000,54.667],
+	  [&#39;InSRCommentPostsYou&#39;,1.301,43,164.000,8.200],
+	  [&#39;Lanzus&#39;,1.708,8,162.000,3.176],
+	  [&#39;MrRedef&#39;,1.732,20,161.000,2.981],
+	  [&#39;weather-pan&#39;,0.845,139,160.000,22.857],
+	  [&#39;moonknightsg&#39;,1.556,39,160.000,4.444],
+	  [&#39;Jack_Beauregard&#39;,1.204,40,159.000,9.938],
+	  [&#39;Phedericus&#39;,1.653,16,158.000,3.511],
+	  [&#39;McNorch&#39;,1.146,46,157.000,11.214],
+	  [&#39;Cerealefurbo&#39;,1.146,63,157.000,11.214],
+	  [&#39;BkkGrl&#39;,1.301,58,155.000,7.750],
+	  [&#39;Luck88&#39;,1.716,15,150.000,2.885],
+	  [&#39;Sephy88&#39;,1.322,62,149.000,7.095],
+	  [&#39;novequattro&#39;,1.663,26,149.000,3.239],
+	  [&#39;cybertex1969&#39;,1.699,14,149.000,2.980],
+	  [&#39;Zinhi&#39;,1.633,52,148.000,3.442],
+	  [&#39;eover&#39;,1.556,15,148.000,4.111],
+	  [&#39;simoneobo&#39;,1.591,18,146.000,3.744],
+	  [&#39;thesecretavocado&#39;,1.623,26,145.000,3.452],
+	  [&#39;FedeBuccs&#39;,1.602,16,143.000,3.575],
+	  [&#39;vanlikeno1&#39;,1.279,31,142.000,7.474],
+	  [&#39;americio&#39;,1.778,44,141.000,2.350],
+	  [&#39;_lettuce_&#39;,1.279,46,140.000,7.368],
+	  [&#39;Valluan&#39;,1.431,32,139.000,5.148],
+	  [&#39;ovadaRainbow&#39;,1.431,62,139.000,5.148],
+	  [&#39;zykzakk&#39;,1.556,9,136.000,3.778],
+	  [&#39;helembad&#39;,1.491,21,135.000,4.355],
+	  [&#39;Pipesandsnow&#39;,1.462,33,134.000,4.621],
+	  [&#39;th4&#39;,1.230,55,133.000,7.824],
+	  [&#39;kurlash&#39;,1.716,34,133.000,2.558],
+	  [&#39;aragost&#39;,1.447,26,133.000,4.750],
+	  [&#39;AndreaGot&#39;,1.908,7,133.000,1.642],
+	  [&#39;giuliomagnifico&#39;,1.580,38,132.000,3.474],
+	  [&#39;againstconsole&#39;,1.820,18,132.000,2.000],
+	  [&#39;d-polar-&#39;,1.079,35,132.000,11.000],
+	  [&#39;JackHeuston&#39;,1.255,28,131.000,7.278],
+	  [&#39;domimodi&#39;,1.756,28,129.000,2.263],
+	  [&#39;BruMun&#39;,1.491,16,129.000,4.161],
+	  [&#39;the_whiteline&#39;,1.869,11,127.000,1.716],
+	  [&#39;Matteo851&#39;,1.415,21,126.000,4.846],
+	  [&#39;Mechanicalmind&#39;,1.663,24,126.000,2.739],
+	  [&#39;Jafarrolo&#39;,1.462,18,123.000,4.241],
+	  [&#39;cirrosi&#39;,1.623,21,123.000,2.929],
+	  [&#39;No_grazie&#39;,1.415,37,122.000,4.692],
+	  [&#39;fen0x&#39;,1.672,7,122.000,2.596],
+	  [&#39;lostinmilan&#39;,1.398,28,121.000,4.840],
+	  [&#39;doyle138&#39;,1.491,18,121.000,3.903],
+	  [&#39;TheOldPope&#39;,1.362,26,120.000,5.217],
+	  [&#39;Quirite&#39;,1.398,19,120.000,4.800],
+	  [&#39;MonsieurCellophane&#39;,1.672,14,119.000,2.532],
+	  [&#39;GrimorgADT&#39;,1.230,29,119.000,7.000],
+	  [&#39;Stoicismus&#39;,1.531,66,117.000,3.441],
+	  [&#39;BoxMulder&#39;,1.623,8,117.000,2.786],
+	  [&#39;Trickyhere&#39;,1.415,18,116.000,4.462],
+	  [&#39;SnorriSturluson&#39;,1.342,40,116.000,5.273],
+	  [&#39;Saturnix&#39;,1.415,21,115.000,4.423],
+	  [&#39;o-zone1978&#39;,1.681,14,112.000,2.333],
+	  [&#39;sparkle_sample&#39;,1.041,45,111.000,10.091],
+	  [&#39;derperio&#39;,1.114,21,111.000,8.538],
+	  [&#39;El_Medico&#39;,0.000,0,109.000,109.000],
+	  [&#39;man-teiv&#39;,1.462,10,108.000,3.724],
+	  [&#39;mariuzzo&#39;,1.041,30,107.000,9.727],
+	  [&#39;hati_skoll&#39;,1.568,76,105.000,2.838],
+	  [&#39;Lahfinger&#39;,1.462,29,104.000,3.586],
+	  [&#39;beertown&#39;,1.447,14,104.000,3.714],
+	  [&#39;Redegar&#39;,1.322,25,103.000,4.905],
+	  [&#39;felis_manul&#39;,1.176,39,103.000,6.867],
+	  [&#39;Thorneborn&#39;,1.544,16,102.000,2.914],
+	  [&#39;lity123&#39;,1.342,34,102.000,4.636],
+	  [&#39;HitlerHimself&#39;,0.699,53,102.000,20.400],
+	  [&#39;ConsiglioPuppareFava&#39;,1.079,38,102.000,8.500],
+	  [&#39;tecnofauno&#39;,1.491,23,101.000,3.258],
+	  [&#39;Metecury&#39;,1.380,32,101.000,4.208],
+	  [&#39;Bromao&#39;,1.447,12,100.000,3.571],
+
+
+	]);
+	var options = {
+	  title: &#39;Commenti per autore&#39;,
+	  colorAxis: {colors: [&#39;blue&#39;, &#39;red&#39;]},
+	  hAxis: {title: &#39;Log numero&#39;},
+	  vAxis: {title: &#39;Massimo&#39;},
+	  bubble: {textStyle: {color: &#39;black&#39;, fontSize: &#39;9px&#39;}}
+	};
+
+	var chart = new google.visualization.BubbleChart(document.getElementById(&#39;series_chart_div&#39;));
+	chart.draw(data, options);
+  }
+&lt;/script&gt;
+&lt;div id=&#34;series_chart_div&#34; style=&#34;width: 900px; height: 500px;&#34;&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grafici e statistiche di sei mesi del 2016 di /r/italy: Commenti interattivo</title>
+      <link>https://timendum.github.io/subpages/ritaly-2016/commenti2/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/subpages/ritaly-2016/commenti2/</guid>
+      <description>&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.gstatic.com/charts/loader.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+  google.charts.load(&#39;current&#39;, {&#39;packages&#39;:[&#39;corechart&#39;]});
+  google.charts.setOnLoadCallback(drawSeriesChart);
+  function drawSeriesChart() {
+	var data = google.visualization.arrayToDataTable([
+	  [&#34;Utente&#34;,&#34;log(Numero)&#34;,&#34;Distanza&#34;,&#34;Media&#34;,&#34;Somma&#34;],
+	  [&#39;SpiegoLeDiscussioni&#39;,2.473,63,1081.000,3.640],
+	  [&#39;martinomh&#39;,2.270,49,981.000,5.274],
+	  [&#39;Emanuele676&#39;,2.728,75,852.000,1.596],
+	  [&#39;LanciaStratos93&#39;,2.258,38,781.000,4.315],
+	  [&#39;pokerissimo&#39;,2.137,53,761.000,5.555],
+	  [&#39;HolyJesusOnAToast&#39;,1.903,115,659.000,8.238],
+	  [&#39;kisstheblade69&#39;,2.107,56,624.000,4.875],
+	  [&#39;lorenzojc&#39;,2.004,35,584.000,5.782],
+	  [&#39;LaTalpa123&#39;,1.954,53,535.000,5.944],
+	  [&#39;(vuoto)&#39;,2.447,70,518.000,1.850],
+
+	  [&#39;osidovich&#39;,2.483,39,413.000,1.359],
+	  [&#39;mirh&#39;,2.146,30,278.000,1.986],
+	  [&#39;_samux_&#39;,2.146,30,369.000,2.636],
+	  [&#39;annoyed_by_myself&#39;,2.114,14,313.000,2.408],
+	  [&#39;ElvishCopter&#39;,2.090,49,443.000,3.602],
+
+	  [&#39;El_Medico&#39;,0.000,0,109.000,109.000],
+	  [&#39;Tebeku&#39;,0.477,7,164.000,54.667],
+	  [&#39;00derper&#39;,0.699,166,211.000,42.200],
+	  [&#39;uhuh&#39;,0.301,21,79.000,39.500],
+	  [&#39;oggettosmarrito&#39;,0.301,25,77.000,38.500],
+	  [&#39;SirJohnSmith&#39;,0.301,68,70.000,35.000],
+
+	  [&#39;il_doc&#39;,1.146,208,243.000,17.357],
+	  [&#39;weather-pan&#39;,0.845,139,160.000,22.857],
+	  [&#39;oldpoint&#39;,1.792,130,304.000,4.903],
+	  [&#39;Fab527&#39;,1.176,85,179.000,11.933],
+	  [&#39;Servodellagleba&#39;,1.431,84,225.000,8.333],
+	  [&#39;AzraelCrusader&#39;,0.602,81,92.000,23.000],
+	  [&#39;Spaturno&#39;,1.996,85,357.000,3.606],
+
+
+	]);
+	var options = {
+	  title: &#39;Commenti per autore&#39;,
+	  colorAxis: {colors: [&#39;blue&#39;, &#39;red&#39;]},
+	  hAxis: {title: &#39;Log numero&#39;},
+	  vAxis: {title: &#39;Massimo&#39;},
+	  bubble: {textStyle: {color: &#39;black&#39;, fontSize: &#39;9px&#39;}}
+	};
+
+	var chart = new google.visualization.BubbleChart(document.getElementById(&#39;series_chart_div&#39;));
+	chart.draw(data, options);
+  }
+&lt;/script&gt;
+&lt;div id=&#34;series_chart_div&#34; style=&#34;width: 900px; height: 500px;&#34;&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grafici e statistiche di sei mesi del 2016 di /r/italy: Domini</title>
+      <link>https://timendum.github.io/subpages/ritaly-2016/domini/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/subpages/ritaly-2016/domini/</guid>
+      <description>&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.gstatic.com/charts/loader.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+  google.charts.load(&#39;current&#39;, {&#39;packages&#39;:[&#39;corechart&#39;]});
+  google.charts.setOnLoadCallback(drawSeriesChart);
+  function drawSeriesChart() {
+	var data = google.visualization.arrayToDataTable([
+	  [&#34;Autore&#34;,&#34;Somma&#34;,&#34;Media&#34;,&#34;Massimo&#34;,&#34;Contegio&#34;],
+	  [&#39;Emanuele676&#39;,379.000,10.528,87,36],
+	  [&#39;_samux_&#39;,520.000,17.931,96,29],
+	  [&#39;giuliomagnifico&#39;,374.000,15.583,50,24],
+	  [&#39;impiegato_statale&#39;,227.000,15.133,42,15],
+	  [&#39;AutoModerator&#39;,82.000,6.833,13,12],
+	  [&#39;catopleba1992&#39;,123.000,12.300,51,10],
+	  [&#39;BruMun&#39;,69.000,9.857,36,7],
+	  [&#39;fraunofen&#39;,81.000,13.500,30,6],
+	  [&#39;giozamb&#39;,94.000,15.667,50,6],
+	  [&#39;dunkin1980&#39;,26.000,4.333,11,6],
+	  [&#39;osidovich&#39;,94.000,15.667,54,6],
+	  [&#39;fedefede8&#39;,181.000,30.167,120,6],
+	  [&#39;LanciaStratos93&#39;,40.000,6.667,17,6],
+	  [&#39;sempiternum&#39;,98.000,19.600,45,5],
+	  [&#39;MyPendrive&#39;,86.000,17.200,43,5],
+	  [&#39;Mick94&#39;,35.000,7.000,17,5],
+	  [&#39;LonerNerdGuy&#39;,45.000,9.000,27,5],
+	  [&#39;napolux&#39;,93.000,18.600,40,5],
+	  [&#39;martinomh&#39;,26.000,5.200,10,5],
+	  [&#39;TheBufalo&#39;,174.000,34.800,114,5],
+	  [&#39;MashLuke&#39;,543.000,108.600,195,5],
+	  [&#39;moonknightsg&#39;,69.000,13.800,39,5],
+	  [&#39;Travertino&#39;,113.000,28.250,75,4],
+	  [&#39;ZugNachPankow&#39;,45.000,11.250,31,4],
+	  [&#39;Antistene&#39;,85.000,21.250,57,4],
+	  [&#39;Jaja1990&#39;,128.000,32.000,59,4],
+	  [&#39;Doxep&#39;,68.000,17.000,28,4],
+	  [&#39;cybertex1969&#39;,49.000,12.250,29,4],
+	  [&#39;MrAlagos&#39;,7.000,1.750,3,4],
+	  [&#39;nel0_angel0&#39;,0.000,0.000,0,4],
+	  [&#39;Larelli&#39;,26.000,6.500,13,4],
+	  [&#39;weather-pan&#39;,32.000,10.667,24,3],
+	  [&#39;marcozambi&#39;,20.000,6.667,16,3],
+	  [&#39;wereos3&#39;,18.000,6.000,9,3],
+	  [&#39;Blacksyrium&#39;,11.000,3.667,8,3],
+	  [&#39;subcomandantematteo&#39;,42.000,14.000,17,3],
+	  [&#39;Chobeat&#39;,23.000,7.667,23,3],
+	  [&#39;larrz&#39;,11.000,3.667,7,3],
+	  [&#39;FiveOfTime&#39;,86.000,28.667,61,3],
+	  [&#39;macedogna&#39;,20.000,6.667,9,3],
+	  [&#39;fundamentis&#39;,14.000,4.667,6,3],
+	  [&#39;SpiegoLeDiscussioni&#39;,131.000,43.667,119,3],
+	  [&#39;giordanob&#39;,24.000,8.000,21,3],
+	  [&#39;timendum&#39;,171.000,57.000,96,3],
+	  [&#39;KarlFiabeschi&#39;,40.000,13.333,18,3],
+	  [&#39;(vuoto)&#39;,53.000,17.667,30,3],
+	  [&#39;LaTalpa123&#39;,79.000,26.333,58,3],
+	  [&#39;subsonico&#39;,21.000,10.500,18,2],
+	  [&#39;o-zone1978&#39;,76.000,38.000,75,2],
+	  [&#39;TubePanic&#39;,50.000,25.000,46,2],
+	  [&#39;hex75&#39;,19.000,9.500,18,2],
+	  [&#39;spaceape__&#39;,21.000,10.500,13,2],
+	  [&#39;IaintBatman&#39;,5.000,2.500,4,2],
+	  [&#39;fen0x&#39;,68.000,34.000,43,2],
+	  [&#39;improb&#39;,15.000,7.500,9,2],
+	  [&#39;arancia&#39;,37.000,18.500,30,2],
+	  [&#39;InLisbon&#39;,59.000,29.500,58,2],
+	  [&#39;rdc-cmv&#39;,19.000,9.500,13,2],
+	  [&#39;Jokeris91&#39;,25.000,12.500,25,2],
+	  [&#39;gerino95&#39;,4.000,2.000,3,2],
+	  [&#39;fghjnn&#39;,45.000,22.500,28,2],
+	  [&#39;the_whiteline&#39;,25.000,12.500,15,2],
+	  [&#39;l0rk-&#39;,3.000,1.500,3,2],
+	  [&#39;trk8o&#39;,30.000,15.000,20,2],
+	  [&#39;Lahfinger&#39;,50.000,25.000,34,2],
+	  [&#39;guagno333&#39;,0.000,0.000,0,2],
+	  [&#39;zykzakk&#39;,11.000,5.500,6,2],
+	  [&#39;onmello&#39;,81.000,40.500,74,2],
+	  [&#39;figuringitoutslowly&#39;,26.000,13.000,24,2],
+	  [&#39;Poggor&#39;,25.000,12.500,21,2],
+	  [&#39;chuego&#39;,9.000,4.500,9,2],
+	  [&#39;Sonounuomoebasta&#39;,10.000,5.000,9,2],
+	  [&#39;frisu&#39;,162.000,81.000,160,2],
+	  [&#39;spaghialpomodoro&#39;,59.000,29.500,43,2],
+	  [&#39;learninghunger&#39;,10.000,5.000,10,2],
+	  [&#39;gerri_&#39;,41.000,20.500,25,2],
+	  [&#39;Y677&#39;,3.000,1.500,3,2],
+	  [&#39;tecnofauno&#39;,44.000,22.000,43,2],
+	  [&#39;maantson&#39;,92.000,46.000,78,2],
+	  [&#39;avgeek2805&#39;,17.000,8.500,9,2],
+	  [&#39;Frydge&#39;,20.000,10.000,18,2],
+	  [&#39;Baanfoo&#39;,25.000,12.500,15,2],
+	  [&#39;malmostoso&#39;,87.000,43.500,47,2],
+	  [&#39;trot-trot&#39;,23.000,11.500,22,2],
+	  [&#39;AinorEarendil&#39;,6.000,3.000,5,2],
+	  [&#39;Andreaaaaaaa&#39;,4.000,2.000,4,2],
+	  [&#39;annoyed_by_myself&#39;,22.000,11.000,20,2],
+	  [&#39;MoiraOrfei&#39;,64.000,32.000,59,2],
+	  [&#39;lorenzo0004&#39;,3.000,1.500,3,2],
+	  [&#39;natema1&#39;,70.000,70.000,70,1],
+	  [&#39;edmael&#39;,36.000,36.000,36,1],
+	  [&#39;rayzing&#39;,38.000,38.000,38,1],
+	  [&#39;fedexist&#39;,0.000,0.000,0,1],
+	  [&#39;vanlikeno1&#39;,12.000,12.000,12,1],
+	  [&#39;felis_manul&#39;,2.000,2.000,2,1],
+	  [&#39;ovvio_fake&#39;,36.000,36.000,36,1],
+	  [&#39;botng&#39;,7.000,7.000,7,1],
+	  [&#39;seaview218&#39;,82.000,82.000,82,1],
+	  [&#39;BoxMulder&#39;,17.000,17.000,17,1],
+	  [&#39;thrtxt&#39;,32.000,32.000,32,1],
+	  [&#39;Bromao&#39;,26.000,26.000,26,1],
+	  [&#39;antoniobellu&#39;,6.000,6.000,6,1],
+	  [&#39;Fiorenzo_Z&#39;,0.000,0.000,0,1],
+	  [&#39;nicolas1611&#39;,15.000,15.000,15,1],
+	  [&#39;Brubndubn&#39;,6.000,6.000,6,1],
+	  [&#39;Pich23&#39;,1.000,1.000,1,1],
+	  [&#39;fkasophia&#39;,3.000,3.000,3,1],
+	  [&#39;ricca1407&#39;,2.000,2.000,2,1],
+	  [&#39;forseunfuturopovero&#39;,27.000,27.000,27,1],
+	  [&#39;echoicreated&#39;,2.000,2.000,2,1],
+	  [&#39;Frank-o-stante&#39;,20.000,20.000,20,1],
+	  [&#39;elborghesan&#39;,2.000,2.000,2,1],
+	  [&#39;alo75&#39;,24.000,24.000,24,1],
+	  [&#39;esbio&#39;,21.000,21.000,21,1],
+	  [&#39;3v1n0&#39;,4.000,4.000,4,1],
+	  [&#39;wildeastmofo&#39;,178.000,178.000,178,1],
+	  [&#39;FRizzo91&#39;,5.000,5.000,5,1],
+	  [&#39;mrbyte72&#39;,1.000,1.000,1,1],
+	  [&#39;buttatovia&#39;,14.000,14.000,14,1],
+	  [&#39;nerdvana89&#39;,121.000,121.000,121,1],
+	  [&#39;fuck_reddit_policy&#39;,2.000,2.000,2,1],
+	  [&#39;OffMine&#39;,6.000,6.000,6,1],
+	  [&#39;buttavia99&#39;,12.000,12.000,12,1],
+	  [&#39;pasternacco&#39;,14.000,14.000,14,1],
+	  [&#39;gecapoda&#39;,4.000,4.000,4,1],
+	  [&#39;drstins_n&#39;,52.000,52.000,52,1],
+	  [&#39;gentedinarni&#39;,11.000,11.000,11,1],
+	  [&#39;Redegar&#39;,1.000,1.000,1,1],
+	  [&#39;Buwski&#39;,3.000,3.000,3,1],
+	  [&#39;Saggiolo&#39;,0.000,0.000,0,1],
+	  [&#39;c_iggy&#39;,7.000,7.000,7,1],
+	  [&#39;simoneobo&#39;,6.000,6.000,6,1],
+
+
+
+	]);
+	var options = {
+	  title: &#39;Voti per Autore&#39;,
+	  colorAxis: {colors: [&#39;blue&#39;, &#39;red&#39;]},
+	  hAxis: {title: &#39;Somma voti&#39;},
+	  vAxis: {title: &#39;Media voti&#39;}
+	};
+
+	var chart = new google.visualization.BubbleChart(document.getElementById(&#39;series_chart_div&#39;));
+	chart.draw(data, options);
+  }
+&lt;/script&gt;
+&lt;div id=&#34;series_chart_div&#34; style=&#34;width: 900px; height: 500px;&#34;&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grafici e statistiche di sei mesi del 2016 di /r/italy: Domini interattivo</title>
+      <link>https://timendum.github.io/subpages/ritaly-2016/domini2/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/subpages/ritaly-2016/domini2/</guid>
+      <description>&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.gstatic.com/charts/loader.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+  google.charts.load(&#39;current&#39;, {&#39;packages&#39;:[&#39;corechart&#39;]});
+  google.charts.setOnLoadCallback(drawSeriesChart);
+  function drawSeriesChart() {
+	var data = google.visualization.arrayToDataTable([
+	  [&#34;Dominio&#34;,&#34;Somma&#34;,&#34;Media&#34;,&#34;Massimo&#34;,&#34;Conteggio&#34;],
+//          [&#39;self.italy&#39;,2584.000,11.963,157,216],
+	  [&#39;repubblica.it&#39;,1034.000,20.275,195,51],
+	  [&#39;ilpost.it&#39;,210.000,7.500,20,28],
+	  [&#39;lastampa.it&#39;,415.000,15.370,75,27],
+	  [&#39;corriere.it&#39;,300.000,12.000,55,25],
+	  [&#39;imgur.com&#39;,1273.000,63.650,306,20],
+	  [&#39;youtube.com&#39;,470.000,27.647,188,17],
+	  [&#39;reddit.com&#39;,1019.000,59.941,281,17],
+	  [&#39;ilfattoquotidiano.it&#39;,171.000,12.214,88,14],
+	  [&#39;ansa.it&#39;,167.000,15.182,34,11],
+	  [&#39;reddituploads.com&#39;,138.000,23.000,70,6],
+	  //[&#39;gelocal.it&#39;,98.000,19.600,47,5],
+	  [&#39;vice.com&#39;,69.000,17.250,36,4],
+	  [&#39;facebook.com&#39;,67.000,22.333,56,3],
+	  [&#39;linkiesta.it&#39;,81.000,27.000,62,3],
+	  [&#39;huffingtonpost.it&#39;,63.000,21.000,46,3],
+	  [&#39;ilfoglio.it&#39;,105.000,35.000,80,3],
+	  [&#39;wikipedia.org&#39;,141.000,47.000,84,3]
+
+	]);
+	var options = {
+	  title: &#39;Voti per dominio&#39;,
+	  colorAxis: {colors: [&#39;blue&#39;, &#39;red&#39;]},
+	  hAxis: {title: &#39;Somma voti&#39;},
+	  vAxis: {title: &#39;Media voti&#39;}
+	};
+
+	var chart = new google.visualization.BubbleChart(document.getElementById(&#39;series_chart_div&#39;));
+	chart.draw(data, options);
+  }
+&lt;/script&gt;
+&lt;div id=&#34;series_chart_div&#34; style=&#34;width: 900px; height: 500px;&#34;&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analisi sui comuni che guadagnano di più con la polizia municipale</title>
+      <link>https://timendum.github.io/posts/analisi-comuni-guadagnano-polizia-municipale/</link>
+      <pubDate>Mon, 10 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/analisi-comuni-guadagnano-polizia-municipale/</guid>
+      <description>&lt;p&gt;Grazie ai dati messi a disposizione da openpolis/openbilanci ho fatto qualche grafico sui comuni che incassano di più con la pulizia municipale; questo comprende tutte le entrate realizzate nell’esercizio delle funzioni di polizia, tra cui le contravvenzioni per infrazioni al codice della strada.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Premessa&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tutte le analisi partono dai dati su incasso &lt;strong&gt;&lt;em&gt;pro capite&lt;/em&gt;&lt;/strong&gt; cioè quanto un comune incassa per ogni abitante del comune stesso.&lt;/p&gt;
+&lt;p&gt;I dati sono del 2014.&lt;/p&gt;
+&lt;p&gt;Non tutti i comuni hanno presentato questa voce, l&amp;rsquo;esempio più grosso è Napoli.&lt;/p&gt;
+&lt;h3 id=&#34;iniziamo-con-un-grafico-per-regione&#34;&gt;Iniziamo con un grafico per regione&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/guadagno-vigili/regioni.png&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://datawrapper.dwcdn.net/gOnHg/2/&#34;&gt;Grafico interattivo&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;maggiori-comuni&#34;&gt;Maggiori comuni&lt;/h3&gt;
+&lt;p&gt;Con più di 200.000 abitanti&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/guadagno-vigili/maggiori.png&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://datawrapper.dwcdn.net/gadmR/2/&#34;&gt;Grafico interattivo&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;top-50-comuni&#34;&gt;Top 50 comuni&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/guadagno-vigili/comuni.png&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://timendum.github.io/subpages/guadagno-vigili/comuni/&#34;&gt;Grafico interattivo&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;fonti&#34;&gt;Fonti&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.openpolis.it/2016/10/05/quanto-guadagnano-i-comuni-con-multe-e-contravvenzioni/10182&#34;&gt;Blog OpenPolis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sharecsv.com/s/19b8ee877302321b2c9ada38609b06dc/regioni.csv&#34;&gt;Dati grezzi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.openbilanci.it/classifiche/entrate/consuntivo-entrate-cassa-entrate-extratributarie-servizi-pubblici-polizia-locale/2014&#34;&gt;Dati di Open Bilanci&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;cosa-ho-utilizzato&#34;&gt;Cosa ho utilizzato&lt;/h3&gt;
+&lt;p&gt;Ho preso i dati dal post di openpolis. Li ho elaborati con Excel: una tabella pivot e un ordinamento top 50.&lt;/p&gt;
+&lt;p&gt;Per i grafici ho usato &lt;a href=&#34;https://developers.google.com/chart/interactive/docs/gallery/geochart&#34;&gt;Google geochart&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Per la creazione delle pagine ho usato &lt;a href=&#34;https://thimble.mozilla.org/&#34;&gt;Thimble di Mozilla&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;aggiornamento-2021-10-05&#34;&gt;Aggiornamento 2021-10-05&lt;/h4&gt;
+&lt;p&gt;Le mappe originali erano su Google Charts, ma a causa del cambio di licenza, non è più possibie includere i grafici gratuitamente.&lt;br&gt;
+Ho quindi salvato degli screenshot e migrato i dati su DataWrapper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analisi sui comuni che guadagnano di più con la polizia municipale: Maggiori comuni</title>
+      <link>https://timendum.github.io/subpages/guadagno-vigili/maggiori/</link>
+      <pubDate>Mon, 10 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/subpages/guadagno-vigili/maggiori/</guid>
+      <description>&lt;html&gt;
+  &lt;head&gt;
+    &lt;script type=&#39;text/javascript&#39; src=&#39;https://www.gstatic.com/charts/loader.js&#39;&gt;&lt;/script&gt;
+    &lt;script type=&#39;text/javascript&#39;&gt;
+      google.charts.load(&#39;upcoming&#39;, {&#39;packages&#39;: [&#39;geochart&#39;]});
+      google.charts.setOnLoadCallback(drawMarkersMap);
+
+      function drawMarkersMap() {
+        var data = google.visualization.arrayToDataTable([
+          [&#39;città&#39;,&#39;entrate pro capite&#39;],
+          [&#39;Milano&#39;,101.92],
+          [&#39;Firenze&#39;,90.98],
+          [&#39;Torino&#39;,58.07],
+          [&#39;Roma&#39;,57.71],
+          [&#39;Bologna&#39;,56.46],
+          [&#39;Verona&#39;,44.38],
+          [&#39;Venezia&#39;,43.98],
+          [&#39;Genova&#39;,36.18],
+          [&#39;Padova&#39;,33.99],
+          [&#39;Palermo&#39;,31.42],
+          [&#39;Catania&#39;,19.97],
+          [&#39;Bari&#39;,18.57],
+          [&#39;Trieste&#39;,13.73],
+          [&#39;Napoli&#39;,0]
+        ]);
+
+        var options = {
+          region: &#39;IT&#39;,
+          displayMode: &#39;markers&#39;,
+
+        };
+
+        var chart = new google.visualization.GeoChart(document.getElementById(&#39;chart_div&#39;));
+        chart.draw(data, options);
+      };
+    &lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;div id=&#34;chart_div&#34; style=&#34;width: 900px; height: 500px;&#34;&gt;&lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</description>
+    </item>
+    
+    <item>
+      <title>Analisi sui comuni che guadagnano di più con la polizia municipale: Per Regione</title>
+      <link>https://timendum.github.io/subpages/guadagno-vigili/regioni/</link>
+      <pubDate>Mon, 10 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/subpages/guadagno-vigili/regioni/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://www.gstatic.com/charts/loader.js&#39;&gt;&lt;/script&gt;
+&lt;script type=&#39;text/javascript&#39;&gt;
+  google.charts.load(&#39;upcoming&#39;, {&#39;packages&#39;: [&#39;geochart&#39;]});
+  google.charts.setOnLoadCallback(drawMarkersMap);
+
+  function drawMarkersMap() {
+	var data = google.visualization.arrayToDataTable([
+	  [&#39;Regione&#39;,&#39;Media&#39; ], 
+	  [&#39;Abruzzo&#39;, 4.932], 
+	  [&#39;Basilicata&#39;, 2.977],
+	  [&#39;Calabria&#39;, 3.830],
+	  [&#39;Campania&#39;, 5.148],
+	  [&#39;Emilia Romagna&#39;, 8.515],
+	  [&#39;Friuli Venezia Giulia&#39;, 4.216],
+	  [&#39;Lazio&#39;, 11.195],
+	  [&#39;Liguria&#39;, 16.113],
+	  [&#39;Lombardia&#39;, 7.991],
+	  [&#39;Marche&#39;, 10.895],
+	  [&#39;Molise&#39;, 6.619],
+	  [&#39;Piemonte&#39;, 5.487],
+	  [&#39;Puglia&#39;, 6.036],
+	  [&#39;Sardegna&#39;, 3.699],
+	  [&#39;Sicilia&#39;, 4.073],
+	  [&#39;Toscana&#39;, 15.573],
+	  [&#39;Trentino Alto Adige&#39;, 4.090],
+	  [&#39;Umbria&#39;, 6.923],
+	  [&#39;Valle D\&#39;Aosta&#39;, 2.928],
+	  [&#39;Veneto&#39;, 12.902]
+
+	]);
+
+	var options = {
+	  region: &#39;IT&#39;,
+	  displayMode: &#39;markers&#39;,
+
+	};
+
+	var chart = new google.visualization.GeoChart(document.getElementById(&#39;chart_div&#39;));
+	chart.draw(data, options);
+  };
+&lt;/script&gt;
+&lt;div id=&#34;chart_div&#34; style=&#34;width: 900px; height: 500px;&#34;&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analisi sui comuni che guadagnano di più con la polizia municipale: Top 50 comuni</title>
+      <link>https://timendum.github.io/subpages/guadagno-vigili/comuni/</link>
+      <pubDate>Mon, 10 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/subpages/guadagno-vigili/comuni/</guid>
+      <description>
+    &lt;script type=&#39;text/javascript&#39; src=&#39;https://www.gstatic.com/charts/loader.js&#39;&gt;&lt;/script&gt;
+    &lt;script type=&#39;text/javascript&#39;&gt;
+      google.charts.load(&#39;upcoming&#39;, {&#39;packages&#39;: [&#39;geochart&#39;]});
+      google.charts.setOnLoadCallback(drawMarkersMap);
+
+      function drawMarkersMap() {
+        var data = google.visualization.arrayToDataTable([
+          [&#39;Comune&#39;,&#39;Pro capite&#39; ], 
+          [&#39;Serravalle di Chienti&#39;, 831.490],
+          [&#39;Comabbio&#39;, 781.430],
+          [&#39;Rocca Imperiale&#39;, 628.980],
+          [&#39;Villa Biscossi&#39;, 616.190],
+          [&#39;Macchia d\&#39;Isernia&#39;, 585.600],
+          [&#39;Colle Santa Lucia&#39;, 535.510],
+          [&#39;San Tomaso Agordino&#39;, 453.650],
+          [&#39;Vinzaglio&#39;, 451.870],
+          [&#39;Ficarolo&#39;, 436.740],
+          [&#39;Atina&#39;, 368.440],
+          [&#39;Melizzano&#39;, 365.880],
+          [&#39;Buonconvento&#39;, 350.530],
+          [&#39;Monastir&#39;, 334.860],
+          [&#39;Minturno&#39;, 293.580],
+          [&#39;Sperlonga&#39;, 277.640],
+          [&#39;Belmonte Castello&#39;, 271.080],
+          [&#39;Ariano nel Polesine&#39;, 261.340],
+          [&#39;Poggio Moiano&#39;, 249.660],
+          [&#39;Borgio Verezzi&#39;, 246.620],
+          [&#39;Sant\&#39;Angelo di Piove di Sacco&#39;, 236.910],
+          [&#39;Murlo&#39;, 236.630],
+          [&#39;Casalgrasso&#39;, 233.010],
+          [&#39;Pessina Cremonese&#39;, 230.060],
+          [&#39;Massazza&#39;, 216.470],
+          [&#39;Letojanni&#39;, 215.570],
+          [&#39;Dogliola&#39;, 211.770],
+          [&#39;Bressana Bottarone&#39;, 202.890],
+          [&#39;Redondesco&#39;, 199.090],
+          [&#39;Las Plassas&#39;, 190.700],
+          [&#39;Verrone&#39;, 188.320],
+          [&#39;Sarsina&#39;, 187.270],
+          [&#39;Spotorno&#39;, 185.140],
+          [&#39;Monte Grimano Terme&#39;, 182.420],
+          [&#39;Civita d\&#39;Antino&#39;, 178.950],
+          [&#39;Arsoli&#39;, 176.390],
+          [&#39;Pegognaga&#39;, 173.920],
+          [&#39;Calto&#39;, 172.070],
+          [&#39;Pieve Torina&#39;, 170.310],
+          [&#39;Pecetto Torinese&#39;, 164.990],
+          [&#39;Gaeta&#39;, 164.940],
+          [&#39;Carrodano&#39;, 164.130],
+          [&#39;Maruggio&#39;, 163.780],
+          [&#39;Ameglia&#39;, 159.730],
+          [&#39;Nibionno&#39;, 150.550],
+          [&#39;Fragneto Monforte&#39;, 142.470],
+          [&#39;Cittadella&#39;, 141.850],
+          [&#39;Pomponesco&#39;, 140.070],
+          [&#39;Pignataro Interamna&#39;, 139.260],
+          [&#39;Visone&#39;, 134.520],
+
+        ]);
+
+        var options = {
+          region: &#39;IT&#39;,
+          displayMode: &#39;markers&#39;,
+
+        };
+
+        var chart = new google.visualization.GeoChart(document.getElementById(&#39;chart_div&#39;));
+        chart.draw(data, options);
+      };
+    &lt;/script&gt;
+    &lt;div id=&#34;chart_div&#34; style=&#34;width: 900px; height: 500px;&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>politica on Timendum</title>
+    <link>https://timendum.github.io/tags/politica/</link>
+    <description>Recent content in politica on Timendum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0200</lastBuildDate><atom:link href="https://timendum.github.io/tags/politica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un&#39;analisi degli attuali ministri e i loro precedenti incarichi</title>
+      <link>https://timendum.github.io/posts/analisi-ministri-governo-draghi/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/analisi-ministri-governo-draghi/</guid>
+      <description>Ispirato da un servizio di PropagandaLive, ho messo un tabella l&amp;rsquo;elenco dei ministri del governo attuale e i loro precedenti incarichi governativi.</description>
+    </item>
+    
+    <item>
+      <title>Analisi del contratto di Governo Lega - Movimento 5 Stelle</title>
+      <link>https://timendum.github.io/posts/analisi-contratto-governo-lega-m5s/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/analisi-contratto-governo-lega-m5s/</guid>
+      <description>Ho svolto un&amp;rsquo;analisi del contratto di governo Movimento 5 Stelle-Lega con un focus sulla sentiment analisys.</description>
+    </item>
+    
+    <item>
+      <title>Renzi vs Di Maio Simulator</title>
+      <link>https://timendum.github.io/posts/renzi-di-maio-simulator/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/renzi-di-maio-simulator/</guid>
+      <description>Dai rispettivi Facebook di Renzi e Di Maio ho catturato gli ultimi 3 mesi di interventi, li ho dati in pasto al motore di /r/italy_SS ed ecco qui il risultato. Più sotto qualche nota.</description>
+    </item>
+    
+    <item>
+      <title>Avanti - Matteo Renzi Simulator</title>
+      <link>https://timendum.github.io/posts/avanti-matteo-renzi-simulator/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/avanti-matteo-renzi-simulator/</guid>
+      <description>Sono venuto finalmente in possesso di &lt;em&gt;Avanti&lt;/em&gt; il libro di Matteo Renzi, dopo il successo di Alessandro Di Battista Simulator, ho quindi pensato di generare alcune frasi partendo dai più di 400kb di testo presenti, con il modello di markov, lo stesso che alimenta /r/italy_SS e /r/subredditSimulator.</description>
+    </item>
+    
+    <item>
+      <title>A testa in su - Alessandro Di Battista Simulator</title>
+      <link>https://timendum.github.io/posts/testa-alessandro-di-battista-simulator/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/testa-alessandro-di-battista-simulator/</guid>
+      <description>Sono venuto in possesso di &lt;em&gt;A testa in su&lt;/em&gt; il libro di Alessandro Di Battista, ho quindi pensato di generare alcune frasi partendo dai quasi 350kb di testo presenti, con il modello di markov, lo stesso che alimenta /r/italy_SS e /r/subredditSimulator.</description>
+    </item>
+    
+    <item>
+      <title>Analisi sui comuni che guadagnano di più con la polizia municipale</title>
+      <link>https://timendum.github.io/posts/analisi-comuni-guadagnano-polizia-municipale/</link>
+      <pubDate>Mon, 10 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/analisi-comuni-guadagnano-polizia-municipale/</guid>
+      <description>Ho fatto qualche grafico sui comuni che incassano di più con la pulizia municipale.</description>
+    </item>
+    
+  </channel>
+</rss>
