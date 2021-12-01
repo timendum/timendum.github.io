@@ -4,7 +4,7 @@ title = 'Timendum'
 author = "Timendum"
 paginate = 5
 
-
+publishDir = "gh-pages"
 
 # Generate a nice robots.txt
 enableRobotsTXT = true
