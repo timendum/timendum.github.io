@@ -6,7 +6,16 @@
     <description>Recent content in geografia on Timendum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Mon, 16 Jul 2018 00:00:00 +0200</lastBuildDate><atom:link href="https://timendum.github.io/tags/geografia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0200</lastBuildDate><atom:link href="https://timendum.github.io/tags/geografia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I capoluoghi sono al centro delle regioni?</title>
+      <link>https://timendum.github.io/posts/capoluoghi-centro-regioni/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/capoluoghi-centro-regioni/</guid>
+      <description>Una cartina e altri dati che evidenzia quanto il capoluogo sia vicino (o lontano) dal centro geometrico della sua regione.</description>
+    </item>
+    
     <item>
       <title>Orientamento delle città italiane</title>
       <link>https://timendum.github.io/posts/orientamento-citta-italiane/</link>

@@ -6,7 +6,25 @@
     <description>Recent content in reddit on Timendum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0200</lastBuildDate><atom:link href="https://timendum.github.io/tags/reddit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://timendum.github.io/tags/reddit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analisi dei post del 2021 di r/italy</title>
+      <link>https://timendum.github.io/posts/ritaly-2021/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/ritaly-2021/</guid>
+      <description>Ho 	estratto tutti i post del 2021 di r/italy, ho quindi eseguito alcune analisi.</description>
+    </item>
+    
+    <item>
+      <title>I capoluoghi sono al centro delle regioni?</title>
+      <link>https://timendum.github.io/posts/capoluoghi-centro-regioni/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/capoluoghi-centro-regioni/</guid>
+      <description>Una cartina e altri dati che evidenzia quanto il capoluogo sia vicino (o lontano) dal centro geometrico della sua regione.</description>
+    </item>
+    
     <item>
       <title>Ho creato dei podcast per tutti gli audiolibri di Ad Alta voce [update 2021]</title>
       <link>https://timendum.github.io/posts/podcast-ad-alta-voce/</link>
