@@ -1,7 +1,7 @@
-[submodule ".\\themes\\indigo"]
-	path = .\\themes\\indigo
-	url = https://github.com/timendum/indigo.git
 [submodule "gh-pages"]
 	path = gh-pages
 	url = https://github.com/timendum/timendum.github.io.git
 	branch = master
+[submodule "themes/indigo"]
+	path = themes/indigo
+	url = https://github.com/timendum/indigo.git
