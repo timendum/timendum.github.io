@@ -5,10 +5,68 @@
     <description>Recent content on Timendum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="https://timendum.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Schema del libro Lo stregone della Montagna Infuocata</title>
+      <link>https://timendum.github.io/posts/stregone-montagna-infuocata/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/stregone-montagna-infuocata/</guid>
+      <description>&lt;p&gt;Nel 2018 la Salani ha messo in vendita una nuova edizione de &lt;em&gt;Lo stregone della Montagna Infuocata&lt;/em&gt;,
+il &lt;strong&gt;primo&lt;/strong&gt; libro game della storia, scritto da Steve Jackson e Ian Livingstone.&lt;/p&gt;
+&lt;p&gt;Ero abituato allo schema di Lupo Solitario,
+quindi ho preso sotto gamba il libro, giocandoci allegramente,
+per poi scoprire però che questa serie contiene veri e propri labirinti,
+impossibili da navigare senza farsi una cartina e senza prendere appunti,
+anche perché per concludere il libro serve passare da specifiche stanze.&lt;/p&gt;
+&lt;p&gt;Ecco quindi il mio schema del libro.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/stregone-montagna-infuocata.png&#34; alt=&#34;Schema de Lo stregone della Montagna Infuocata&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ho fatto lo schema con &lt;a href=&#34;http://apps.diagrams.net/&#34;&gt;Diagrams.net&lt;/a&gt;
+e in effetti questa stessa immagine è leggibile e modificabile dal sito/app,
+magie dei metadati nelle PNG.&lt;/p&gt;
+&lt;p&gt;Qualche nota &amp;ldquo;metodologica&amp;rdquo;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ho segnato solo i bivi&lt;/li&gt;
+&lt;li&gt;molti passaggi obbligatori sono esclusi, ho segnato solo quelli che ho trovato utili&lt;/li&gt;
+&lt;li&gt;ho cercato di rispettare l&amp;rsquo;orientamento cardinale, ma non è garantito al 100%&lt;/li&gt;
+&lt;li&gt;la possibilità di tornare indietro sui propri passi è solitamente non riportata, con le seguente eccezioni:
+&lt;ul&gt;
+&lt;li&gt;in grigio il ritorno indietro da stanze chiuse, vicoli ciechi, etc&lt;/li&gt;
+&lt;li&gt;con frecce bidirezionali nella parte a &amp;ldquo;labirinto&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Infine qualche appunto testuale su oggetti interessanti,
+che volutamente non ho incluso nella mappa per evitare di renderla una vera e propria soluzione:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;8: martello e paletti di legno&lt;/li&gt;
+&lt;li&gt;23: Chiave 125&lt;/li&gt;
+&lt;li&gt;57: Chiave 9&lt;/li&gt;
+&lt;li&gt;78: Arco e freccia d&amp;rsquo;argento&lt;/li&gt;
+&lt;li&gt;82: 1 Pezzo d&amp;rsquo;Oro&lt;/li&gt;
+&lt;li&gt;89: 8 Pezzi d&amp;rsquo;Oro e Acqua benedetta / 5 Pezzi d&amp;rsquo;Oro / 6 Pezzi d&amp;rsquo;Oro&lt;/li&gt;
+&lt;li&gt;97: Candele Blu&lt;/li&gt;
+&lt;li&gt;99: Chiave 66&lt;/li&gt;
+&lt;li&gt;102: Formaggio&lt;/li&gt;
+&lt;li&gt;104: 8 Pezzi d&amp;rsquo;Oro e un crocifisso&lt;/li&gt;
+&lt;li&gt;138: 8 Pezzi d&amp;rsquo;Oro&lt;/li&gt;
+&lt;li&gt;179: Chiave 111 e 8 Pezzi d&amp;rsquo;Oro&lt;/li&gt;
+&lt;li&gt;205: 30 Pezzi d&amp;rsquo;Oro, Bastoncino a forma di Y&lt;/li&gt;
+&lt;li&gt;223: Scudo rotondo&lt;/li&gt;
+&lt;li&gt;251: Spada scintillante&lt;/li&gt;
+&lt;li&gt;255: Chiave 111 e Gemma del ciclope&lt;/li&gt;
+&lt;li&gt;257: 25 Pezzi d&amp;rsquo;Oro e Pozione di Invisibilità, Guanto nero&lt;/li&gt;
+&lt;li&gt;271: Chiave rimessa barche&lt;/li&gt;
+&lt;li&gt;307: Elmo magico&lt;/li&gt;
+&lt;li&gt;370: Incantesimo di Farrigo Di Maggio&lt;/li&gt;
+&lt;li&gt;397: Chiave 99&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Analisi dei post del 2021 di r/italy</title>
@@ -314,10 +372,10 @@
 &lt;h2 id=&#34;andamento-nellanno&#34;&gt;Andamento nell&amp;rsquo;anno&lt;/h2&gt;
 &lt;h3 id=&#34;numero-di-commenti&#34;&gt;Numero di commenti&lt;/h3&gt;
 &lt;p&gt;Ho voluto rappresentare mediamente quanti commenti hanno ricevuto i post (esclusi caffè, megathread, &amp;hellip;) nel corso dell&amp;rsquo;anno. In arancione una regressione polinomiale di 2o grado, cioè una curva che dovrebbe rappresentare il macro-andamento nell&amp;rsquo;anno.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2021/zxim68pas2b81.webp&#34; alt=&#34;Commenti nell&amp;rsquo;anno&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2021/zxim68pas2b81.webp&#34; alt=&#34;Commenti nell&amp;amp;rsquo;anno&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;punteggio&#34;&gt;Punteggio&lt;/h3&gt;
 &lt;p&gt;Come sopra, ma con il punteggio finale dei post.Qui la regressione è di 8o grado perché il trend è molto più ondulatorio, con un enorme picco a luglio/agosto.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2021/nxeg2wcbs2b81.webp&#34; alt=&#34;Punteggio nell&amp;rsquo;anno&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2021/nxeg2wcbs2b81.webp&#34; alt=&#34;Punteggio nell&amp;amp;rsquo;anno&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;come-ho-fatto&#34;&gt;Come ho fatto?&lt;/h2&gt;
 &lt;p&gt;Ho scaricato i dati aggiornati dei post con PRAW, salvati in un csv, quindi analizzati in Python, su un notebook Jupyter, grazie a pandas, numpy, scipy; i grafici sono fatti con matplotlib.&lt;/p&gt;
 &lt;p&gt;Il codice è &lt;a href=&#34;https://gist.github.com/timendum/f682ed84c1dca8b48cab9542c832daa0&#34;&gt;su gist&lt;/a&gt;.&lt;/p&gt;
@@ -723,7 +781,7 @@ e i loro precedenti incarichi governativi:&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;perimetro&#34;&gt;Perimetro&lt;/h2&gt;
 &lt;p&gt;L&amp;rsquo;analisi include &lt;code&gt;30.373&lt;/code&gt; post dal &lt;a href=&#34;https://www.reddit.com/r/italy/comments/8no1y8/pasta_con_olio_oppure_pasta_col_burro/&#34;&gt;2018-06-01T01:46:09+00:00&lt;/a&gt; al &lt;a href=&#34;https://www.reddit.com/r/italy/comments/bvf08u/ha_reddito_cittadinanza_e_lavora_in_nero_perder%C3%A0/&#34;&gt;2019-06-01T00:31:05+00:00&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Sono stati inclusi anche i post cancellati o di utenti cancellati, sempre che abbia salvato l&#39;&lt;em&gt;id&lt;/em&gt; in tempo.&lt;/p&gt;
+&lt;p&gt;Sono stati inclusi anche i post cancellati o di utenti cancellati, sempre che abbia salvato l&amp;rsquo;&lt;em&gt;id&lt;/em&gt; in tempo.&lt;/p&gt;
 &lt;p&gt;Ho preferito aspettare qualche giorno per chiudere i risultati, per avere gli ultimi upvote. In ogni caso i voti dei contenuti degli ultimi sei mesi possono cambiare, in quanto non ancora archiviati da Reddit.&lt;/p&gt;
 &lt;h2 id=&#34;qualche-numero-per-partire&#34;&gt;Qualche numero per partire&lt;/h2&gt;
 &lt;p&gt;Iniziamo con qualche numero facile e generico sui post.&lt;/p&gt;
@@ -930,7 +988,7 @@ e i loro precedenti incarichi governativi:&lt;/p&gt;
 &lt;p&gt;Un argomento molto ricorrente sono gli operatori telefonici, le loro offerte e i disservizi.&lt;/p&gt;
 &lt;p&gt;Il grafico seguente mostra quante volte un certo operatore è stato nominato in quella settimana.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/italy-2019/operatori.png&#34; alt=&#34;Citazioni di un operatore telefonico&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Per curiosità ho fatto un conto e l&#39;&lt;a href=&#34;https://it.wikipedia.org/wiki/Indice_di_correlazione_di_Pearson&#34;&gt;indice di correlazione di Pearson&lt;/a&gt; tra &amp;ldquo;vodafone&amp;rdquo; e &amp;ldquo;Iliad&amp;rdquo; è di &lt;code&gt;0.873&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Per curiosità ho fatto un conto e l&amp;rsquo;&lt;a href=&#34;https://it.wikipedia.org/wiki/Indice_di_correlazione_di_Pearson&#34;&gt;indice di correlazione di Pearson&lt;/a&gt; tra &amp;ldquo;vodafone&amp;rdquo; e &amp;ldquo;Iliad&amp;rdquo; è di &lt;code&gt;0.873&lt;/code&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;piatti&#34;&gt;Piatti&lt;/h3&gt;
 &lt;p&gt;Quali sono i piatti preferiti da r/italy?&lt;/p&gt;
 &lt;p&gt;Il seguente grafico mostra tutti i post con più di 1 voto, suddivisi per piatto.&lt;/p&gt;
@@ -962,7 +1020,7 @@ e i loro precedenti incarichi governativi:&lt;/p&gt;
       <pubDate>Mon, 16 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>https://timendum.github.io/posts/orientamento-citta-italiane/</guid>
-      <description>&lt;p&gt;Ispirato da &lt;a href=&#34;http://geoffboeing.com/2018/07/city-street-orientations-world/&#34;&gt;questo articolo&lt;/a&gt;
+      <description>&lt;p&gt;Ispirato da &lt;a href=&#34;http://geoffboeing.com/2018/07/city-street-orientations-world/&#34;&gt;questo articolo&lt;/a&gt; 
 ho creato, grazie a
 &lt;a href=&#34;https://github.com/gboeing/osmnx-examples/blob/master/notebooks/17-street-network-orientations.ipynb&#34;&gt;tanto bel codice&lt;/a&gt;
 quasi già pronto,
@@ -2700,7 +2758,7 @@ having count(*) &amp;gt; 1&lt;/code&gt;&lt;/pre&gt;
       <guid>https://timendum.github.io/posts/ritaly-gold/</guid>
       <description>&lt;p&gt;Come chiesto da LaTalpa123, ecco una personale analisi dei contenuti di /r/italy che hanno ricevuto il gold.&lt;/p&gt;
 &lt;h2 id=&#34;perimetro&#34;&gt;Perimetro&lt;/h2&gt;
-&lt;p&gt;L&amp;rsquo;analisi include 99 post, dal &lt;a href=&#34;https://np.reddit.com/r/italy/comments/3lecya/ieri_sera_ho_mangiato_allosteria_francescana_di/&#34;&gt;18/09/2015&lt;/a&gt; a oggi (ieri in realtà l&#39;&lt;a href=&#34;https://np.reddit.com/r/italy/comments/5ziuim/come_immaginate_fisicamente_gli_utenti_di_ritaly/&#34;&gt;ultimo&lt;/a&gt; registrato).&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;analisi include 99 post, dal &lt;a href=&#34;https://np.reddit.com/r/italy/comments/3lecya/ieri_sera_ho_mangiato_allosteria_francescana_di/&#34;&gt;18/09/2015&lt;/a&gt; a oggi (ieri in realtà l&amp;rsquo;&lt;a href=&#34;https://np.reddit.com/r/italy/comments/5ziuim/come_immaginate_fisicamente_gli_utenti_di_ritaly/&#34;&gt;ultimo&lt;/a&gt; registrato).&lt;/p&gt;
 &lt;h2 id=&#34;grafici&#34;&gt;Grafici&lt;/h2&gt;
 &lt;h3 id=&#34;gold-su-tempo&#34;&gt;Gold su tempo&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/gold-tempo.jpg&#34; alt=&#34;Grafico&#34;&gt;&lt;/p&gt;

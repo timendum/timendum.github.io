@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Timendum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://timendum.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://timendum.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schema del libro Lo stregone della Montagna Infuocata</title>
+      <link>https://timendum.github.io/posts/stregone-montagna-infuocata/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/stregone-montagna-infuocata/</guid>
+      <description>Per finire il primo libro game della storia, ne ho disegnato il diagramma di flusso.</description>
+    </item>
+    
     <item>
       <title>Analisi dei post del 2021 di r/italy</title>
       <link>https://timendum.github.io/posts/ritaly-2021/</link>
