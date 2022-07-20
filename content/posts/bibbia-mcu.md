@@ -15,4 +15,4 @@ L'idea e il codice viene da [questo post](https://www.reddit.com/r/marvelstudios
 
 **Update agosto 2021**: Ho aggiunto Spider-Man 2 e Black Widow.
 
-**Update luglio 2022**: Aggiunti Spider-Man 3, Shang-Chi, Eternals, Doctor Strange 2; rinominato Doctor Strange in Doctor Strange 1; ora per la ricerca usiamo [Fuse.js](https://fusejs.io/).
+**Update luglio 2022**: Aggiunti Spider-Man 3, Shang-Chi, Eternals, Doctor Strange 2; rinominato Doctor Strange in Doctor Strange 1; ora per la ricerca usiamo [Fuse.js](https://fusejs.io/). Più molto codire React sistemato.
