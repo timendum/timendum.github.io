@@ -6,7 +6,16 @@
     <description>Recent content in reddit on Timendum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://timendum.github.io/tags/reddit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jul 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://timendum.github.io/tags/reddit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Bibbia MCU [update luglio 2022]</title>
+      <link>https://timendum.github.io/posts/bibbia-mcu/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/bibbia-mcu/</guid>
+      <description>Ho adattato in italiano &amp;ldquo;La Bibbia MCU&amp;rdquo;, dove si possono cercare e citare i film della Marvel come se fossero passaggi della Bibbia.</description>
+    </item>
+    
     <item>
       <title>Analisi dei post del 2021 di r/italy</title>
       <link>https://timendum.github.io/posts/ritaly-2021/</link>
@@ -32,15 +41,6 @@
       
       <guid>https://timendum.github.io/posts/podcast-ad-alta-voce/</guid>
       <description>Ho creato un feed podcast per ogni audiolibro letto da Ad Alta Voce, il programma di Radio 3.</description>
-    </item>
-    
-    <item>
-      <title>La Bibbia MCU [update agosto 2021]</title>
-      <link>https://timendum.github.io/posts/bibbia-mcu/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://timendum.github.io/posts/bibbia-mcu/</guid>
-      <description>Ho adattato in italiano &amp;ldquo;La Bibbia MCU&amp;rdquo;, dove si possono cercare e citare i film della Marvel come se fossero passaggi della Bibbia.</description>
     </item>
     
     <item>
