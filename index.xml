@@ -5,10 +5,114 @@
     <description>Recent content on Timendum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Mon, 11 Jul 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="https://timendum.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Percentuale di autovetture con il cambio automatico in Europa</title>
+      <link>https://timendum.github.io/posts/autovetture-con-il-cambio-automatico/</link>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/autovetture-con-il-cambio-automatico/</guid>
+      <description>&lt;p&gt;La fonte del dato è &lt;a href=&#34;https://theicct.org/wp-content/uploads/2021/12/ICCT-EU-Pocketbook-2021-Web-Dec21.pdf&#34;&gt;questo report&lt;/a&gt; del 2021 con i dati di automobili vendute nel 2020.
+Segnalo, per completezza, che il 2020 causa pandemia è stato un anno anomalo per la vendita di nuove automobili, ma il trend è lo stesso da molti anni (nel report ci sono anche quelli passati).&lt;/p&gt;
+&lt;p&gt;Il numero di automobili con il cambio automatico è in aumento in tutta Europa (nel 2020 eravamo al 50%) e anche in Italia, che è passata dal 14% del 2015 al 28% nel 2020.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/autovetture-con-il-cambio-automatico.png&#34; alt=&#34;% di autovetture con il cambio automatico in Europa&amp;quot;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In alternativa: &lt;a href=&#34;https://datawrapper.dwcdn.net/ZUBm4/1/&#34;&gt;Grafico interattivo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ecco i numeri in forma tabellare:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Paese&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;% di auto con il cambio automatico&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Norway&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;97&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Luxembourg&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;93&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Sweden&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;86&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Switzerland&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;83&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Turkey&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;72&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Finland&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Denmark&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;62&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Germany&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;61&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Netherlands&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;58&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;United Kingdom&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;56&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;France&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;48&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Austria&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;44&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Belgium&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;42&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Ireland&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Portugal&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;36&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Greece&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;34&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Spain&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;32&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Italy&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;28&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Tra le cause più segnlate:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;un minor numero di auto elettriche (soprattutto rispetto ai primi in classifica, come Norvegia e Svezia, che in effetti hanno più del 25% di vendute)&lt;/li&gt;
+&lt;li&gt;un minor costo (empiricamente posso confermare, le auto costano dai 1,5k ai 3k in più se automatiche)&lt;/li&gt;
+&lt;li&gt;una miglior resa su tratti collinosi o montuosi&lt;/li&gt;
+&lt;li&gt;pregiudizi o resistenze al cambiamento.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>La Bibbia MCU [update luglio 2022]</title>
