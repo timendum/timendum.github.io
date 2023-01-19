@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="it-it">
+<head>
+    <meta charset="utf-8">
+    
+    <title>Ho ridisegnato le province per vicinanza al capoluogo | Timendum</title>
+    <meta name="description" content="Raccolta di produzioni di Timendum">
+    <meta name="author" content="">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://timendum.github.io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://timendum.github.io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://timendum.github.io/favicon-16x16.png">
+    <link rel="manifest" href="https://timendum.github.io/site.webmanifest">
+    <link rel="mask-icon" href="https://timendum.github.io/safari-pinned-tab.svg" color="#00416a">
+    <link rel="feed" type="application/rss+xml" href="./index.xml" title="Ho ridisegnato le province per vicinanza al capoluogo" />
+    <link rel="alternate" type="application/rss+xml" href="./index.xml" title="Ho ridisegnato le province per vicinanza al capoluogo" />
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="theme-color" content="#ffffff">
+    
+    
+    
+    
+    
+    <link rel="stylesheet" href="https://timendum.github.io/css/fonts.css" />
+    <link rel="stylesheet" href="https://timendum.github.io/css/style.css" />
+    <link rel="stylesheet" href="https://timendum.github.io/css/custom.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <header>
+        <nav>
+    
+    <div id="page-nav">
+        <div class="page-nav-item">
+            <a href="https://timendum.github.io/">Home</a>
+        </div>
+        
+    </div>
+</nav>
+        
+    </header>
+
+
+
+
+<div id="content">
+    <article class="h-entry">
+        <header>
+            <h1 class="post-title p-name">Ho ridisegnato le province per vicinanza al capoluogo</h1>
+            
+            <p class="post-date">Scritto il 
+                <time class="dt-published" datetime="2022-12-01T00:00:00&#43;02:00">
+                    01-12-2022
+                </time>  da <a href="https://timendum.github.io/" class="p-author h-card"
+                    rel="author">Timendum</a>
+            </p>
+            
+            
+			
+        </header>
+        <section class="content e-content">
+            <p>Questo è una specie di seguito del mio post di un anno fa <a href="/posts/capoluoghi-centro-regioni/">I capoluoghi sono al centro delle regioni?</a>, in cui mi si era fatto notare che in effetti non conta la distanza in linea d&rsquo;area ma il tempo di percorrenza.</p>
+<p>Per cui ho deciso di ridisegnare le province italiane usando come unico criterio minimizzare il tempo di percorrenza <strong>a piedi</strong> tra il centro di un comune e il capoluogo di provincia.</p>
+<p><img src="/images/province-vicinanza/province-ns.png" alt="Le province italiane per vicinanza"></p>
+<p>Agevolo anche una seconda mappa in cui ho messo in evidenza i comuni che hanno cambiato provincia.</p>
+<p><img src="/images/province-vicinanza/province-nc.png" alt="In colore più acceso i capoluoghi e i comuni che hanno &amp;ldquo;cambiato&amp;rdquo; provincia."></p>
+<p>È anche disponibile una grafica interattiva, per controllare comune per comune:</p>
+<ul>
+<li><a href="https://datawrapper.dwcdn.net/Cy395/1/">DataWrapper</a></li>
+<li>Su <a href="https://timendum.github.io/province-vicine/">Github</a></li>
+</ul>
+<p>Potrebbe metterci tanto perché deve scaricare la mappa dell’Italia più i miei dati elaborati. Giuro che non sto usando il vostro PC per minare criptovalute.</p>
+<p>Prima che me lo diciate:</p>
+<ul>
+<li>so che le province in pratica non valgono quasi nulla, ma mi sembrava l&rsquo;analisi più interessante da fare, le regioni erano troppo poche</li>
+<li>i dati potrebbero essere sballati, trovare un servizio per scansionare migliaia di tragitti non è facile, ho cercato di fare il meglio</li>
+<li>non ha nessuno scopo/senso, ma mi sono divertito a farlo</li>
+<li>il tempo di percorrenza &quot;a piedi&quot; è il più stabile, perché dipende linearmente dalla lunghezza del tragitto, mentre per altri mezzi dipende dal tipo di mezzo, di strada, dal traffico, &hellip;</li>
+<li>(edit) il calcolo è fatto da &quot;centro città&quot; a &quot;centro città&quot;, anche se il concetto non è ben definito da qualche verifica manuale mi è sembrata la cosa migliore</li>
+</ul>
+<p>Risultati notabili:</p>
+<ul>
+<li>A causa della <a href="https://it.wikipedia.org/wiki/Istituzione_di_nuove_province_in_Sardegna">travagliata storia delle provincie sarde</a>, Cagliari è la provincia (città metropolitana che guadagna di più (guadagna più di due volte l&rsquo;area l&rsquo;attuale, parte da 1.248 km² e aggiunge 2.872 km²)In compenso Carbonia perde il 68%.</li>
+<li>La seconda provincia a guadagnare di più in percentuale è Biella, praticamente triplica) ma basta guardare <a href="https://commons.wikimedia.org/wiki/File:Map_of_region_of_Piedmont,_Italy,_with_provinces-it.svg">la cartina</a> per capire come mai.</li>
+<li>Anche Prato è lì in torno, perché poveretta è solo una provincia piccolissima</li>
+<li>La seconda provincia a perdere più area in percentuale è Venezia, perché chiaramente raggiungerla a piedi non è facile.</li>
+</ul>
+<p>Se interessa <a href="https://pastebin.com/rjSWkcm6">ecco qui</a> il CSV diviso per provincia con la lista dei comuni aggiunti/tolti.</p>
+<p>Per i super curiosi, il codice è interamente disponibile, insieme ad un <a href="https://github.com/timendum/province-vicine/blob/master/diario.md">diario</a> che ho tenuto anche come appunti durate il progetto, dovrebbero esserci abbastanza istruzioni per rifare tutto.</p>
+
+        </section>
+        <footer>
+            
+            <hr class="post-underline">
+            <p class="post-tag">Questo post ha i seguenti tag:
+                
+                <a href="https://timendum.github.io/tags/reddit" class="post-tag p-category">reddit</a>
+                
+                <a href="https://timendum.github.io/tags/geografia" class="post-tag p-category">geografia</a>
+                
+            </p>
+            
+        </footer>
+    </article>
+</div>
+
+    
+    <div id="footer">
+      
+      <nav id="article-skip">
+        <div class="next">
+          
+          <p>&nbsp;</p>
+          
+        </div>
+        <div class="top">
+          <a alt="Vai all'inizio della pagina" href="#">Sopra</a>
+        </div>
+        <div class="prev">
+          
+                <a alt="Articolo successivo" href="https://timendum.github.io/posts/autovetture-con-il-cambio-automatico/">Successivo &rarr;</a>
+          
+        </div>
+      </nav>
+      
+      <aside id="social">
+  <div id="social-icons">
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="GitHub profile" href="https://github.com/timendum"><img src="https://timendum.github.io/icons/github.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Reddit profile" href="https://www.reddit.com/user/timendum"><img src="https://timendum.github.io/icons/reddit-alien.svg" height="24px" width="24px" /></a>
+    </div>
+    
+    
+    
+    
+    
+  </div>
+</aside>
+
+      
+    </div>
+
+
+</body>
+</html>

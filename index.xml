@@ -5,10 +5,47 @@
     <description>Recent content on Timendum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="https://timendum.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ho ridisegnato le province per vicinanza al capoluogo</title>
+      <link>https://timendum.github.io/posts/province-per-vicinanza-geografica/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/province-per-vicinanza-geografica/</guid>
+      <description>&lt;p&gt;Questo è una specie di seguito del mio post di un anno fa &lt;a href=&#34;https://timendum.github.io/posts/capoluoghi-centro-regioni/&#34;&gt;I capoluoghi sono al centro delle regioni?&lt;/a&gt;, in cui mi si era fatto notare che in effetti non conta la distanza in linea d&amp;rsquo;area ma il tempo di percorrenza.&lt;/p&gt;
+&lt;p&gt;Per cui ho deciso di ridisegnare le province italiane usando come unico criterio minimizzare il tempo di percorrenza &lt;strong&gt;a piedi&lt;/strong&gt; tra il centro di un comune e il capoluogo di provincia.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/province-vicinanza/province-ns.png&#34; alt=&#34;Le province italiane per vicinanza&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Agevolo anche una seconda mappa in cui ho messo in evidenza i comuni che hanno cambiato provincia.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/province-vicinanza/province-nc.png&#34; alt=&#34;In colore più acceso i capoluoghi e i comuni che hanno &amp;amp;ldquo;cambiato&amp;amp;rdquo; provincia.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;È anche disponibile una grafica interattiva, per controllare comune per comune:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://datawrapper.dwcdn.net/Cy395/1/&#34;&gt;DataWrapper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Su &lt;a href=&#34;https://timendum.github.io/province-vicine/&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Potrebbe metterci tanto perché deve scaricare la mappa dell’Italia più i miei dati elaborati. Giuro che non sto usando il vostro PC per minare criptovalute.&lt;/p&gt;
+&lt;p&gt;Prima che me lo diciate:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;so che le province in pratica non valgono quasi nulla, ma mi sembrava l&amp;rsquo;analisi più interessante da fare, le regioni erano troppo poche&lt;/li&gt;
+&lt;li&gt;i dati potrebbero essere sballati, trovare un servizio per scansionare migliaia di tragitti non è facile, ho cercato di fare il meglio&lt;/li&gt;
+&lt;li&gt;non ha nessuno scopo/senso, ma mi sono divertito a farlo&lt;/li&gt;
+&lt;li&gt;il tempo di percorrenza &amp;quot;a piedi&amp;quot; è il più stabile, perché dipende linearmente dalla lunghezza del tragitto, mentre per altri mezzi dipende dal tipo di mezzo, di strada, dal traffico, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;(edit) il calcolo è fatto da &amp;quot;centro città&amp;quot; a &amp;quot;centro città&amp;quot;, anche se il concetto non è ben definito da qualche verifica manuale mi è sembrata la cosa migliore&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Risultati notabili:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A causa della &lt;a href=&#34;https://it.wikipedia.org/wiki/Istituzione_di_nuove_province_in_Sardegna&#34;&gt;travagliata storia delle provincie sarde&lt;/a&gt;, Cagliari è la provincia (città metropolitana che guadagna di più (guadagna più di due volte l&amp;rsquo;area l&amp;rsquo;attuale, parte da 1.248 km² e aggiunge 2.872 km²)In compenso Carbonia perde il 68%.&lt;/li&gt;
+&lt;li&gt;La seconda provincia a guadagnare di più in percentuale è Biella, praticamente triplica) ma basta guardare &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Map_of_region_of_Piedmont,_Italy,_with_provinces-it.svg&#34;&gt;la cartina&lt;/a&gt; per capire come mai.&lt;/li&gt;
+&lt;li&gt;Anche Prato è lì in torno, perché poveretta è solo una provincia piccolissima&lt;/li&gt;
+&lt;li&gt;La seconda provincia a perdere più area in percentuale è Venezia, perché chiaramente raggiungerla a piedi non è facile.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Se interessa &lt;a href=&#34;https://pastebin.com/rjSWkcm6&#34;&gt;ecco qui&lt;/a&gt; il CSV diviso per provincia con la lista dei comuni aggiunti/tolti.&lt;/p&gt;
+&lt;p&gt;Per i super curiosi, il codice è interamente disponibile, insieme ad un &lt;a href=&#34;https://github.com/timendum/province-vicine/blob/master/diario.md&#34;&gt;diario&lt;/a&gt; che ho tenuto anche come appunti durate il progetto, dovrebbero esserci abbastanza istruzioni per rifare tutto.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Percentuale di autovetture con il cambio automatico in Europa</title>
@@ -623,7 +660,7 @@ Perché usare un app apposta? Così si ricorda dove sono arrivato ad ascoltare e
       <description>&lt;p&gt;Ispirato da un servizio di PropagandaLive
 andato in onda Venerdì scorso,
 ho messo un tabella
-l&amp;rsquo;elenco dei ministri del governo attuale 
+l&amp;rsquo;elenco dei ministri del governo attuale
 e i loro precedenti incarichi governativi:&lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34;&gt;
 &lt;thead&gt;
@@ -1125,7 +1162,7 @@ e i loro precedenti incarichi governativi:&lt;/p&gt;
       <pubDate>Mon, 16 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>https://timendum.github.io/posts/orientamento-citta-italiane/</guid>
-      <description>&lt;p&gt;Ispirato da &lt;a href=&#34;http://geoffboeing.com/2018/07/city-street-orientations-world/&#34;&gt;questo articolo&lt;/a&gt; 
+      <description>&lt;p&gt;Ispirato da &lt;a href=&#34;http://geoffboeing.com/2018/07/city-street-orientations-world/&#34;&gt;questo articolo&lt;/a&gt;
 ho creato, grazie a
 &lt;a href=&#34;https://github.com/gboeing/osmnx-examples/blob/master/notebooks/17-street-network-orientations.ipynb&#34;&gt;tanto bel codice&lt;/a&gt;
 quasi già pronto,
@@ -1942,7 +1979,7 @@ Puoi candidarti alla leadership e presentare i risultati di ciò che accadeva ne
       <pubDate>Tue, 27 Jun 2017 00:00:00 +0200</pubDate>
       
       <guid>https://timendum.github.io/posts/analisi-ama-civati/</guid>
-      <description>&lt;p&gt;La discussione di ieri di Civati mi ha colpito, &lt;code&gt;491&lt;/code&gt; commenti e &lt;code&gt;262&lt;/code&gt; voti. 
+      <description>&lt;p&gt;La discussione di ieri di Civati mi ha colpito, &lt;code&gt;491&lt;/code&gt; commenti e &lt;code&gt;262&lt;/code&gt; voti.
 Sono pochissimi i casi così tanti voti &lt;strong&gt;E&lt;/strong&gt; più commentati del caffè.&lt;/p&gt;
 &lt;p&gt;Quindi segue il mio solito thread di contenuti meta, per i più curiosi.&lt;/p&gt;
 &lt;h2 id=&#34;il-word-cloud&#34;&gt;Il word cloud&lt;/h2&gt;
@@ -2731,7 +2768,7 @@ Ultima la domenica, seguita strettamente dal sabato.&lt;/p&gt;
 &lt;p&gt;Il più corto riceve 9 voti ed è lungo &lt;a href=&#34;https://www.reddit.com/r/italy/comments/5rd12u/caff%C3%A8_italia_01022017/dd6syna/?context=2&#34;&gt;ZERO&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;casi-notevoli&#34;&gt;Casi notevoli&lt;/h2&gt;
 &lt;p&gt;Ci sono tre commenti (attualmente) piu votati, a 53:
-&lt;a href=&#34;https://www.reddit.com/r/italy/comments/67dyrz/caff%C3%A8_italia_25042017/dgptm91/&#34;&gt;Doxep e il Flixbus&lt;/a&gt;, 
+&lt;a href=&#34;https://www.reddit.com/r/italy/comments/67dyrz/caff%C3%A8_italia_25042017/dgptm91/&#34;&gt;Doxep e il Flixbus&lt;/a&gt;,
 &lt;a href=&#34;https://www.reddit.com/r/italy/comments/5xqwm2/caff%C3%A8_italia_06032017/dekjaiq/&#34;&gt;Peduls e la famiglia in partenza&lt;/a&gt;,
 &lt;a href=&#34;https://www.reddit.com/r/italy/comments/5t5quc/causal_friday_finalmente/ddkepwl/&#34;&gt;segolas e i blackout&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Il commento più risposto &lt;a href=&#34;https://www.reddit.com/r/italy/comments/62j99d/ma_quanto_%C3%A8_casual_questo_friday/dfnieqe/&#34;&gt;Su cos&amp;rsquo;era la tesina di maturità?&lt;/a&gt; con 21 risposte.&lt;/p&gt;
