@@ -5,10 +5,25 @@
     <description>Recent content on Timendum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2023 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="https://timendum.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>La Bibbia MCU [update maggio 2023]</title>
+      <link>https://timendum.github.io/posts/bibbia-mcu/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/bibbia-mcu/</guid>
+      <description>&lt;p&gt;Ho adattato in italiano &amp;ldquo;La Bibbia MCU&amp;rdquo;, dove si possono cercare e citare i film della Marvel come se fossero passaggi della Bibbia.&lt;/p&gt;
+&lt;h1 id=&#34;la-bibbia-mcuhttpstimendumgithubiomcuverse&#34;&gt;&lt;a href=&#34;https://timendum.github.io/mcuverse/&#34;&gt;La Bibbia MCU&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;L&amp;rsquo;idea e il codice viene da &lt;a href=&#34;https://www.reddit.com/r/marvelstudios/comments/c0sbxv/now_you_can_quote_thanos_like_its_a_bible_verse/&#34;&gt;questo post&lt;/a&gt;, io ho solo cercato, ripulito e convertito i sottotitoli italiani, più due o tre traduzioni della pagina.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update agosto 2021&lt;/strong&gt;: Ho aggiunto Spider-Man 2 e Black Widow.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update luglio 2022&lt;/strong&gt;: Aggiunti Spider-Man 3, Shang-Chi, Eternals, Doctor Strange 2; rinominato Doctor Strange in Doctor Strange 1; ora per la ricerca usiamo &lt;a href=&#34;https://fusejs.io/&#34;&gt;Fuse.js&lt;/a&gt;. Più molto codice React sistemato.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update maggio 2023&lt;/strong&gt;: Aggiunti Black Panther 2, Ant-Man 3 e Thor 4, trasformato Black Panther in Black Panther 1. Aggiornate e ridotte le dipendenze.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ho ridisegnato le province per vicinanza al capoluogo</title>
@@ -148,20 +163,6 @@ Segnalo, per completezza, che il 2020 causa pandemia è stato un anno anomalo pe
 &lt;li&gt;una miglior resa su tratti collinosi o montuosi&lt;/li&gt;
 &lt;li&gt;pregiudizi o resistenze al cambiamento.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>La Bibbia MCU [update luglio 2022]</title>
-      <link>https://timendum.github.io/posts/bibbia-mcu/</link>
-      <pubDate>Mon, 11 Jul 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://timendum.github.io/posts/bibbia-mcu/</guid>
-      <description>&lt;p&gt;Ho adattato in italiano &amp;ldquo;La Bibbia MCU&amp;rdquo;, dove si possono cercare e citare i film della Marvel come se fossero passaggi della Bibbia.&lt;/p&gt;
-&lt;h1 id=&#34;la-bibbia-mcuhttpstimendumgithubiomcuverse&#34;&gt;&lt;a href=&#34;https://timendum.github.io/mcuverse/&#34;&gt;La Bibbia MCU&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;L&amp;rsquo;idea e il codice viene da &lt;a href=&#34;https://www.reddit.com/r/marvelstudios/comments/c0sbxv/now_you_can_quote_thanos_like_its_a_bible_verse/&#34;&gt;questo post&lt;/a&gt;, io ho solo cercato, ripulito e convertito i sottotitoli italiani, più due o tre traduzioni della pagina.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Update agosto 2021&lt;/strong&gt;: Ho aggiunto Spider-Man 2 e Black Widow.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Update luglio 2022&lt;/strong&gt;: Aggiunti Spider-Man 3, Shang-Chi, Eternals, Doctor Strange 2; rinominato Doctor Strange in Doctor Strange 1; ora per la ricerca usiamo &lt;a href=&#34;https://fusejs.io/&#34;&gt;Fuse.js&lt;/a&gt;. Più molto codire React sistemato.&lt;/p&gt;
 </description>
     </item>
     
