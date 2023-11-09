@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://timendum.github.io/tags/metareddit/</loc>
+    <lastmod>2023-11-08T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://timendum.github.io/posts/</loc>
+    <lastmod>2023-11-08T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://timendum.github.io/tags/reddit/</loc>
+    <lastmod>2023-11-08T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://timendum.github.io/tags/</loc>
+    <lastmod>2023-11-08T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://timendum.github.io/</loc>
+    <lastmod>2023-11-08T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://timendum.github.io/posts/ritaly-2023/</loc>
+    <lastmod>2023-11-08T00:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://timendum.github.io/tags/film/</loc>
     <lastmod>2023-05-17T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://timendum.github.io/posts/bibbia-mcu/</loc>
-    <lastmod>2023-05-17T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://timendum.github.io/posts/</loc>
-    <lastmod>2023-05-17T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://timendum.github.io/tags/reddit/</loc>
-    <lastmod>2023-05-17T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://timendum.github.io/tags/</loc>
-    <lastmod>2023-05-17T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://timendum.github.io/</loc>
     <lastmod>2023-05-17T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://timendum.github.io/tags/geografia/</loc>
@@ -39,9 +45,6 @@
     <lastmod>2022-06-17T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://timendum.github.io/posts/ritaly-2021/</loc>
-    <lastmod>2022-01-12T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://timendum.github.io/tags/metareddit/</loc>
     <lastmod>2022-01-12T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://timendum.github.io/posts/capoluoghi-centro-regioni/</loc>

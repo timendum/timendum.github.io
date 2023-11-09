@@ -6,42 +6,35 @@
     <description>Recent content in geografia on Timendum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://timendum.github.io/tags/geografia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0200</lastBuildDate>
+    <atom:link href="https://timendum.github.io/tags/geografia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ho ridisegnato le province per vicinanza al capoluogo</title>
       <link>https://timendum.github.io/posts/province-per-vicinanza-geografica/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0200</pubDate>
-      
       <guid>https://timendum.github.io/posts/province-per-vicinanza-geografica/</guid>
       <description>Ecco come sarebbero le provincie italiane se ogni comune andasse con il capoluogo più vicino.</description>
     </item>
-    
     <item>
       <title>Percentuale di autovetture con il cambio automatico in Europa</title>
       <link>https://timendum.github.io/posts/autovetture-con-il-cambio-automatico/</link>
       <pubDate>Fri, 26 Aug 2022 00:00:00 +0200</pubDate>
-      
       <guid>https://timendum.github.io/posts/autovetture-con-il-cambio-automatico/</guid>
       <description>Ho scoperto che l&amp;rsquo;Italia ha la percentuale di automobili a cambio manuale più alta d&amp;rsquo;Europa.</description>
     </item>
-    
     <item>
       <title>I capoluoghi sono al centro delle regioni?</title>
       <link>https://timendum.github.io/posts/capoluoghi-centro-regioni/</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0200</pubDate>
-      
       <guid>https://timendum.github.io/posts/capoluoghi-centro-regioni/</guid>
       <description>Una cartina e altri dati che evidenzia quanto il capoluogo sia vicino (o lontano) dal centro geometrico della sua regione.</description>
     </item>
-    
     <item>
       <title>Orientamento delle città italiane</title>
       <link>https://timendum.github.io/posts/orientamento-citta-italiane/</link>
       <pubDate>Mon, 16 Jul 2018 00:00:00 +0200</pubDate>
-      
       <guid>https://timendum.github.io/posts/orientamento-citta-italiane/</guid>
       <description>Ho creato dei grafici che rappresentano &amp;ldquo;come sono orientate&amp;rdquo; le città italiane.</description>
     </item>
-    
   </channel>
 </rss>

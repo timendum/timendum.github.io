@@ -6,24 +6,21 @@
     <description>Recent content in musica on Timendum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Tue, 22 May 2018 00:00:00 +0200</lastBuildDate><atom:link href="https://timendum.github.io/tags/musica/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 May 2018 00:00:00 +0200</lastBuildDate>
+    <atom:link href="https://timendum.github.io/tags/musica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swag negro, il libro di Bello Figo: Analisi e generazione testo</title>
       <link>https://timendum.github.io/posts/swag-negro-libro-bello-figo-analisi-markov/</link>
       <pubDate>Tue, 22 May 2018 00:00:00 +0200</pubDate>
-      
       <guid>https://timendum.github.io/posts/swag-negro-libro-bello-figo-analisi-markov/</guid>
       <description>Per chi non lo sapesse, è uscito Swag Negro - Nessuno ce la fa, il primo libro di &lt;strong&gt;Bello Figo&lt;/strong&gt;. Io ho preso il libro e ne ho fatta un&amp;rsquo;analisi.</description>
     </item>
-    
     <item>
       <title>Analisi sui testi di Sanremo</title>
       <link>https://timendum.github.io/posts/analisi-testi-sanremo-2018/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0200</pubDate>
-      
       <guid>https://timendum.github.io/posts/analisi-testi-sanremo-2018/</guid>
       <description>Ho analizzato i testi di Sanremo 2018, ecco i miei risultati.</description>
     </item>
-    
   </channel>
 </rss>

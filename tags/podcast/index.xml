@@ -6,15 +6,14 @@
     <description>Recent content in podcast on Timendum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0200</lastBuildDate><atom:link href="https://timendum.github.io/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0200</lastBuildDate>
+    <atom:link href="https://timendum.github.io/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ho creato dei podcast per tutti gli audiolibri di Ad Alta voce [update 2021]</title>
       <link>https://timendum.github.io/posts/podcast-ad-alta-voce/</link>
       <pubDate>Tue, 06 Jul 2021 00:00:00 +0200</pubDate>
-      
       <guid>https://timendum.github.io/posts/podcast-ad-alta-voce/</guid>
       <description>Ho creato un feed podcast per ogni audiolibro letto da Ad Alta Voce, il programma di Radio 3.</description>
     </item>
-    
   </channel>
 </rss>
