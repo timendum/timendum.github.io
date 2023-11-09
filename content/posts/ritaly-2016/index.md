@@ -16,7 +16,7 @@ Una volta raggruppati i domini e normalizzati i nomi, ecco un grafico rappresent
 
 Per la versione ridotta ho mantenuto solo i maggiori domini e quelli con più di una entry.
 
-![Grafico](/images/ritaly-2016/domini.jpg)
+![Grafico](domini.jpg)
 
 [Grafico HTML](/subpages/ritaly-2016/domini/)
 
@@ -25,7 +25,7 @@ Per la versione ridotta ho mantenuto solo i maggiori domini e quelli con più di
 ## Submission per autore
 Ho raggruppato i post per autore: sulle x la somma dei voti, sulle y la media, il colore quanti ne ho trovati e la grandezza quant'è il voto minimo.
 
-![Grafico](/images/ritaly-2016/autore.jpg)
+![Grafico](autore.jpg)
 
 [Grafico interattivo](/subpages/ritaly-2016/autore/)
 
@@ -34,7 +34,7 @@ Ho raggruppato i post per autore: sulle x quanti commenti in scala logaritmica_2
 
 Per la versione ridotta ho mantenuto solo le top 10 nelle dimensioni calcolate.
 
-![Grafico](/images/ritaly-2016/commenti.jpg)
+![Grafico](commenti.jpg)
 
 [Grafico HTML](/subpages/ritaly-2016/commenti/)
 

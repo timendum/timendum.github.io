@@ -73,7 +73,7 @@ In un grafico i 10 utenti che postano di più su r/italy.
 
 Da soli fanno il 10% dei post e il 9% del karma.
 
-![Gli autori](/images/italy-2021/sei5kia2s2b81.webp)
+![Gli autori](sei5kia2s2b81.webp)
 
 ### I post perfetti
 
@@ -99,7 +99,7 @@ Per ogni post, Reddit riporta anche la percentuale di voti positivi (upvote) ris
 
 Ecco un grafico con tutti i post del 2021, esclusi Caffè, Megathread (San Remo, Eurovision, etc inclusi).
 
-![Tutti i post](/images/italy-2021/jhdkswlwr2b81.webp)
+![Tutti i post](jhdkswlwr2b81.webp)
 
 ## I grafici cumulativi
 
@@ -107,13 +107,13 @@ Ecco un grafico con tutti i post del 2021, esclusi Caffè, Megathread (San Remo,
 
 Sperando in una rappresentazione più chiara, ho rappresentato sul grafico successivo quanti post (sulle y, in scala logaritmica) hanno terminato con quel punteggio (sulle x).
 
-![Tutti i punteggi](/images/italy-2021/tbo23og0s2b81.webp)
+![Tutti i punteggi](tbo23og0s2b81.webp)
 
 ### I post suddivisi per numero di commenti
 
 Come prima, ma contando il numero di commenti finale.
 
-![Tutti i numeri di commenti](/images/italy-2021/qxhfue61s2b81.webp)
+![Tutti i numeri di commenti](qxhfue61s2b81.webp)
 
 ## Approfondimenti
 
@@ -122,20 +122,20 @@ Come prima, ma contando il numero di commenti finale.
 Ho poi rappresentato su un grafico quanti post (sulle y) vengono inviati in ogni ora del giorno. (Escluso il [top post](https://www.reddit.com/r/italy/comments/oidg8i/abbiamo_vinto_mandiamo_la_nostra_bandiera_sulla/)). Il colore del pallino rappresenta il punteggio medio dei post in quell'ora. Ne deduciamo quindi che i post inviati tra le 7 e le 10 del mattino sono leggermente meglio votati.
 
 
-![Ora di invio](/images/italy-2021/ygv7mnp5s2b81.webp)
+![Ora di invio](ygv7mnp5s2b81.webp)
 
 ### Analisi per giorno di invio
 
 Come sopra, ma suddivisi per giorno al posto che per ora.
 
-![Giorni di invio](/images/italy-2021/ispt0kl7s2b81.webp)
+![Giorni di invio](ispt0kl7s2b81.webp)
 
 ### La destinazione dei post
 
 Sul grafico successivo trovate i post suddivisi per dominio, cioè su che sito ti porta il link (se presente), in percentuale sul totale.Il numero sopra la barra corrisponde al punteggio medio del post di quella categoria.
 
 
-![Domini](/images/italy-2021/662f7la9s2b81.webp)
+![Domini](662f7la9s2b81.webp)
 
 Ad esempio abbiamo avuto 285 post verso ilpost.it (il 4.4% dei post), per un totale di 50.515 karma (il 4.3% del karma totale), con una media di 177 karma per post.
 
@@ -148,13 +148,13 @@ Considerazione personale: i self sono quelli più presenti ma anche più vari, c
 
 Ho voluto rappresentare mediamente quanti commenti hanno ricevuto i post (esclusi caffè, megathread, ...) nel corso dell'anno. In arancione una regressione polinomiale di 2o grado, cioè una curva che dovrebbe rappresentare il macro-andamento nell'anno.
 
-![Commenti nell'anno](/images/italy-2021/zxim68pas2b81.webp)
+![Commenti nell'anno](zxim68pas2b81.webp)
 
 ### Punteggio
 
 Come sopra, ma con il punteggio finale dei post.Qui la regressione è di 8o grado perché il trend è molto più ondulatorio, con un enorme picco a luglio/agosto.
 
-![Punteggio nell'anno](/images/italy-2021/nxeg2wcbs2b81.webp)
+![Punteggio nell'anno](nxeg2wcbs2b81.webp)
 
 ## Come ho fatto?
 

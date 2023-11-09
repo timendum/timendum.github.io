@@ -20,7 +20,7 @@ Non tutti i comuni hanno presentato questa voce, l'esempio più grosso è Napoli
 
 ### Iniziamo con un grafico per regione
 
-![Grafico](/images/guadagno-vigili/regioni.png)
+![Grafico](regioni.png)
 
 [Grafico interattivo](https://datawrapper.dwcdn.net/gOnHg/2/)
 
@@ -28,13 +28,13 @@ Non tutti i comuni hanno presentato questa voce, l'esempio più grosso è Napoli
 
 Con più di 200.000 abitanti
 
-![Grafico](/images/guadagno-vigili/maggiori.png)
+![Grafico](maggiori.png)
 
 [Grafico interattivo](https://datawrapper.dwcdn.net/gadmR/2/)
 
 ### Top 50 comuni
 
-![Grafico](/images/guadagno-vigili/comuni.png)
+![Grafico](comuni.png)
 
 [Grafico interattivo](/subpages/guadagno-vigili/comuni/)
 

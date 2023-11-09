@@ -94,7 +94,7 @@ avlas | 421 | 2,79
 martinomh | 414 | 2,74
 { class="table-striped"} 
 
-![Grafico](/images/caffe-2017/autori.png)
+![Grafico](autori.png)
 
 A disposizione anche il **[Tabellone completo](https://thimbleprojects.org/timendum/286404/commenti-autore.html)**
 
@@ -106,7 +106,7 @@ Dire che il picco è ovviamente tre le 9 e le 12 ma c'è una buona contribuzione
 
 Come mai il picco alle 5/6? Perché NeckWarmer93 posta il suo contatore a tra le 5 e le 6. Più [questo](https://www.reddit.com/r/italy/comments/6cs2z4/caff%C3%A8_italia_23052017/dhx0o6f/).
 
-![Grafico](/images/caffe-2017/orario.png)
+![Grafico](orario.png)
 
 Ora | Voto medio | Quantità
 ---|---|---|
@@ -148,7 +148,7 @@ A che ora si ricevono più risposte?
 Praticamente la metà dei commenti riceve una riposta, sensibilmente di meno solo quelli tra la mezzanotte e l'apertura.
 
 
-![Grafico](/images/caffe-2017/risposte.png)
+![Grafico](risposte.png)
 
 
 Ora | Risposte medie | Con risp | Senza rips | %
@@ -194,7 +194,7 @@ Primo livello | 7048 | 16,3%
 { class="table-striped"} 
 
 
-![Grafico](/images/caffe-2017/tipo.png)
+![Grafico](tipo.png)
 
 ### I commenti più lunghi
 

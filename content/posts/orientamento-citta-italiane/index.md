@@ -30,47 +30,47 @@ quante strade sono orientate in un certo modo.
 
 Ho analizzato le città con più abitanti d'Italia più alcune città interessanti.
 
-![Roma](/images/orientamento/PllPntU.png)
+![Roma](PllPntU.png)
 
-![Milano](/images/orientamento/HmsZR4J.png)
+![Milano](HmsZR4J.png)
 
-![Napoli](/images/orientamento/Lzsm9CV.png)
+![Napoli](Lzsm9CV.png)
 
-![Torino](/images/orientamento/jzuPoug.png)
+![Torino](jzuPoug.png)
 
-![Palermo](/images/orientamento/u6dQozd.png)
+![Palermo](u6dQozd.png)
 
-![Genova](/images/orientamento/JpX9Ehy.png)
+![Genova](JpX9Ehy.png)
 
-![Bologna](/images/orientamento/yBsGGlW.png)
+![Bologna](yBsGGlW.png)
 
-![Firenze](/images/orientamento/MP1RZaW.png)
+![Firenze](MP1RZaW.png)
 
-![Catania](/images/orientamento/cZPT77g.png)
+![Catania](cZPT77g.png)
 
-![Reggio Calabria](/images/orientamento/YDaLddB.png)
+![Reggio Calabria](YDaLddB.png)
 
-![Bari](/images/orientamento/YjLijPy.png)
+![Bari](YjLijPy.png)
 
-![Giulianova](/images/orientamento/cQGwCwE.png)
+![Giulianova](cQGwCwE.png)
 
-![Parmanova](/images/orientamento/iChp2xi.png)
+![Parmanova](iChp2xi.png)
 
-![Cortemaggiore](/images/orientamento/pd4CVCh.png)
+![Cortemaggiore](pd4CVCh.png)
 
-![Bergamo](/images/orientamento/h6MOs07.png)
+![Bergamo](h6MOs07.png)
 
-![Bitonto](/images/orientamento/jCx4dNu.png)
+![Bitonto](jCx4dNu.png)
 
-![Grammichele](/images/orientamento/YSRFVZD.png)
+![Grammichele](YSRFVZD.png)
 
-![Verona](/images/orientamento/FYJOW85.png)
+![Verona](FYJOW85.png)
 
-![Messina](/images/orientamento/ImyAL6l.png)
+![Messina](ImyAL6l.png)
 
-![Padova](/images/orientamento/9yXfgio.png)
+![Padova](9yXfgio.png)
 
-![Latina](/images/orientamento/r5xZXB1.png)
+![Latina](r5xZXB1.png)
 
 
 Per i più curiosi

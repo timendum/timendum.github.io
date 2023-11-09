@@ -10,7 +10,7 @@ tags: ["reddit", "geografia"]
 
 Nella mia mente matematica, idealmente il capoluogo di una regione dovrebbe essere al centro della regione, per ~~permettere a tutti i cittadini di raggiungerla nel minor tempo possibile~~ soddisfare il mio disturbo ossessivo compulsivo, per cui mi sono dato da fare e ho prodotto un grafico che mostra quanto un capoluogo è al centro o meno della sua regione:
 
-![Il capoluogo e il centro](/images/capoluoghi-centro-regioni/regioni.png)
+![Il capoluogo e il centro](regioni.png)
 
 Nella cartina vedete tutte le regioni d’Italia, il capoluogo contrassegnato da un pallino nero, il centro geometrico contrassegnato da una x e il colore che corrisponde a quanto il capoluogo è "decentrato".
 
@@ -20,26 +20,26 @@ Ho fatto anche un'immagine dettagliata, regione per regione, la trovate in [ques
 
 L'elenco completo:
 
-* [Abruzzo](/images/capoluoghi-centro-regioni/abruzzo.png)
-* [Basilicata](/images/capoluoghi-centro-regioni/basilicata.png)
-* [Calabria](/images/capoluoghi-centro-regioni/calabria.png)
-* [Campania](/images/capoluoghi-centro-regioni/campania.png)
-* [Emilia-romagna](/images/capoluoghi-centro-regioni/emilia-romagna.png)
-* [Friuli-Venezia Giulia](/images/capoluoghi-centro-regioni/friuli-venezia%20giulia.png)
-* [Lazio](/images/capoluoghi-centro-regioni/lazio.png)
-* [Liguria](/images/capoluoghi-centro-regioni/liguria.png)
-* [Lombardia](/images/capoluoghi-centro-regioni/lombardia.png)
-* [Marche](/images/capoluoghi-centro-regioni/marche.png)
-* [Molise](/images/capoluoghi-centro-regioni/molise.png)
-* [Piemonte](/images/capoluoghi-centro-regioni/piemonte.png)
-* [Puglia](/images/capoluoghi-centro-regioni/puglia.png)
-* [Sardegna](/images/capoluoghi-centro-regioni/sardegna.png)
-* [Sicilia](/images/capoluoghi-centro-regioni/sicilia.png)
-* [Toscana](/images/capoluoghi-centro-regioni/toscana.png)
-* [Trentino-Alto Adige](/images/capoluoghi-centro-regioni/trentino-alto%20adige.png)
-* [Umbria](/images/capoluoghi-centro-regioni/umbria.png)
-* [Valle d'Aosta](/images/capoluoghi-centro-regioni/valle-aosta.png)
-* [Veneto](/images/capoluoghi-centro-regioni/veneto.png)
+* [Abruzzo](abruzzo.png)
+* [Basilicata](basilicata.png)
+* [Calabria](calabria.png)
+* [Campania](campania.png)
+* [Emilia-romagna](emilia-romagna.png)
+* [Friuli-Venezia Giulia](friuli-venezia%20giulia.png)
+* [Lazio](lazio.png)
+* [Liguria](liguria.png)
+* [Lombardia](lombardia.png)
+* [Marche](marche.png)
+* [Molise](molise.png)
+* [Piemonte](piemonte.png)
+* [Puglia](puglia.png)
+* [Sardegna](sardegna.png)
+* [Sicilia](sicilia.png)
+* [Toscana](toscana.png)
+* [Trentino-Alto Adige](trentino-alto%20adige.png)
+* [Umbria](umbria.png)
+* [Valle d'Aosta](valle-aosta.png)
+* [Veneto](veneto.png)
 
 
 Risultato:
@@ -60,26 +60,26 @@ Risultato:
 * Sassari la peggiore con 82, ma a causa delle enorme dimensioni della città
 
 
-![Roma](/images/capoluoghi-centro-regioni/comuni/roma.png)
+![Roma](comuni/roma.png)
 
-![Milano](/images/capoluoghi-centro-regioni/comuni/milano.png)
+![Milano](comuni/milano.png)
 
-![Torino](/images/capoluoghi-centro-regioni/comuni/torino.png)
+![Torino](comuni/torino.png)
 
-![Napoli](/images/capoluoghi-centro-regioni/comuni/napoli.png)
+![Napoli](comuni/napoli.png)
 
 Le altre:
 
-* [Bari](/images/capoluoghi-centro-regioni/comuni/bari.png)
-* [Bologna](/images/capoluoghi-centro-regioni/comuni/bologna.png)
-* [Cerignola](/images/capoluoghi-centro-regioni/comuni/cerignola.png)
-* [Firenze](/images/capoluoghi-centro-regioni/comuni/firenze.png)
-* [Genova](/images/capoluoghi-centro-regioni/comuni/genova.png)
-* [Noto](/images/capoluoghi-centro-regioni/comuni/noto.png)
-* [Palermo](/images/capoluoghi-centro-regioni/comuni/palermo.png)
-* [Ravenna](/images/capoluoghi-centro-regioni/comuni/ravenna.png)
-* [Sassari](/images/capoluoghi-centro-regioni/comuni/sassari.png)
-* [Venezia](/images/capoluoghi-centro-regioni/comuni/venezia.png)
+* [Bari](comuni/bari.png)
+* [Bologna](comuni/bologna.png)
+* [Cerignola](comuni/cerignola.png)
+* [Firenze](comuni/firenze.png)
+* [Genova](comuni/genova.png)
+* [Noto](comuni/noto.png)
+* [Palermo](comuni/palermo.png)
+* [Ravenna](comuni/ravenna.png)
+* [Sassari](comuni/sassari.png)
+* [Venezia](comuni/venezia.png)
 
 # Gli album completi: [Regioni e capoluoghi](https://imgur.com/a/l3DKT5c), [Comuni e centro](https://imgur.com/a/sUDT51M)
 

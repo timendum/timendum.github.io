@@ -50,7 +50,7 @@ Il **voto medio** è `35.7`, ma la deviazione standard è di `115`, molto alta. 
 *   Il 50% dei post è a `5` o meno
 *   Il 75% dei post è a `25` o meno
 
-Per i più curiosi, ho disegnato un [istogramma cumulativo](/images/italy-2019/hist_score.png) in scala logaritmica.
+Per i più curiosi, ho disegnato un [istogramma cumulativo](hist_score.png) in scala logaritmica.
 
 #### La classifica
 
@@ -73,7 +73,7 @@ Il numero **medio di commenti** riportati da Reddit è circa `26`, ma la deviazi
 *   Il `50%` dei post è a `5` o meno
 *   Il `75%` dei post è a `22` o meno (ancora meno degli upvote!)
 
-Per i più curiosi, ho disegnato un [istogramma cumulativo](/images/italy-2019/hist_comments.png) in scala logaritmica.
+Per i più curiosi, ho disegnato un [istogramma cumulativo](hist_comments.png) in scala logaritmica.
 
 #### La classifica
 
@@ -103,9 +103,9 @@ Commenti | Titolo | Autore
 
 Di seguito un grafico di TUTTI i thread: sulle X (in orizzontale) il numero dei commenti, sulle Y (in verticale) il voto (o punteggio o score).
 
-Per i più nerd, ne ho anche una versione [logaritmica](/images/italy-2019/score_comments_log.png).
+Per i più nerd, ne ho anche una versione [logaritmica](score_comments_log.png).
 
-![Grafico punteggio e Numero di commenti](/images/italy-2019/score_comments.png)
+![Grafico punteggio e Numero di commenti](score_comments.png)
 
 ### Gli autori
 
@@ -115,7 +115,7 @@ Sommando il punteggio dei loro post, arriviamo a `93.825` karma (su 1.084.969), 
 
 Di seguito i `13` autori più prolifici in un grafico: sulle X (in orizzontale) il numero dei post, sulle Y il karma totale accumulato con i post.
 
-![Grafico autori](/images/italy-2019/autori.png)
+![Grafico autori](autori.png)
 
 ### I domini
 
@@ -138,13 +138,13 @@ imgur.com | 94.331 (8,69%) | 865 (2,85%)
 
 Un bel grafico a torta dei `10` domini con più karma accumulato tra tutti i post.
 
-![Grafico domini per karma](/images/italy-2019/domain_score.png)
+![Grafico domini per karma](domain_score.png)
 
 #### Per numero
 
 Ora gli stessi `10` domini, i valori rappresentano il numero di post.
 
-![Grafico domini per numero di post](/images/italy-2019/domain_number.png)
+![Grafico domini per numero di post](domain_number.png)
 
 ### Gli orari
 
@@ -154,15 +154,15 @@ In arancione il punteggio atteso, cioè `x` per il karma totale dei post dell'an
 
 L'orario riportato è quello relativo al fuso orario Italiano.
 
-![Grafico post per orario](/images/italy-2019/orario.png)
+![Grafico post per orario](orario.png)
 
 ### I giorni della settimana
 
 In che giorno appaiono più post? E quando vengono più votati?.
 
-![Grafico post per giorno della settimana](/images/italy-2019/dweek.png)
+![Grafico post per giorno della settimana](dweek.png)
 
-Non si nota molto, ma il sabato e domenica il rapporto upvote su numero di post è migliore: [grafico specifico](/images/italy-2019/dweek_orange.png).
+Non si nota molto, ma il sabato e domenica il rapporto upvote su numero di post è migliore: [grafico specifico](dweek_orange.png).
 
 ## Analisi sulle parole
 
@@ -175,7 +175,7 @@ Un argomento molto ricorrente sono gli operatori telefonici, le loro offerte e i
 
 Il grafico seguente mostra quante volte un certo operatore è stato nominato in quella settimana.
 
-![Citazioni di un operatore telefonico](/images/italy-2019/operatori.png)
+![Citazioni di un operatore telefonico](operatori.png)
 
 Per curiosità ho fatto un conto e l'[indice di correlazione di Pearson](https://it.wikipedia.org/wiki/Indice_di_correlazione_di_Pearson) tra "vodafone" e "Iliad" è di `0.873`.
 
@@ -185,7 +185,7 @@ Quali sono i piatti preferiti da r/italy?
 
 Il seguente grafico mostra tutti i post con più di 1 voto, suddivisi per piatto.
 
-![Citazione di piatti](/images/italy-2019/piatto.png)
+![Citazione di piatti](piatto.png)
 
 ### Cibo
 
@@ -193,14 +193,14 @@ Di quale cibo si parla di più?
 
 Il seguente grafico mostra quanti commenti sono stati fatti, per settimana.
 
-![Citazioni di cibo](/images/italy-2019/cibo.png)
+![Citazioni di cibo](cibo.png)
 
 ### I politici
 
 
 Questo invece quante volte appare il cognome di un politico nei commenti.
 
-![Citazione di un politico](/images/italy-2019/politici.png)
+![Citazione di un politico](politici.png)
 
 #### Focus Salvini
 
@@ -211,7 +211,7 @@ Ve lo dico io: `953`.
 
 Nel seguente grafico tutti i post con punteggio almeno 2 dove "Salvini" appare nel titolo.
 
-![Post su Salvini](/images/italy-2019/salvini.png)
+![Post su Salvini](salvini.png)
 
 ## Tecnicismi
 

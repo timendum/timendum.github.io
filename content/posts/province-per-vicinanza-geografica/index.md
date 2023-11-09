@@ -11,11 +11,11 @@ Questo è una specie di seguito del mio post di un anno fa [I capoluoghi sono al
 
 Per cui ho deciso di ridisegnare le province italiane usando come unico criterio minimizzare il tempo di percorrenza **a piedi** tra il centro di un comune e il capoluogo di provincia.
 
-![Le province italiane per vicinanza](/images/province-vicinanza/province-ns.png)
+![Le province italiane per vicinanza](province-ns.png)
 
 Agevolo anche una seconda mappa in cui ho messo in evidenza i comuni che hanno cambiato provincia.
 
-![In colore più acceso i capoluoghi e i comuni che hanno "cambiato" provincia.](/images/province-vicinanza/province-nc.png)
+![In colore più acceso i capoluoghi e i comuni che hanno "cambiato" provincia.](province-nc.png)
 
 È anche disponibile una grafica interattiva, per controllare comune per comune:
 

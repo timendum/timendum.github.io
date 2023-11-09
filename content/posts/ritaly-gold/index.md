@@ -17,7 +17,7 @@ L'analisi include 99 post, dal [18/09/2015](https://np.reddit.com/r/italy/commen
 
 ### Gold su tempo
 
-![Grafico](/images/gold-tempo.jpg)
+![Grafico](gold-tempo.jpg)
 
 _Blu = conteggio contenuti con gold_  
 _Verde = somma dei valore_
@@ -28,7 +28,7 @@ Ho eliminato ultimo e primo mese, in quanto potenzialmente incompleti.
 
 ### Gold per voto
 
-![Grafico](/images/gold-voto.jpg)
+![Grafico](gold-voto.jpg)
 
 _Blu = submission_  
 _Verde = commenti_

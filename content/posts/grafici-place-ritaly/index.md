@@ -12,13 +12,13 @@ Reddit ha rilasciato il [dataset completo](https://www.reddit.com/r/redditdata/c
 
 ## I colori più usati
 
-![Grafico](/images/rplace/colori.png)
+![Grafico](colori.png)
 
 L'immagine parla da sé!
 
 ## Gli utenti più attivi
 
-![Grafico](/images/rplace/utenti.png)
+![Grafico](utenti.png)
 
 Ecco la top ten:
 
@@ -41,7 +41,7 @@ I dati completi su [sharecsv](http://www.sharecsv.com/s/04a27ec539dbcb17917258c5
 
 ## La zona più combattuta
 
-![Grafico](/images/rplace/combattimenti.png)
+![Grafico](combattimenti.png)
 
 La parte alta sinistra della bandiera, con la vespa e il cuore UK.
 
