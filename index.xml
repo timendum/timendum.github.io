@@ -5,10 +5,38 @@
     <description>Recent content on Timendum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Wed, 08 Nov 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="https://timendum.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I nomi più popolari in Italia dal 1999 al 2021</title>
+      <link>https://timendum.github.io/posts/classifica-nomi-italia/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/classifica-nomi-italia/</guid>
+      <description>&lt;p&gt;Ho estratto le classifiche per anno dei bambini nati in Italia dal &lt;a href=&#34;https://www.istat.it/it/dati-analisi-e-prodotti/calcolatori/contanomi&#34;&gt;conta-nomi ISTAT&lt;/a&gt;,
+poi recuperato i dati per i nomi non sempre presenti in classifica, la fonte è sempre quella.&lt;/p&gt;
+&lt;h2 id=&#34;nomi-maschili&#34;&gt;Nomi maschili&lt;/h2&gt;
+&lt;h3 id=&#34;visualizzazione-interattivahttpsflourishvisualisation15333470embed&#34;&gt;&lt;a href=&#34;https://flo.uri.sh/visualisation/15333470/embed&#34;&gt;Visualizzazione interattiva&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Ma anche una seconda &lt;a href=&#34;https://public.flourish.studio/visualisation/15347918/&#34;&gt;interattiva full&lt;/a&gt;, con più nomi ancora.&lt;/p&gt;
+&lt;p&gt;Nella prima ho inserito tutti i nomi arrivati almeno noni in un anno tra quelli presi in considerazione.&lt;br&gt;
+Quindi quella rappresentazione non è assoluta, ci possono essere altri nomi più popolari rispetto agli ultimi in classifica, ma comunque dal decimo posto in giù.&lt;br&gt;
+Ad esempio nel 2021 Diego sarebbe undicesimo, con il 1,44%, più popolare di Matteo, Davide, Luca e Diego (rappresentati nel grafico), ma non compare in quanto mai stato sopra il decimo posto.&lt;/p&gt;
+&lt;p&gt;Picco incredibile per Francesco, ho controllato, il 2013 in effetti è proprio l&amp;rsquo;anno in cui è stato nominato/eletto il nuovo papa.&lt;/p&gt;
+&lt;h2 id=&#34;nomi-femminili&#34;&gt;Nomi femminili&lt;/h2&gt;
+&lt;h3 id=&#34;visualizzazione-interattivahttpsflourishvisualisation15336221embed&#34;&gt;&lt;a href=&#34;https://flo.uri.sh/visualisation/15336221/embed&#34;&gt;Visualizzazione interattiva&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;E una seconda &lt;a href=&#34;https://public.flourish.studio/visualisation/15430545/&#34;&gt;interattiva full&lt;/a&gt;, con ancora più nomi.&lt;/p&gt;
+&lt;p&gt;Anche qui ho inserito i solo i nomi che hanno raggiunto almeno la nona posizione in uno degli anni presi in considerazione.&lt;/p&gt;
+&lt;h2 id=&#34;dati&#34;&gt;Dati&lt;/h2&gt;
+&lt;p&gt;Disponibile il file separato dai tab con:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;nomi-maschili.csv&#34;&gt;nomi maschili&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;nomi-femminili.csv&#34;&gt;nomi femminili&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Un anno di post e commenti su r/italy analizzati</title>
