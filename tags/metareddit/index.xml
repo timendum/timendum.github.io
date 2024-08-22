@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>metareddit on Timendum</title>
+    <title>Metareddit on Timendum</title>
     <link>https://timendum.github.io/tags/metareddit/</link>
-    <description>Recent content in metareddit on Timendum</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Metareddit on Timendum</description>
+    <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Wed, 08 Nov 2023 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://timendum.github.io/tags/metareddit/index.xml" rel="self" type="application/rss+xml" />
@@ -20,7 +20,7 @@
       <link>https://timendum.github.io/posts/ritaly-2021/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0200</pubDate>
       <guid>https://timendum.github.io/posts/ritaly-2021/</guid>
-      <description>Ho 	estratto tutti i post del 2021 di r/italy, ho quindi eseguito alcune analisi.</description>
+      <description>Ho &#x9;estratto tutti i post del 2021 di r/italy, ho quindi eseguito alcune analisi.</description>
     </item>
     <item>
       <title>Un anno di /r/italy (Giugno 2018-Giugno 2019)</title>

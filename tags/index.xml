@@ -4,75 +4,82 @@
     <title>Tags on Timendum</title>
     <link>https://timendum.github.io/tags/</link>
     <description>Recent content in Tags on Timendum</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>it-it</language>
-    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://timendum.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>nomi</title>
+      <title>Film</title>
+      <link>https://timendum.github.io/tags/film/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0200</pubDate>
+      <guid>https://timendum.github.io/tags/film/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reddit</title>
+      <link>https://timendum.github.io/tags/reddit/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0200</pubDate>
+      <guid>https://timendum.github.io/tags/reddit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Podcast</title>
+      <link>https://timendum.github.io/tags/podcast/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0200</pubDate>
+      <guid>https://timendum.github.io/tags/podcast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cibo</title>
+      <link>https://timendum.github.io/tags/cibo/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0200</pubDate>
+      <guid>https://timendum.github.io/tags/cibo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nomi</title>
       <link>https://timendum.github.io/tags/nomi/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0200</pubDate>
       <guid>https://timendum.github.io/tags/nomi/</guid>
       <description></description>
     </item>
     <item>
-      <title>reddit</title>
-      <link>https://timendum.github.io/tags/reddit/</link>
-      <pubDate>Tue, 20 Feb 2024 00:00:00 +0200</pubDate>
-      <guid>https://timendum.github.io/tags/reddit/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>metareddit</title>
+      <title>Metareddit</title>
       <link>https://timendum.github.io/tags/metareddit/</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0200</pubDate>
       <guid>https://timendum.github.io/tags/metareddit/</guid>
       <description></description>
     </item>
     <item>
-      <title>film</title>
-      <link>https://timendum.github.io/tags/film/</link>
-      <pubDate>Wed, 17 May 2023 00:00:00 +0200</pubDate>
-      <guid>https://timendum.github.io/tags/film/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>geografia</title>
+      <title>Geografia</title>
       <link>https://timendum.github.io/tags/geografia/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0200</pubDate>
       <guid>https://timendum.github.io/tags/geografia/</guid>
       <description></description>
     </item>
     <item>
-      <title>libro</title>
+      <title>Libro</title>
       <link>https://timendum.github.io/tags/libro/</link>
       <pubDate>Fri, 17 Jun 2022 00:00:00 +0200</pubDate>
       <guid>https://timendum.github.io/tags/libro/</guid>
       <description></description>
     </item>
     <item>
-      <title>schema</title>
+      <title>Schema</title>
       <link>https://timendum.github.io/tags/schema/</link>
       <pubDate>Fri, 17 Jun 2022 00:00:00 +0200</pubDate>
       <guid>https://timendum.github.io/tags/schema/</guid>
       <description></description>
     </item>
     <item>
-      <title>podcast</title>
-      <link>https://timendum.github.io/tags/podcast/</link>
-      <pubDate>Tue, 06 Jul 2021 00:00:00 +0200</pubDate>
-      <guid>https://timendum.github.io/tags/podcast/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>politica</title>
+      <title>Politica</title>
       <link>https://timendum.github.io/tags/politica/</link>
       <pubDate>Sat, 03 Apr 2021 00:00:00 +0200</pubDate>
       <guid>https://timendum.github.io/tags/politica/</guid>
       <description></description>
     </item>
     <item>
-      <title>musica</title>
+      <title>Musica</title>
       <link>https://timendum.github.io/tags/musica/</link>
       <pubDate>Tue, 22 May 2018 00:00:00 +0200</pubDate>
       <guid>https://timendum.github.io/tags/musica/</guid>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>libro on Timendum</title>
+    <title>Libro on Timendum</title>
     <link>https://timendum.github.io/tags/libro/</link>
-    <description>Recent content in libro on Timendum</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Libro on Timendum</description>
+    <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://timendum.github.io/tags/libro/index.xml" rel="self" type="application/rss+xml" />

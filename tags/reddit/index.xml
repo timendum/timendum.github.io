@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reddit on Timendum</title>
+    <title>Reddit on Timendum</title>
     <link>https://timendum.github.io/tags/reddit/</link>
-    <description>Recent content in reddit on Timendum</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Reddit on Timendum</description>
+    <generator>Hugo</generator>
     <language>it-it</language>
-    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://timendum.github.io/tags/reddit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Bibbia MCU [update agosto 2024]</title>
+      <link>https://timendum.github.io/posts/bibbia-mcu/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0200</pubDate>
+      <guid>https://timendum.github.io/posts/bibbia-mcu/</guid>
+      <description>Ho adattato in italiano &amp;ldquo;La Bibbia MCU&amp;rdquo;, dove si possono cercare e citare i film della Marvel come se fossero passaggi della Bibbia.</description>
+    </item>
+    <item>
+      <title>Quali sono le migliori puntate di Tintoria Podcast e Cachemire?</title>
+      <link>https://timendum.github.io/posts/tintoria-puntante-cachemire/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0200</pubDate>
+      <guid>https://timendum.github.io/posts/tintoria-puntante-cachemire/</guid>
+      <description>Rappresentazione grafica delle puntate dei podcast Titoria e Cachemire.</description>
+    </item>
+    <item>
+      <title>Un confronto delle etichette di alcuni cibi</title>
+      <link>https://timendum.github.io/posts/confronto-etichetta-alimenti/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0200</pubDate>
+      <guid>https://timendum.github.io/posts/confronto-etichetta-alimenti/</guid>
+      <description>Ho deciso di estrarre le informazioni nutrizionali di alcuni alimenti e metterli in una bella tabella per confrontarli.</description>
+    </item>
     <item>
       <title>I nomi più popolari in Italia dal 1999 al 2021</title>
       <link>https://timendum.github.io/posts/classifica-nomi-italia/</link>
@@ -21,13 +42,6 @@
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0200</pubDate>
       <guid>https://timendum.github.io/posts/ritaly-2023/</guid>
       <description>Classifiche e grafici di un anno di commenti e post di r/italy.</description>
-    </item>
-    <item>
-      <title>La Bibbia MCU [update maggio 2023]</title>
-      <link>https://timendum.github.io/posts/bibbia-mcu/</link>
-      <pubDate>Wed, 17 May 2023 00:00:00 +0200</pubDate>
-      <guid>https://timendum.github.io/posts/bibbia-mcu/</guid>
-      <description>Ho adattato in italiano &amp;ldquo;La Bibbia MCU&amp;rdquo;, dove si possono cercare e citare i film della Marvel come se fossero passaggi della Bibbia.</description>
     </item>
     <item>
       <title>Ho ridisegnato le province per vicinanza al capoluogo</title>
@@ -48,7 +62,7 @@
       <link>https://timendum.github.io/posts/ritaly-2021/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0200</pubDate>
       <guid>https://timendum.github.io/posts/ritaly-2021/</guid>
-      <description>Ho 	estratto tutti i post del 2021 di r/italy, ho quindi eseguito alcune analisi.</description>
+      <description>Ho &#x9;estratto tutti i post del 2021 di r/italy, ho quindi eseguito alcune analisi.</description>
     </item>
     <item>
       <title>I capoluoghi sono al centro delle regioni?</title>

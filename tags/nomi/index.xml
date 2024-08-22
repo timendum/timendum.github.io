@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nomi on Timendum</title>
+    <title>Nomi on Timendum</title>
     <link>https://timendum.github.io/tags/nomi/</link>
-    <description>Recent content in nomi on Timendum</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Nomi on Timendum</description>
+    <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://timendum.github.io/tags/nomi/index.xml" rel="self" type="application/rss+xml" />
