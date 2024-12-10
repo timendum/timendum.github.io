@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="it-it">
+<head>
+    <meta charset="utf-8">
+    
+    <title>Uso avanzato delle liste in Python | Timendum</title>
+    <meta name="description" content="Raccolta di produzioni di Timendum">
+    <meta name="author" content="">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://timendum.github.io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://timendum.github.io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://timendum.github.io/favicon-16x16.png">
+    <link rel="manifest" href="https://timendum.github.io/site.webmanifest">
+    <link rel="mask-icon" href="https://timendum.github.io/safari-pinned-tab.svg" color="#00416a">
+    <link rel="feed" type="application/rss+xml" href="./index.xml" title="Uso avanzato delle liste in Python" />
+    <link rel="alternate" type="application/rss+xml" href="./index.xml" title="Uso avanzato delle liste in Python" />
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="theme-color" content="#ffffff">
+    
+    
+    
+    
+    
+    <link rel="stylesheet" href="https://timendum.github.io/css/fonts.css" />
+    <link rel="stylesheet" href="https://timendum.github.io/css/style.css" />
+    <link rel="stylesheet" href="https://timendum.github.io/css/custom.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <header>
+        <nav>
+    
+    <div id="page-nav">
+        <div class="page-nav-item">
+            <a href="https://timendum.github.io/">Home</a>
+        </div>
+        
+    </div>
+</nav>
+        
+    </header>
+
+
+
+<div id="content">
+    <article class="h-entry">
+        <header>
+            <h1 class="post-title p-name">Uso avanzato delle liste in Python</h1>
+            
+            <p class="post-date">Scritto il 
+                <time class="dt-published" datetime="2024-12-10T00:00:00&#43;02:00">
+                    10-12-2024
+                </time>  da <a href="https://timendum.github.io/" class="p-author h-card"
+                    rel="author">Timendum</a>
+            </p>
+            
+            
+			
+        </header>
+        <section class="content e-content">
+            <p>Mi dimentico sempre che le <code>list</code> in Python possono essere fare molto di più che un array classico.</p>
+<p>Quindi qualche schema per ricordarmi come funziona.</p>
+<h2 id="metodi">Metodi</h2>
+<h3 id="pop">pop</h3>
+<p>Con <code>pop</code> si possono riumuovere anche elementi in mezzo alla lista.</p>
+<pre><code>&gt;&gt;&gt; a = [10, 11, 12, 13, 14]
+&gt;&gt;&gt; a.pop(3)
+13
+&gt;&gt;&gt; a
+[10, 11, 12, 14]
+</code></pre>
+<h3 id="remove">remove</h3>
+<p>Invece <code>remove</code> riumuovere un preciso elemento, <strong>senza indice</strong>, ovviamente non lo restituisce, dovrei già averlo.</p>
+<p>In pratica equivale a <code>a.remove(a.index(x))</code>, quindi lancia un <code>ValueError</code> se l&rsquo;elemento non esiste, proprio come <code>index</code>.</p>
+<pre><code>&gt;&gt;&gt; a = [10, 11, 12, 13, 14]
+&gt;&gt;&gt; a.remove(13)
+&lt;None&gt;
+&gt;&gt;&gt; a
+[10, 11, 12, 14]
+</code></pre>
+<h3 id="insert">insert</h3>
+<p>Infine <code>insert</code> aggiunge un elemento nel posto indicato, facendo slittare gli altri.</p>
+<pre><code>&gt;&gt;&gt; a = [10, 11, 12, 13, 14]
+&gt;&gt;&gt; a.insert(1, 60)
+&lt;None&gt;
+&gt;&gt;&gt; a
+[10, 60, 11, 12, 13, 14]
+</code></pre>
+<p>Se l&rsquo;indice è più grande della lunghezza della <code>list</code>, verrà aggiunto alla fine.</p>
+<pre><code>&gt;&gt;&gt; a = [10, 11, 12, 13, 14]
+&gt;&gt;&gt; a.insert(100, 60)
+&lt;None&gt;
+&gt;&gt;&gt; a
+[10, 11, 12, 13, 60]
+</code></pre>
+<h2 id="ricette">Ricette</h2>
+<h3 id="inserire-due-oggetti-al-posto-di-uno">Inserire due oggetti al posto di uno</h3>
+<p>Vogliamo ad esempio da <code>[10, 11, 12, -1, 15]</code> togliere  <code>-1</code> nel seguente array e metterci <code>13</code> e <code>14</code>.</p>
+<p>Con il primo modo, togliamo e poi inseriamo, occhio se se li inseriamo nella stessa posizione, vanno inseriti in <strong>ordine inverso</strong>, prima <code>14</code> poi <code>13</code>.</p>
+<pre><code>&gt;&gt;&gt; a = [10, 11, 12, -1, 15]
+&gt;&gt;&gt; a.remove(-1)
+&gt;&gt;&gt; a.insert(3, 14)
+&gt;&gt;&gt; a.insert(3, 13)
+&gt;&gt;&gt; a
+[10, 11, 12, 13, 14, 15]
+</code></pre>
+<p>In alternativa, possono essere inseriti nell&rsquo;ordine giusto, ma l&rsquo;indice va incrementato.</p>
+<pre><code>&gt;&gt;&gt; a = [10, 11, 12, -1, 15]
+&gt;&gt;&gt; a.remove(-1)
+&gt;&gt;&gt; a.insert(3, 13)
+&gt;&gt;&gt; a.insert(4, 14)
+&gt;&gt;&gt; a
+[10, 11, 12, 13, 14, 15]
+</code></pre>
+<p>Oppure, possiamo sovrascrivere ed inserire, con la stessa accortezza, cioè sovrascrivere con <code>14</code> e poi inserire con <code>13</code>.</p>
+<pre><code>&gt;&gt;&gt; a = [10, 11, 12, -1, 15]
+&gt;&gt;&gt; a[3] = 14
+&gt;&gt;&gt; a.insert(3, 13)
+&gt;&gt;&gt; a
+[10, 11, 12, 13, 14, 15]
+</code></pre>
+<p>Infine stessa alternativa di prima, inserirli nell&rsquo;ordine giusto ma incrementare l&rsquo;indice.</p>
+<pre><code>&gt;&gt;&gt; a = [10, 11, 12, -1, 15]
+&gt;&gt;&gt; a[3] = 13
+&gt;&gt;&gt; a.insert(4, 14)
+&gt;&gt;&gt;
+&gt;&gt;&gt; a
+[10, 11, 12, 13, 14, 15]
+</code></pre>
+<h3 id="invertire-due-elementi">Invertire due elementi</h3>
+<p>Qui sempre meglio il classico &ldquo;swap&rdquo;.</p>
+<pre><code>&gt;&gt;&gt; a = [10, 11, 24, 13, 42, 15]
+&gt;&gt;&gt; x = a[2]
+&gt;&gt;&gt; a[2] = a[4]
+&gt;&gt;&gt; a[4] = x
+&gt;&gt;&gt; a
+[10, 11, 42, 13, 24, 15]
+</code></pre>
+<p>O in un colpo solo.</p>
+<pre><code>&gt;&gt;&gt; a = [10, 11, 24, 13, 42, 15]
+&gt;&gt;&gt; a[4], a[2] = a[2], a[4]
+&gt;&gt;&gt; a
+[10, 11, 42, 13, 24, 15]
+</code></pre>
+
+        </section>
+        <footer>
+            
+            <hr class="post-underline">
+            <p class="post-tag">Questo post ha i seguenti tag:
+                
+                <a href="https://timendum.github.io/tags/programmazione" class="post-tag p-category">programmazione</a>
+                
+                <a href="https://timendum.github.io/tags/python" class="post-tag p-category">python</a>
+                
+            </p>
+            
+        </footer>
+    </article>
+</div>
+
+    
+    <div id="footer">
+      
+      <nav id="article-skip">
+        <div class="next">
+          
+          <p>&nbsp;</p>
+          
+        </div>
+        <div class="top">
+          <a alt="Vai all'inizio della pagina" href="#">Sopra</a>
+        </div>
+        <div class="prev">
+          
+                <a alt="Articolo successivo" href="https://timendum.github.io/posts/bibbia-mcu/">Successivo &rarr;</a>
+          
+        </div>
+      </nav>
+      
+      <aside id="social">
+  <div id="social-icons">
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="GitHub profile" href="https://github.com/timendum"><img src="https://timendum.github.io/icons/github.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Reddit profile" href="https://www.reddit.com/user/timendum"><img src="https://timendum.github.io/icons/reddit-alien.svg" height="24px" width="24px" /></a>
+    </div>
+    
+    
+    
+    
+    
+  </div>
+</aside>
+
+      
+    </div>
+
+
+</body>
+</html>

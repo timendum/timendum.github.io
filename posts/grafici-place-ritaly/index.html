@@ -67,54 +67,54 @@
 <p><img src="utenti.png" alt="Grafico"></p>
 <p>Ecco la top ten:</p>
 <table class="table-striped">
-<thead>
-<tr>
-<th>utente</th>
-<th>click</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Poggor</td>
-<td>357</td>
-</tr>
-<tr>
-<td>yupswing</td>
-<td>319</td>
-</tr>
-<tr>
-<td>EnderStarways</td>
-<td>282</td>
-</tr>
-<tr>
-<td>Rerecursing</td>
-<td>275</td>
-</tr>
-<tr>
-<td>Diffeomorphisms</td>
-<td>251</td>
-</tr>
-<tr>
-<td>TheHammerstein</td>
-<td>245</td>
-</tr>
-<tr>
-<td>PotatoResearch</td>
-<td>242</td>
-</tr>
-<tr>
-<td>ENSilLosco</td>
-<td>238</td>
-</tr>
-<tr>
-<td>ThePopeShitsInHisHat</td>
-<td>229</td>
-</tr>
-<tr>
-<td>un_Fiorentino</td>
-<td>223</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>utente</th>
+          <th>click</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Poggor</td>
+          <td>357</td>
+      </tr>
+      <tr>
+          <td>yupswing</td>
+          <td>319</td>
+      </tr>
+      <tr>
+          <td>EnderStarways</td>
+          <td>282</td>
+      </tr>
+      <tr>
+          <td>Rerecursing</td>
+          <td>275</td>
+      </tr>
+      <tr>
+          <td>Diffeomorphisms</td>
+          <td>251</td>
+      </tr>
+      <tr>
+          <td>TheHammerstein</td>
+          <td>245</td>
+      </tr>
+      <tr>
+          <td>PotatoResearch</td>
+          <td>242</td>
+      </tr>
+      <tr>
+          <td>ENSilLosco</td>
+          <td>238</td>
+      </tr>
+      <tr>
+          <td>ThePopeShitsInHisHat</td>
+          <td>229</td>
+      </tr>
+      <tr>
+          <td>un_Fiorentino</td>
+          <td>223</td>
+      </tr>
+  </tbody>
 </table>
 <p>I dati completi su <a href="http://www.sharecsv.com/s/04a27ec539dbcb17917258c5aecca94e/new%205.csv">sharecsv</a>.</p>
 <h2 id="la-zona-più-combattuta">La zona più combattuta</h2>
@@ -152,7 +152,8 @@ FROM `reddit-jg-data.place_events.all_tile_placements` as place
 LEFT JOIN users ON users.sha = place.user
 WHERE users.sha is not null
 group by color
-having count(*) &gt; 1</code></pre>
+having count(*) &gt; 1
+</code></pre>
 
         </section>
         <footer>

@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Timendum</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://timendum.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uso avanzato delle liste in Python</title>
+      <link>https://timendum.github.io/posts/liste-python/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0200</pubDate>
+      <guid>https://timendum.github.io/posts/liste-python/</guid>
+      <description>Schemi per usare l&amp;rsquo;oggetto list di Python in maniera più efficace.</description>
+    </item>
     <item>
       <title>La Bibbia MCU [update agosto 2024]</title>
       <link>https://timendum.github.io/posts/bibbia-mcu/</link>

@@ -6,8 +6,22 @@
     <description>Recent content in Tags on Timendum</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://timendum.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programmazione</title>
+      <link>https://timendum.github.io/tags/programmazione/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0200</pubDate>
+      <guid>https://timendum.github.io/tags/programmazione/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://timendum.github.io/tags/python/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0200</pubDate>
+      <guid>https://timendum.github.io/tags/python/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Film</title>
       <link>https://timendum.github.io/tags/film/</link>
