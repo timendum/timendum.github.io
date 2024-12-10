@@ -2,29 +2,30 @@ baseURL = 'https://timendum.github.io/'
 languageCode = 'it-it'
 title = 'Timendum'
 author = "Timendum"
-paginate = 5
+
+theme = "indigo"
 
 publishDir = "gh-pages"
-
 # Generate a nice robots.txt
 enableRobotsTXT = true
 
 
-theme = "indigo"
+[pagination]
+pagerSize = 5
 
 [params]
-  Author = "Timendum"
-  Description = "Raccolta di produzioni di Timendum"
-  Subtitle = "Raccolta di cose fatte da me"
-  Avatar = "images/site-logo.svg"
-  Biography = "Posto su Reddit, faccio cose in Python principalmente."
-  ShowBio = false
-  PermalinkText = "🔗"
-  mainSections = ["posts", "updates"]
-  # Contact/social-network identifiers for social icons
-  GitHubUser = "timendum"
-  # KeybaseUser = "timendum"
-  RedditUser = "timendum"
+Author = "Timendum"
+Description = "Raccolta di produzioni di Timendum"
+Subtitle = "Raccolta di cose fatte da me"
+Avatar = "images/site-logo.svg"
+Biography = "Posto su Reddit, faccio cose in Python principalmente."
+ShowBio = false
+PermalinkText = "🔗"
+mainSections = ["posts", "updates"]
+# Contact/social-network identifiers for social icons
+GitHubUser = "timendum"
+# KeybaseUser = "timendum"
+RedditUser = "timendum"
 
 [markup.goldmark.parser.attribute]
 block = true
