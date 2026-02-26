@@ -2,7 +2,7 @@
 title: "Quali sono le migliori puntate di Tintoria Podcast e Cachemire?"
 date: 2024-04-15T00:00:00+02:00
 draft: false
-summary: "Rappresentazione grafica delle puntate dei podcast Titoria e Cachemire."
+summary: "Rappresentazione grafica delle puntate dei podcast Tintoria e Cachemire."
 tags: ["reddit", "podcast"]
 ---
 

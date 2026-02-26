@@ -26,19 +26,17 @@ vuoi | 13
 donna | 12
 storia | 12
 capire | 12
-{ class="table table-striped"} 
+{ class="table table-striped"}
 
 ## Word cloud
 
 ![Word cloud di Sanremo 2018](/images/sanremo-2018-wordcloud.png)
-
 
 ## La canzone di /r/Italy
 
 _Dallo stesso motore di /r/italy_SS ho generato un "super" testo_
 
 **/u/Lele_ ne ha [cantata](https://vocaroo.com/i/s0HjncziVrdn) un pezzo per noi!
-
 
 > Senti il peso di una tastiera.  
 > Donna non di tutti non è un punto di vista.  

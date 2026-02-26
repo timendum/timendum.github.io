@@ -47,7 +47,7 @@ sempiternum | 1
 
 Quale giorno riceve più voti?
 
-Il **Venerdì** nettamente, secondo me sia perchè "Casual" sia perchè aperto da un utente.  
+Il **Venerdì** nettamente, secondo me sia perché "Casual" sia perché aperto da un utente.  
 Ultima la domenica, seguita strettamente dal sabato.
 
 Giorno | Voto medio | Quantità
@@ -134,12 +134,9 @@ Ora | Voto medio | Quantità
 21	| 1,84	| 1049
 22	| 1,68	| 927
 23	| 1,55	| 683
-{ class="table-striped"} 
-
-
+{ class="table-striped"}
 
 A disposizione anche il **[Grafico interattivo](https://thimbleprojects.org/timendum/286404/commenti-orario.html)**
-
 
 ### Risposte per orario
 
@@ -147,9 +144,7 @@ A che ora si ricevono più risposte?
 
 Praticamente la metà dei commenti riceve una riposta, sensibilmente di meno solo quelli tra la mezzanotte e l'apertura.
 
-
 ![Grafico](risposte.png)
-
 
 Ora | Risposte medie | Con risp | Senza rips | %
 ---|---|---|---|---|
@@ -177,11 +172,9 @@ Ora | Risposte medie | Con risp | Senza rips | %
 21	| 1,19	| 533	| 516	| 51%
 22	| 1,14	| 426	| 501	| 46%
 23	| 1,13	| 279	| 404	| 41%
-{ class="table-striped"} 
-
+{ class="table-striped"}
 
 A disposizione anche il **[Grafico interattivo](https://thimbleprojects.org/timendum/286404/commenti-risposte.html)**
-
 
 ### Tipo di commenti
 
@@ -191,8 +184,7 @@ Tipo | Quantità | Percentuale
 ---|---|---|
 Risposta | 36191 | 83,7%
 Primo livello | 7048 | 16,3%
-{ class="table-striped"} 
-
+{ class="table-striped"}
 
 ![Grafico](tipo.png)
 
@@ -207,7 +199,6 @@ La top 3 dei commenti con il testo più lungo vede:
 Per capirci sono lunghi la metà del [Discorso di fine anno 2016](http://www.quirinale.it/elementi/Continua.aspx?tipo=Discorso&key=525).
 
 Il più corto riceve 9 voti ed è lungo [ZERO](https://www.reddit.com/r/italy/comments/5rd12u/caffè_italia_01022017/dd6syna/?context=2).
-
 
 ## Casi notevoli
 
@@ -235,7 +226,6 @@ Tre commenti hanno ricevuto il gold:
 ## Tecnicismi
 
 Ho usato PRAW per estrarre le submission (tramite la ricerca flair:/r/italy), ho aggiunto quelle mancanti a mano, quindi ho estratto i commenti.
-
 
 SQLite ed un pizzico di Excel per elaborare i dati.
 

@@ -5,7 +5,7 @@ tags: ["reddit", "geografia"]
 summary: "Ho creato dei grafici che rappresentano \"come sono orientate\" le città italiane."
 ---
 
-Ispirato da [questo articolo](http://geoffboeing.com/2018/07/city-street-orientations-world/) 
+Ispirato da [questo articolo](http://geoffboeing.com/2018/07/city-street-orientations-world/)
 ho creato, grazie a
 [tanto bel codice](https://github.com/gboeing/osmnx-examples/blob/master/notebooks/17-street-network-orientations.ipynb)
 quasi già pronto,
@@ -14,7 +14,7 @@ dei grafici che rappresentano "come sono orientate" le città italiane.
 In pratica il programma,
 che trovate condiviso [su anaconda](https://notebooks.anaconda.org/timendum/street-network-orientations),
 scarica da [OpenStreetMap](http://openstreetmap.org/)
-le strate di una città,
+le strade di una città,
 poi semplifica la cartina,
 fa l'elenco delle strade che rimangono
 e ne calcola l'orientamento,
@@ -71,7 +71,6 @@ Ho analizzato le città con più abitanti d'Italia più alcune città interessan
 ![Padova](9yXfgio.png)
 
 ![Latina](r5xZXB1.png)
-
 
 Per i più curiosi
 [su questo album](https://imgur.com/a/EBYIOIG)

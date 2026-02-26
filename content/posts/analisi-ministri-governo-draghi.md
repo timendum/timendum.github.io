@@ -10,7 +10,7 @@ tags: ["reddit", "politica"]
 Ispirato da un servizio di PropagandaLive
 andato in onda Venerdì scorso,
 ho messo un tabella
-l'elenco dei ministri del governo attuale 
+l'elenco dei ministri del governo attuale
 e i loro precedenti incarichi governativi:
 
 |  | **Draghi** | **Conte II** | **Conte I** | **Gentiloni** | **Renzi** | **Letta** | **Berlusconi IV** |
@@ -32,7 +32,7 @@ e i loro precedenti incarichi governativi:
 | **Andrea Orlando** (PD) | Ministro del lavoro e delle politiche sociali | | | Ministro della Giustizia | Ministro della Giustizia | Ministro dell'ambiente e della tutela del territorio e del mare | |
 | **Dario Franceschini** (PD) | Ministro per i beni e le attività culturali e per il turismo | Ministro per i beni e le attività culturali e per il turismo | | Ministro per i beni e le attività culturali e per il turismo | Ministro per i beni e le attività culturali e per il turismo | | |
 | **Roberto Speranza** (Art.1) | Ministro della salute | Ministro della salute | | | | | |
-{ class="table table-striped"} 
+{ class="table table-striped"}
 
 Nota: dalla tabella manca il Governo Monti, perché non condivide nessun ministro con il governo attuale.
 
@@ -58,4 +58,4 @@ Una suddivisione per regioni:
 | Friuli-Venezia Giulia  	| 1 | 
 | Liguria  	| 	1|
 | Piemonte | 1 |
-{ class="table-striped"} 
+{ class="table-striped"}

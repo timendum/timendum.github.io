@@ -71,10 +71,9 @@ Dai [rispettivi](https://www.facebook.com/matteorenziufficiale/posts/) [facebook
 > Chi è il metro che misura il livello di civiltà di una macchina in Arabia Saudita adesso non ci dimenticheremo mai di incontri come questo.  
 > Personalmente penso che chi ha conosciuto troppo presto le difficoltà dell'attuazione della Buona Scuola.  
 
+### Note
 
-### Note:
-
-Entrambi i contenuti sono moolto omogenei, fin troppi, ho imposto una coerenza di 3 (cioè chiavi di tre parole di fila) e ho dovuto scartare alcune frasi perché indistinguibili dall'originale!
+Entrambi i contenuti sono molto omogenei, fin troppi, ho imposto una coerenza di 3 (cioè chiavi di tre parole di fila) e ho dovuto scartare alcune frasi perché indistinguibili dall'originale!
 
 Di Maio scrive molto di più, oltre i 100k contro i 66k di Renzi.
 

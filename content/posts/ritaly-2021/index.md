@@ -121,7 +121,6 @@ Come prima, ma contando il numero di commenti finale.
 
 Ho poi rappresentato su un grafico quanti post (sulle y) vengono inviati in ogni ora del giorno. (Escluso il [top post](https://www.reddit.com/r/italy/comments/oidg8i/abbiamo_vinto_mandiamo_la_nostra_bandiera_sulla/)). Il colore del pallino rappresenta il punteggio medio dei post in quell'ora. Ne deduciamo quindi che i post inviati tra le 7 e le 10 del mattino sono leggermente meglio votati.
 
-
 ![Ora di invio](ygv7mnp5s2b81.webp)
 
 ### Analisi per giorno di invio
@@ -134,7 +133,6 @@ Come sopra, ma suddivisi per giorno al posto che per ora.
 
 Sul grafico successivo trovate i post suddivisi per dominio, cioè su che sito ti porta il link (se presente), in percentuale sul totale.Il numero sopra la barra corrisponde al punteggio medio del post di quella categoria.
 
-
 ![Domini](662f7la9s2b81.webp)
 
 Ad esempio abbiamo avuto 285 post verso ilpost.it (il 4.4% dei post), per un totale di 50.515 karma (il 4.3% del karma totale), con una media di 177 karma per post.
@@ -142,7 +140,6 @@ Ad esempio abbiamo avuto 285 post verso ilpost.it (il 4.4% dei post), per un tot
 Considerazione personale: i self sono quelli più presenti ma anche più vari, ce ne sono di tutti i tipi e con risultati diversi. Immagini (reddit.com e imgur) non sono così presenti ma sono molto votati, il triplo degli altri (perché sono un contenuto facile?); ilpost NON è la fonte principale, né per numero di post né per voti (totali o medi).
 
 ## Andamento nell'anno
-
 
 ### Numero di commenti
 

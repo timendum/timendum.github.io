@@ -17,9 +17,8 @@ Questa volta ho analizzato un anno di contenuti di /r/italy, dal 1 giugno 2018 a
 
 Inoltre l'analisi è divisa in due parti:
 
-*   una prima sui post (numero di voti, commenti, autori, eccetera)
-*   una seconda sulle parole (quanti commenti o post hanno generato)
-
+* una prima sui post (numero di voti, commenti, autori, eccetera)
+* una seconda sulle parole (quanti commenti o post hanno generato)
 
 ## Perimetro
 
@@ -41,14 +40,13 @@ I **self post** sono il `37.64%`, cioè sono `11.433` (su 30.373). I post NSFW s
 
 ## Analisi sui post
 
-
 ### I Voti
 
 Il **voto medio** è `35.7`, ma la deviazione standard è di `115`, molto alta. Per capirci:
 
-*   Il 25% dei post è a `1` o meno
-*   Il 50% dei post è a `5` o meno
-*   Il 75% dei post è a `25` o meno
+* Il 25% dei post è a `1` o meno
+* Il 50% dei post è a `5` o meno
+* Il 75% dei post è a `25` o meno
 
 Per i più curiosi, ho disegnato un [istogramma cumulativo](hist_score.png) in scala logaritmica.
 
@@ -63,15 +61,15 @@ Punteggio | Titolo |  Autore
 2357 | [Vampiri Italiani](https://reddit.com/r/italy/comments/amzq1b/vampiri_italiani/) | 42n8
 2357 | [Evergreen](https://reddit.com/r/italy/comments/amdd23/evergreen/) | francesco11111
 2192 | [Meanwhile in Alto Adige...](https://reddit.com/r/italy/comments/9xw60a/meanwhile_in_alto_adige/) | Duxuev
-{ class="table table-striped"} 
+{ class="table table-striped"}
 
 ### Il numero di commenti
 
 Il numero **medio di commenti** riportati da Reddit è circa `26`, ma la deviazione standard è di `80`. Per capirci:
 
-*   Il `25%` dei post è a `1` o meno
-*   Il `50%` dei post è a `5` o meno
-*   Il `75%` dei post è a `22` o meno (ancora meno degli upvote!)
+* Il `25%` dei post è a `1` o meno
+* Il `50%` dei post è a `5` o meno
+* Il `75%` dei post è a `22` o meno (ancora meno degli upvote!)
 
 Per i più curiosi, ho disegnato un [istogramma cumulativo](hist_comments.png) in scala logaritmica.
 
@@ -84,7 +82,7 @@ Commenti | Titolo | Autore
 1475 | [\[Megathread\] 69° Festival di Sanremo - Quarta Serata (Duetti)](https://reddit.com/r/italy/comments/aojnul/megathread_69_festival_di_sanremo_quarta_serata/) | Jockbaia
 1156 | [Caffè Italia \* 15/01/19](https://reddit.com/r/italy/comments/ag4g06/caffè_italia_150119/) | RedditItalyBot
 1070 | [Caffè Italia \* 12/02/19](https://reddit.com/r/italy/comments/app3wg/caffè_italia_120219/) | RedditItalyBot
-{ class="table table-striped"} 
+{ class="table table-striped"}
 
 ... Altri escludendo Megathread, Caffè e Casual ...
 
@@ -97,7 +95,7 @@ Commenti | Titolo | Autore
 525 | [Il parlamento europeo approva con 348 voti favorevoli e 274 contrari la direttiva sul copyright](https://reddit.com/r/italy/comments/b5owha/il_parlamento_europeo_approva_con_348_voti/) | accountperritaly
 511 | [No stupid questions](https://reddit.com/r/italy/comments/acfu9g/no_stupid_questions/) | nerdvana89
 467 | [Sono un dentista e ho pensato di scrivere una guida sull'igiene orale. Spero possa esservi utile!](https://reddit.com/r/italy/comments/9hmp04/sono_un_dentista_e_ho_pensato_di_scrivere_una/) | il_dentista
-{ class="table table-striped"} 
+{ class="table table-striped"}
 
 ### Punteggio e Numero di commenti
 
@@ -132,7 +130,7 @@ Dominio | Karma totale | Numero di post
 reddit.com | 432.296 (39,84%)  | 4.330 (14,25%)
 self.italy | 177.725 (16,38%) | 11.433 (37,64%)
 imgur.com | 94.331 (8,69%) | 865 (2,85%)
-{ class="table table-striped"} 
+{ class="table table-striped"}
 
 #### Per karma
 
@@ -166,7 +164,6 @@ Non si nota molto, ma il sabato e domenica il rapporto upvote su numero di post 
 
 ## Analisi sulle parole
 
-
 Per questa sezione mi sono concentrato su quante volte una certa parola compare nei commenti di /r/italy.
 
 ### Operatori telefonici
@@ -197,13 +194,11 @@ Il seguente grafico mostra quanti commenti sono stati fatti, per settimana.
 
 ### I politici
 
-
 Questo invece quante volte appare il cognome di un politico nei commenti.
 
 ![Citazione di un politico](politici.png)
 
 #### Focus Salvini
-
 
 Avete idea di quanti post su Salvini sono stati aperti su r/italy?.
 
@@ -215,8 +210,7 @@ Nel seguente grafico tutti i post con punteggio almeno 2 dove "Salvini" appare n
 
 ## Tecnicismi
 
-
-Ho usato PRAW per estrarre le submission, salvate per /r/italy_SS e riaggiornate.
+Ho usato PRAW per estrarre le submission, salvate per /r/italy_SS e ri-aggiornate.
 
 Il tutto è stato salvato su CSV.
 

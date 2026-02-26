@@ -8,7 +8,7 @@ Sono pochissimi i casi così tanti voti E più commentati del caffè. Quindi seg
 tags: ["reddit", "metareddit"]
 ---
 
-La discussione di ieri di Civati mi ha colpito, `491` commenti e `262` voti. 
+La discussione di ieri di Civati mi ha colpito, `491` commenti e `262` voti.
 Sono pochissimi i casi così tanti voti **E** più commentati del caffè.
 
 Quindi segue il mio solito thread di contenuti meta, per i più curiosi.
@@ -26,31 +26,31 @@ Ho escluso solo alcune parole molto comuni come non/per/come/più/dei/...
 
 | Utente | Commenti |
 |---|---|
-| civati	 | 	58         |
-| xxmlgprosniperxx	 | 	40 |
-| mirh	 | 	35             |
-| LanciaStratos93	 | 	27 |
-| No_grazie	 | 	15         |
-| martinomh	 | 	15         |
-| Jafarrolo	 | 	14         |
-| MuFoliash	 | 	12         |
-| peppeuz	 | 	10         |
-{ class="table-striped"} 
+| civati  |  58         |
+| xxmlgprosniperxx  |  40 |
+| mirh  |  35             |
+| LanciaStratos93  |  27 |
+| No_grazie  |  15         |
+| martinomh  |  15         |
+| Jafarrolo  |  14         |
+| MuFoliash  |  12         |
+| peppeuz  |  10         |
+{ class="table-striped"}
 
 ### Chi ha preso più karma?
 
 | Utente | Karma |
 |--|--|
-| civati	 | 	481               |
-| Ionti	 | 	103               |
-| belokas	 | 	97                |
-| LanciaStratos93	 | 	90        |
-| xxmlgprosniperxx	 | 	80    |
-| peppeuz	 | 	70                |
-| MuFoliash	 | 	64            |
-| Jafarrolo	 | 	57            |
-| im_a_c4t	 | 	54            |
-{ class="table-striped"} 
+| civati  |  481               |
+| Ionti  |  103               |
+| belokas  |  97                |
+| LanciaStratos93  |  90        |
+| xxmlgprosniperxx  |  80    |
+| peppeuz  |  70                |
+| MuFoliash  |  64            |
+| Jafarrolo  |  57            |
+| im_a_c4t  |  54            |
+{ class="table-striped"}
 
 ### Le medie
 
@@ -58,17 +58,17 @@ Totale karma su commenti (cioè karma medio) per chi ha **almeno 5 commenti**:
 
 | Utente | Media |
 |--|--|
-| civati	 | 	8,3           |
-| peppeuz	 | 	7                     |
-| alabarda-spaziale	 | 	6,5       |
-| Ste29ebasta	 | 	5,6               |
-| MuFoliash	 | 	5,3       |
-| Osspn	 | 	4,2                   |
-| pipster33	 | 	4,1       |
-| Jafarrolo	 | 	4,1       |
-| LanciaStratos93	 | 	3,3   |
-| fagendaz	 | 	3,3       |
-{ class="table-striped"} 
+| civati  |  8,3           |
+| peppeuz  |  7                     |
+| alabarda-spaziale  |  6,5       |
+| Ste29ebasta  |  5,6               |
+| MuFoliash  |  5,3       |
+| Osspn  |  4,2                   |
+| pipster33  |  4,1       |
+| Jafarrolo  |  4,1       |
+| LanciaStratos93  |  3,3   |
+| fagendaz  |  3,3       |
+{ class="table-striped"}
 
 ### Il commento più risposto?
 
@@ -78,17 +78,17 @@ Il secondo, terzo e quarto sono a 5, per rendere l'idea.
 
 ### Totalone
 
-Commenti:	`491`
+Commenti: `491`
 Karma: `2.213`
 
 _Nota_: Solo 2 sono i commenti negativi.
-
 
 ### Il simulatore
 
 Non ne avete abbastanza di leggere? Ecco cosa ne pensa /r/italy_SS:
 
 > Ma se vuole continuiamo a parlare di una cosa che distingue il m5s dagli altri. reddito di cittadinanza.  
+>
 > - Una cosa che ho notato è che non si capisce mai un cavolo di quello che intendevo se non riesci a capirlo eh.  
 > Devi pensare in ottica di cambiamento che il tuo voto o gradiresti un qualche genere di approfondimento?  
 > In claris non fit interpretatio , evidentemente non si è riuscito a vincere anche se inizialmente sembrava difficile.  

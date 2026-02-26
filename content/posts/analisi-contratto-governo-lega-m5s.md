@@ -10,17 +10,17 @@ Come [anticipato](https://www.reddit.com/r/italy/comments/8mmyct/caff%C3%A8_ital
 
 Eccone i risultati:
 
-# Conteggio
+## Conteggio
 
-### Ho contato 421 righe, con 17,922 parole, i caratteri totali sono 123,531.  
+### Ho contato 421 righe, con 17,922 parole, i caratteri totali sono 123,531  
 
 Per questi numeri ho contato solo parole, numeri e spazi, esclusi quindi "a capo", numeri di pagina, etc
 
-### Le parole significative uniche sono 3,818 e appaiono 9,754 volte.  
+### Le parole significative uniche sono 3,818 e appaiono 9,754 volte
 
 Con parole significative si intendono le parole (non i numeri) almeno lunghe due e che non siano stopword.
 
-# Sentiment Analisys
+## Sentiment Analisys
 
 Ho passato a [Google Natual Language](https://cloud.google.com/natural-language/) il documento e ho registrato la polarità di ogni frase, per poter valutare se quella contiene termini negativi, positivi o neutri.  
 
@@ -28,12 +28,12 @@ Il risultato è questo grafico:
 
 ![Sentiment Analisys Contratto di Governo](/images/sentiment-contratto.png)
 
-# Le più frequenti
+## Le più frequenti
 
 (escluse sempre le stopwords)
 
 Parola | Occorrenze
----|---
+|---|---|
 necessario | 88
 sistema | 64
 occorre | 58
@@ -65,9 +65,9 @@ nonché | 19
 riferimento | 19
 imprese | 19
 
-# La coppia di parole più frequenti
+## La coppia di parole più frequenti
 
-(escluse quelle contenenti almeno una stopword)
+(escluse quelle contenenti almeno una stop-word)
 
 Parole | Occorrenze
 ---|---
@@ -92,7 +92,7 @@ territorio nazionale | 4
 associazioni sportive | 4
 occorre introdurre | 4
 
-# Triplette di parole più frequenti
+## Triplette di parole più frequenti
 
 Parole | Occorrenze
 --|--

@@ -17,7 +17,6 @@ I dati sono del 2014.
 
 Non tutti i comuni hanno presentato questa voce, l'esempio più grosso è Napoli.
 
-
 ### Iniziamo con un grafico per regione
 
 ![Grafico](regioni.png)
@@ -46,8 +45,8 @@ Con più di 200.000 abitanti
 
 [Dati di Open Bilanci](http://www.openbilanci.it/classifiche/entrate/consuntivo-entrate-cassa-entrate-extratributarie-servizi-pubblici-polizia-locale/2014)
 
-
 ### Cosa ho utilizzato
+
 Ho preso i dati dal post di openpolis. Li ho elaborati con Excel: una tabella pivot e un ordinamento top 50.
 
 Per i grafici ho usato [Google geochart](https://developers.google.com/chart/interactive/docs/gallery/geochart).
@@ -56,5 +55,5 @@ Per la creazione delle pagine ho usato [Thimble di Mozilla](https://thimble.mozi
 
 #### Aggiornamento 2021-10-05
 
-Le mappe originali erano su Google Charts, ma a causa del cambio di licenza, non è più possibie includere i grafici gratuitamente.  
+Le mappe originali erano su Google Charts, ma a causa del cambio di licenza, non è più possibile includere i grafici gratuitamente.  
 Ho quindi salvato degli screenshot e migrato i dati su DataWrapper.

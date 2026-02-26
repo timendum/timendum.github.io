@@ -29,8 +29,8 @@ Qualche nota "metodologica":
 - molti passaggi obbligatori sono esclusi, ho segnato solo quelli che ho trovato utili
 - ho cercato di rispettare l'orientamento cardinale, ma non è garantito al 100%
 - la possibilità di tornare indietro sui propri passi è solitamente non riportata, con le seguente eccezioni:
-	- in grigio il ritorno indietro da stanze chiuse, vicoli ciechi, etc
-	- con frecce bidirezionali nella parte a "labirinto"
+  - in grigio il ritorno indietro da stanze chiuse, vicoli ciechi, etc
+  - con frecce bidirezionali nella parte a "labirinto"
 
 Infine qualche appunto testuale su oggetti interessanti,
 che volutamente non ho incluso nella mappa per evitare di renderla una vera e propria soluzione:
@@ -56,6 +56,3 @@ che volutamente non ho incluso nella mappa per evitare di renderla una vera e pr
 - 307: Elmo magico
 - 370: Incantesimo di Farrigo Di Maggio
 - 397: Chiave 99
-
-
-

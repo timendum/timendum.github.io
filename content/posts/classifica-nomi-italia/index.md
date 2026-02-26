@@ -21,7 +21,6 @@ Ad esempio nel 2021 Diego sarebbe undicesimo, con il 1,44%, più popolare di Mat
 
 Picco incredibile per Francesco, ho controllato, il 2013 in effetti è proprio l'anno in cui è stato nominato/eletto il nuovo papa.
 
-
 ## Nomi femminili
 
 ### [Visualizzazione interattiva](https://flo.uri.sh/visualisation/15336221/embed)

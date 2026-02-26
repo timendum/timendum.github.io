@@ -13,7 +13,6 @@ Ecco, avevo questa domanda in mente quando ho deciso di estrarre automaticamente
 
 Il risultato sono questi fogli di calcolo:
 
-
 ## [Informazioni nutrizionali di cose spalmabili a base di frutta](https://docs.google.com/spreadsheets/d/1dE8IiwqtnOocajubDO3guTIMYiD0L3f9v_0mmDKpeaU/view)
 
 ## [Informaizoni nutrizionali di creme spalmabili](https://docs.google.com/spreadsheets/d/1Re2pDzKSa-jna0vGTkGcziB9uDE_Kih449L9gYvT8AA/view)

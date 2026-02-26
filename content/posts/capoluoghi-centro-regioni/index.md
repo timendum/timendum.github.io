@@ -41,7 +41,6 @@ L'elenco completo:
 * [Valle d'Aosta](valle-aosta.png)
 * [Veneto](veneto.png)
 
-
 Risultato:
 
 * La peggiore è il Friuli-Venezia Giulia, con 91 di decentramento
@@ -58,7 +57,6 @@ Risultato:
 * Roma ottima con 7 e mezzo
 * Torino praticamente perfetta con 2.7
 * Sassari la peggiore con 82, ma a causa delle enorme dimensioni della città
-
 
 ![Roma](comuni/roma.png)
 
@@ -81,7 +79,7 @@ Le altre:
 * [Sassari](comuni/sassari.png)
 * [Venezia](comuni/venezia.png)
 
-# Gli album completi: [Regioni e capoluoghi](https://imgur.com/a/l3DKT5c), [Comuni e centro](https://imgur.com/a/sUDT51M)
+## Gli album completi: [Regioni e capoluoghi](https://imgur.com/a/l3DKT5c), [Comuni e centro](https://imgur.com/a/sUDT51M)
 
 Edit: i Centri geometrici per regione:
 

@@ -10,12 +10,12 @@ Per chi non lo sapesse, questo mese è uscito [Swag Negro - Nessuno ce la fa](ht
 
 Io ho preso il libro e ne ho fatta un'analisi.
 
-# Qualche numero
+## Qualche numero
 
 Il libro è composto da 19,900 parole.  
 Ci sono 108,470 battute nel libro.
 
-# Word cloud
+## Word cloud
 
 ![Word cloud di Swag Negro](/images/swag-negro-word-cloud.png)
 
@@ -48,9 +48,9 @@ casa|25
 dice|25
 pasta|24
 video|24
-{ class="table table-striped"} 
+{ class="table table-striped"}
 
-# Coppie di parole
+## Coppie di parole
 
 Le due parole più frequenti (escluse quelle non banali, come "E il", "sono quelle", etc) sono:
 
@@ -63,9 +63,9 @@ gucci boy | 5
 figa bianka | 5
 mezzo milione | 4
 swag swag | 4
-{ class="table-striped"} 
+{ class="table-striped"}
 
-# Trigrammi frequenti
+## Trigrammi frequenti
 
 Le tre parole più frequenti sono:
 
@@ -80,15 +80,14 @@ il mio stile | 7
 le mie canzoni | 7
 nel mio mondo | 7
 tutti sanno che | 6
-{ class="table-striped"} 
+{ class="table-striped"}
 
 Nota: le prime 3 sono titoli di canzoni.
 
-# Testo generato
+## Testo generato
 
 Con lo stesso metodo di /r/italy_SS ho generato il seguente testo:
 
-> 
 > Se vuoi puoi cambiare le cose, indipendentemente dal fatto che ci siano i profughi o meno.  
 > 
 > Comunque Mi faccio una sega e canto Mi faccio una sega, una bomba, in un momento in cui ero solo.  
@@ -108,4 +107,3 @@ Con lo stesso metodo di /r/italy_SS ho generato il seguente testo:
 > E se poi a insultarmi è un rapper non è che solo perché fai sesso sei un oggetto.  
 > Questi sono i peggiori, i nazisti, poi ci sono quelli che non mi frega un cazzo di quello che pensa la gente.  
 > Vogliono metterti paura, così tu la smetti di fare quello che voglio!. Perché se no vado in fissa.  
-

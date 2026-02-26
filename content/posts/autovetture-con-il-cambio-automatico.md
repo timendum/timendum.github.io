@@ -37,9 +37,9 @@ Ecco i numeri in forma tabellare:
 |Spain|32|
 |Italy|28|
 
-Tra le cause più segnlate:
+Tra le cause più segnalate:
 
 - un minor numero di auto elettriche (soprattutto rispetto ai primi in classifica, come Norvegia e Svezia, che in effetti hanno più del 25% di vendute)
 - un minor costo (empiricamente posso confermare, le auto costano dai 1,5k ai 3k in più se automatiche)
 - una miglior resa su tratti collinosi o montuosi
-- pregiudizi o resistenze al cambiamento.
+- pregiudizi o resistenze al cambiamento

@@ -14,7 +14,7 @@ Quindi qualche schema per ricordarmi come funziona.
 
 ### pop
 
-Con `pop` si possono riumuovere anche elementi in mezzo alla lista.
+Con `pop` si possono rimuovere anche elementi in mezzo alla lista.
 
     >>> a = [10, 11, 12, 13, 14]
     >>> a.pop(3)
@@ -24,7 +24,7 @@ Con `pop` si possono riumuovere anche elementi in mezzo alla lista.
 
 ### remove
 
-Invece `remove` riumuovere un preciso elemento, **senza indice**, ovviamente non lo restituisce, dovrei già averlo.
+Invece `remove` rimuovere un preciso elemento, **senza indice**, ovviamente non lo restituisce, è nell'input.
 
 In pratica equivale a `a.remove(a.index(x))`, quindi lancia un `ValueError` se l'elemento non esiste, proprio come `index`.
 
