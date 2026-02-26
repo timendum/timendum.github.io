@@ -5,10 +5,33 @@
     <description>Recent content on Timendum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="https://timendum.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Trova le parole in griglia</title>
+      <link>https://timendum.github.io/posts/trova-parole-griglia/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/trova-parole-griglia/</guid>
+      <description>&lt;p&gt;Dopo aver assistito a due puntate di Deejay vs Deejay, ho sviluppato questa piccola
+pagina in React + Vite + TailwindCSS che trova le parole più lunghe
+in una griglia di lettere.&lt;/p&gt;
+&lt;h2 id=&#34;trova-le-parole-in-griglia&#34;&gt;&lt;a href=&#34;https://timendum.github.io/trova-parole-griglia/&#34;&gt;Trova le parole in griglia&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;È appena l&amp;rsquo;utente inserisce una lettera per casella di un quadrato almeno 3x3,
+la pagina trova le parole più lunghe composte da lettere adiacenti,
+cioè sopra, sotto, a sinistra, a destra o in diagonale.&lt;/p&gt;
+&lt;p&gt;Per la lista delle parole mi sono affidato a
+&lt;a href=&#34;https://github.com/napolux/paroleitaliane&#34;&gt;napolux/paroleitaliane&lt;/a&gt;,
+in particolare ho preso il file 660000_parole_italiane e trasformato in JSON.&lt;/p&gt;
+&lt;p&gt;Il codice è disponibile su GitHub:
+&lt;a href=&#34;https://github.com/timendum/trova-parole-griglia&#34;&gt;timendum/trova-parole-griglia&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Confesso che l&amp;rsquo;algoritmo è in buona parte vibe-coded,
+perché l&amp;rsquo;interesse che volevo dedicarci non era più alto.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Uso avanzato delle liste in Python</title>
@@ -20,7 +43,7 @@
 &lt;p&gt;Quindi qualche schema per ricordarmi come funziona.&lt;/p&gt;
 &lt;h2 id=&#34;metodi&#34;&gt;Metodi&lt;/h2&gt;
 &lt;h3 id=&#34;pop&#34;&gt;pop&lt;/h3&gt;
-&lt;p&gt;Con &lt;code&gt;pop&lt;/code&gt; si possono riumuovere anche elementi in mezzo alla lista.&lt;/p&gt;
+&lt;p&gt;Con &lt;code&gt;pop&lt;/code&gt; si possono rimuovere anche elementi in mezzo alla lista.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;&amp;gt;&amp;gt;&amp;gt; a = [10, 11, 12, 13, 14]
 &amp;gt;&amp;gt;&amp;gt; a.pop(3)
 13
@@ -28,7 +51,7 @@
 [10, 11, 12, 14]
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h3 id=&#34;remove&#34;&gt;remove&lt;/h3&gt;
-&lt;p&gt;Invece &lt;code&gt;remove&lt;/code&gt; riumuovere un preciso elemento, &lt;strong&gt;senza indice&lt;/strong&gt;, ovviamente non lo restituisce, dovrei già averlo.&lt;/p&gt;
+&lt;p&gt;Invece &lt;code&gt;remove&lt;/code&gt; rimuovere un preciso elemento, &lt;strong&gt;senza indice&lt;/strong&gt;, ovviamente non lo restituisce, è nell&amp;rsquo;input.&lt;/p&gt;
 &lt;p&gt;In pratica equivale a &lt;code&gt;a.remove(a.index(x))&lt;/code&gt;, quindi lancia un &lt;code&gt;ValueError&lt;/code&gt; se l&amp;rsquo;elemento non esiste, proprio come &lt;code&gt;index&lt;/code&gt;.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;&amp;gt;&amp;gt;&amp;gt; a = [10, 11, 12, 13, 14]
 &amp;gt;&amp;gt;&amp;gt; a.remove(13)
@@ -109,12 +132,11 @@
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0200</pubDate>
       
       <guid>https://timendum.github.io/posts/bibbia-mcu/</guid>
-      <description>&lt;h1 id=&#34;la-bibbia-mcuhttpstimendumgithubiomcuverse&#34;&gt;&lt;a href=&#34;https://timendum.github.io/mcuverse/&#34;&gt;La Bibbia MCU&lt;/a&gt;&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;la-bibbia-mcu&#34;&gt;&lt;a href=&#34;https://timendum.github.io/mcuverse/&#34;&gt;La Bibbia MCU&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;È un sito web statico in cui cercare (e condividere) citazioni dei film del Marvel Cinematic Universe nello stesso stile della Bibbia.&lt;/p&gt;
 &lt;p&gt;Ad esempio:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Io sono ineluttabile. &lt;a href=&#34;https://timendum.github.io:/mcuverse/?movie=avengers4&amp;amp;quoteIndex=1130&#34;&gt;(&lt;em&gt;4 Avengers 95:00&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Io sono ineluttabile. &lt;a href=&#34;https://timendum.github.io:/mcuverse/?movie=avengers4&amp;amp;quoteIndex=1130&#34;&gt;(&lt;em&gt;4 Avengers 95:00&lt;/em&gt;)&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;L&amp;rsquo;idea viene da &lt;a href=&#34;https://www.reddit.com/r/marvelstudios/comments/c0sbxv/now_you_can_quote_thanos_like_its_a_bible_verse/&#34;&gt;questo post&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Io nel tempo ho riscritto tutto, più volte, ad ora lo stack è:&lt;/p&gt;
 &lt;ul&gt;
@@ -220,8 +242,8 @@ quasi tutte sopra i 4 Like per ogni 100 Views (ma hanno meno di 1,000 views tipi
 Come faccio a sapere quale sono le migliori, almeno per le informazioni disponibili sulle etichette?&lt;/p&gt;
 &lt;p&gt;Ecco, avevo questa domanda in mente quando ho deciso di estrarre automaticamente le informazioni nutrizionali e metterli in una bella tabella per confrontarli.&lt;/p&gt;
 &lt;p&gt;Il risultato sono questi fogli di calcolo:&lt;/p&gt;
-&lt;h2 id=&#34;informazioni-nutrizionali-di-cose-spalmabili-a-base-di-fruttahttpsdocsgooglecomspreadsheetsd1de8iiwqtnoocajubdo3gutimyid0l3f9v_0mmdkpeauview&#34;&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1dE8IiwqtnOocajubDO3guTIMYiD0L3f9v_0mmDKpeaU/view&#34;&gt;Informazioni nutrizionali di cose spalmabili a base di frutta&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&#34;informaizoni-nutrizionali-di-creme-spalmabilihttpsdocsgooglecomspreadsheetsd1re2pdzksa-jna0vgtkgczib9ude_kih449l9gyvt8aaview&#34;&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1Re2pDzKSa-jna0vGTkGcziB9uDE_Kih449L9gYvT8AA/view&#34;&gt;Informaizoni nutrizionali di creme spalmabili&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;informazioni-nutrizionali-di-cose-spalmabili-a-base-di-frutta&#34;&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1dE8IiwqtnOocajubDO3guTIMYiD0L3f9v_0mmDKpeaU/view&#34;&gt;Informazioni nutrizionali di cose spalmabili a base di frutta&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;informaizoni-nutrizionali-di-creme-spalmabili&#34;&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1Re2pDzKSa-jna0vGTkGcziB9uDE_Kih449L9gYvT8AA/view&#34;&gt;Informaizoni nutrizionali di creme spalmabili&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Sono dati presi dal sito della Coop e dell&amp;rsquo;Esselunga, i prezzi in particolare sono quelli registrati a Milano.&lt;/p&gt;
 &lt;p&gt;Metto le mani avanti:&lt;/p&gt;
 &lt;ul&gt;
@@ -242,14 +264,14 @@ Come faccio a sapere quale sono le migliori, almeno per le informazioni disponib
       <description>&lt;p&gt;Ho estratto le classifiche per anno dei bambini nati in Italia dal &lt;a href=&#34;https://www.istat.it/it/dati-analisi-e-prodotti/calcolatori/contanomi&#34;&gt;conta-nomi ISTAT&lt;/a&gt;,
 poi recuperato i dati per i nomi non sempre presenti in classifica, la fonte è sempre quella.&lt;/p&gt;
 &lt;h2 id=&#34;nomi-maschili&#34;&gt;Nomi maschili&lt;/h2&gt;
-&lt;h3 id=&#34;visualizzazione-interattivahttpsflourishvisualisation15333470embed&#34;&gt;&lt;a href=&#34;https://flo.uri.sh/visualisation/15333470/embed&#34;&gt;Visualizzazione interattiva&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;visualizzazione-interattiva&#34;&gt;&lt;a href=&#34;https://flo.uri.sh/visualisation/15333470/embed&#34;&gt;Visualizzazione interattiva&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Ma anche una seconda &lt;a href=&#34;https://public.flourish.studio/visualisation/15347918/&#34;&gt;interattiva full&lt;/a&gt;, con più nomi ancora.&lt;/p&gt;
 &lt;p&gt;Nella prima ho inserito tutti i nomi arrivati almeno noni in un anno tra quelli presi in considerazione.&lt;br&gt;
 Quindi quella rappresentazione non è assoluta, ci possono essere altri nomi più popolari rispetto agli ultimi in classifica, ma comunque dal decimo posto in giù.&lt;br&gt;
 Ad esempio nel 2021 Diego sarebbe undicesimo, con il 1,44%, più popolare di Matteo, Davide, Luca e Diego (rappresentati nel grafico), ma non compare in quanto mai stato sopra il decimo posto.&lt;/p&gt;
 &lt;p&gt;Picco incredibile per Francesco, ho controllato, il 2013 in effetti è proprio l&amp;rsquo;anno in cui è stato nominato/eletto il nuovo papa.&lt;/p&gt;
 &lt;h2 id=&#34;nomi-femminili&#34;&gt;Nomi femminili&lt;/h2&gt;
-&lt;h3 id=&#34;visualizzazione-interattivahttpsflourishvisualisation15336221embed&#34;&gt;&lt;a href=&#34;https://flo.uri.sh/visualisation/15336221/embed&#34;&gt;Visualizzazione interattiva&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;visualizzazione-interattiva-1&#34;&gt;&lt;a href=&#34;https://flo.uri.sh/visualisation/15336221/embed&#34;&gt;Visualizzazione interattiva&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;E una seconda &lt;a href=&#34;https://public.flourish.studio/visualisation/15430545/&#34;&gt;interattiva full&lt;/a&gt;, con ancora più nomi.&lt;/p&gt;
 &lt;p&gt;Anche qui ho inserito i solo i nomi che hanno raggiunto almeno la nona posizione in uno degli anni presi in considerazione.&lt;/p&gt;
 &lt;h2 id=&#34;dati&#34;&gt;Dati&lt;/h2&gt;
@@ -814,12 +836,12 @@ Segnalo, per completezza, che il 2020 causa pandemia è stato un anno anomalo pe
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Tra le cause più segnlate:&lt;/p&gt;
+&lt;p&gt;Tra le cause più segnalate:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;un minor numero di auto elettriche (soprattutto rispetto ai primi in classifica, come Norvegia e Svezia, che in effetti hanno più del 25% di vendute)&lt;/li&gt;
 &lt;li&gt;un minor costo (empiricamente posso confermare, le auto costano dai 1,5k ai 3k in più se automatiche)&lt;/li&gt;
 &lt;li&gt;una miglior resa su tratti collinosi o montuosi&lt;/li&gt;
-&lt;li&gt;pregiudizi o resistenze al cambiamento.&lt;/li&gt;
+&lt;li&gt;pregiudizi o resistenze al cambiamento&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -1262,7 +1284,7 @@ che volutamente non ho incluso nella mappa per evitare di renderla una vera e pr
 &lt;li&gt;&lt;a href=&#34;comuni/sassari.png&#34;&gt;Sassari&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;comuni/venezia.png&#34;&gt;Venezia&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;gli-album-completi-regioni-e-capoluoghihttpsimgurcomal3dkt5c-comuni-e-centrohttpsimgurcomasudt51m&#34;&gt;Gli album completi: &lt;a href=&#34;https://imgur.com/a/l3DKT5c&#34;&gt;Regioni e capoluoghi&lt;/a&gt;, &lt;a href=&#34;https://imgur.com/a/sUDT51M&#34;&gt;Comuni e centro&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;gli-album-completi-regioni-e-capoluoghi-comuni-e-centro&#34;&gt;Gli album completi: &lt;a href=&#34;https://imgur.com/a/l3DKT5c&#34;&gt;Regioni e capoluoghi&lt;/a&gt;, &lt;a href=&#34;https://imgur.com/a/sUDT51M&#34;&gt;Comuni e centro&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Edit: i Centri geometrici per regione:&lt;/p&gt;
 &lt;p&gt;Abruzzo: &lt;a href=&#34;https://www.openstreetmap.org/relation/41902#map=10/42.2275303954544/13.855077209332375&#34;&gt;Pescosansonesco&lt;/a&gt;&lt;br&gt;
 Basilicata: &lt;a href=&#34;https://www.openstreetmap.org/relation/40514#map=10/40.500616355247445/16.08189199385849&#34;&gt;Pietrapertosa&lt;/a&gt;&lt;br&gt;
@@ -1296,7 +1318,7 @@ Veneto: &lt;a href=&#34;https://www.openstreetmap.org/relation/45508#map=10/45.6
       <guid>https://timendum.github.io/posts/podcast-ad-alta-voce/</guid>
       <description>&lt;p&gt;Visto l&amp;rsquo;interesse crescente per gli audiolibri, (ri)condivido con voi un mio progettino, aggiornato oggi.&lt;/p&gt;
 &lt;p&gt;Ho creato un feed podcast per ogni audiolibro letto da &lt;a href=&#34;https://www.raiplayradio.it/programmi/adaltavoce/&#34;&gt;Ad Alta Voce&lt;/a&gt;, il programma di Radio 3.&lt;/p&gt;
-&lt;h1 id=&#34;ad-alta-voce---podcast-non-ufficialehttpstimendumgithubioadaltavoce&#34;&gt;&lt;a href=&#34;https://timendum.github.io/adaltavoce/&#34;&gt;Ad alta voce - Podcast non ufficiale&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;ad-alta-voce---podcast-non-ufficiale&#34;&gt;&lt;a href=&#34;https://timendum.github.io/adaltavoce/&#34;&gt;Ad alta voce - Podcast non ufficiale&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;Potete sfruttare i podcast con il vostro programma di podcast preferito, io uso &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&#34;&gt;Podcast Addict&lt;/a&gt;.&lt;br&gt;
 Perché usare un app apposta? Così si ricorda dove sono arrivato ad ascoltare e non devo farlo io.&lt;/p&gt;
 &lt;p&gt;Per i curiosi, il codice (Python) sta su &lt;a href=&#34;https://github.com/timendum/adaltavoce/&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
@@ -1807,7 +1829,7 @@ e i loro precedenti incarichi governativi:&lt;/p&gt;
 &lt;p&gt;Nel seguente grafico tutti i post con punteggio almeno 2 dove &amp;ldquo;Salvini&amp;rdquo; appare nel titolo.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;salvini.png&#34; alt=&#34;Post su Salvini&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;tecnicismi&#34;&gt;Tecnicismi&lt;/h2&gt;
-&lt;p&gt;Ho usato PRAW per estrarre le submission, salvate per /r/italy_SS e riaggiornate.&lt;/p&gt;
+&lt;p&gt;Ho usato PRAW per estrarre le submission, salvate per /r/italy_SS e ri-aggiornate.&lt;/p&gt;
 &lt;p&gt;Il tutto è stato salvato su CSV.&lt;/p&gt;
 &lt;p&gt;L&amp;rsquo;analisi e i grafici sono stati fatti su Jupyter Notebook, con pandas, NumPy e matplotlib; in cloud su &lt;a href=&#34;https://notebooks.azure.com/&#34;&gt;Azure Notebook&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Ho formattato con Visual Studio code e buttato su Netlify.&lt;/p&gt;
@@ -1829,7 +1851,7 @@ dei grafici che rappresentano &amp;ldquo;come sono orientate&amp;rdquo; le citt�
 &lt;p&gt;In pratica il programma,
 che trovate condiviso &lt;a href=&#34;https://notebooks.anaconda.org/timendum/street-network-orientations&#34;&gt;su anaconda&lt;/a&gt;,
 scarica da &lt;a href=&#34;http://openstreetmap.org/&#34;&gt;OpenStreetMap&lt;/a&gt;
-le strate di una città,
+le strade di una città,
 poi semplifica la cartina,
 fa l&amp;rsquo;elenco delle strade che rimangono
 e ne calcola l&amp;rsquo;orientamento,
@@ -1883,10 +1905,10 @@ Se passo all&amp;rsquo;isola invece, chiaramente le strade per le automobili son
       <guid>https://timendum.github.io/posts/swag-negro-libro-bello-figo-analisi-markov/</guid>
       <description>&lt;p&gt;Per chi non lo sapesse, questo mese è uscito &lt;a href=&#34;https://img.ibs.it/images/9788817101875_0_0_0_75.jpg&#34;&gt;Swag Negro - Nessuno ce la fa&lt;/a&gt;, il primo libro di &lt;strong&gt;Bello Figo&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Io ho preso il libro e ne ho fatta un&amp;rsquo;analisi.&lt;/p&gt;
-&lt;h1 id=&#34;qualche-numero&#34;&gt;Qualche numero&lt;/h1&gt;
+&lt;h2 id=&#34;qualche-numero&#34;&gt;Qualche numero&lt;/h2&gt;
 &lt;p&gt;Il libro è composto da 19,900 parole.&lt;br&gt;
 Ci sono 108,470 battute nel libro.&lt;/p&gt;
-&lt;h1 id=&#34;word-cloud&#34;&gt;Word cloud&lt;/h1&gt;
+&lt;h2 id=&#34;word-cloud&#34;&gt;Word cloud&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/swag-negro-word-cloud.png&#34; alt=&#34;Word cloud di Swag Negro&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Le parole più frequenti (escluse le stopwords) sono:&lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34;&gt;
@@ -1999,7 +2021,7 @@ Ci sono 108,470 battute nel libro.&lt;/p&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;coppie-di-parole&#34;&gt;Coppie di parole&lt;/h1&gt;
+&lt;h2 id=&#34;coppie-di-parole&#34;&gt;Coppie di parole&lt;/h2&gt;
 &lt;p&gt;Le due parole più frequenti (escluse quelle non banali, come &amp;ldquo;E il&amp;rdquo;, &amp;ldquo;sono quelle&amp;rdquo;, etc) sono:&lt;/p&gt;
 &lt;table class=&#34;table-striped&#34;&gt;
   &lt;thead&gt;
@@ -2039,7 +2061,7 @@ Ci sono 108,470 battute nel libro.&lt;/p&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;trigrammi-frequenti&#34;&gt;Trigrammi frequenti&lt;/h1&gt;
+&lt;h2 id=&#34;trigrammi-frequenti&#34;&gt;Trigrammi frequenti&lt;/h2&gt;
 &lt;p&gt;Le tre parole più frequenti sono:&lt;/p&gt;
 &lt;table class=&#34;table-striped&#34;&gt;
   &lt;thead&gt;
@@ -2088,7 +2110,7 @@ Ci sono 108,470 battute nel libro.&lt;/p&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Nota: le prime 3 sono titoli di canzoni.&lt;/p&gt;
-&lt;h1 id=&#34;testo-generato&#34;&gt;Testo generato&lt;/h1&gt;
+&lt;h2 id=&#34;testo-generato&#34;&gt;Testo generato&lt;/h2&gt;
 &lt;p&gt;Con lo stesso metodo di /r/italy_SS ho generato il seguente testo:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Se vuoi puoi cambiare le cose, indipendentemente dal fatto che ci siano i profughi o meno.&lt;/p&gt;
@@ -2105,8 +2127,7 @@ Canto che mi faccio una sega, mangio pasta con tonno piace a tutti.&lt;/p&gt;
 &lt;p&gt;Io conosco il dolore, ogni giorno faccio i conti con i detrattori: per un po’ mi sono sentito tutti gli occhi puntati addosso.&lt;br&gt;
 E se poi a insultarmi è un rapper non è che solo perché fai sesso sei un oggetto.&lt;br&gt;
 Questi sono i peggiori, i nazisti, poi ci sono quelli che non mi frega un cazzo di quello che pensa la gente.&lt;br&gt;
-Vogliono metterti paura, così tu la smetti di fare quello che voglio!. Perché se no vado in fissa.&lt;/p&gt;
-&lt;/blockquote&gt;
+Vogliono metterti paura, così tu la smetti di fare quello che voglio!. Perché se no vado in fissa.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -2118,16 +2139,16 @@ Vogliono metterti paura, così tu la smetti di fare quello che voglio!. Perché 
       <guid>https://timendum.github.io/posts/analisi-contratto-governo-lega-m5s/</guid>
       <description>&lt;p&gt;Come &lt;a href=&#34;https://www.reddit.com/r/italy/comments/8mmyct/caff%C3%A8_italia_28052018/dzp5z8t/&#34;&gt;anticipato&lt;/a&gt; ho svolto un&amp;rsquo;analisi del &lt;a href=&#34;https://www.ansa.it/documents/1526633072676_contratto_governo.pdf&#34;&gt;contratto di governo&lt;/a&gt; Movimento 5 Stelle-Lega.&lt;/p&gt;
 &lt;p&gt;Eccone i risultati:&lt;/p&gt;
-&lt;h1 id=&#34;conteggio&#34;&gt;Conteggio&lt;/h1&gt;
-&lt;h3 id=&#34;ho-contato-421-righe-con-17922-parole-i-caratteri-totali-sono-123531&#34;&gt;Ho contato 421 righe, con 17,922 parole, i caratteri totali sono 123,531.&lt;/h3&gt;
+&lt;h2 id=&#34;conteggio&#34;&gt;Conteggio&lt;/h2&gt;
+&lt;h3 id=&#34;ho-contato-421-righe-con-17922-parole-i-caratteri-totali-sono-123531&#34;&gt;Ho contato 421 righe, con 17,922 parole, i caratteri totali sono 123,531&lt;/h3&gt;
 &lt;p&gt;Per questi numeri ho contato solo parole, numeri e spazi, esclusi quindi &amp;ldquo;a capo&amp;rdquo;, numeri di pagina, etc&lt;/p&gt;
-&lt;h3 id=&#34;le-parole-significative-uniche-sono-3818-e-appaiono-9754-volte&#34;&gt;Le parole significative uniche sono 3,818 e appaiono 9,754 volte.&lt;/h3&gt;
+&lt;h3 id=&#34;le-parole-significative-uniche-sono-3818-e-appaiono-9754-volte&#34;&gt;Le parole significative uniche sono 3,818 e appaiono 9,754 volte&lt;/h3&gt;
 &lt;p&gt;Con parole significative si intendono le parole (non i numeri) almeno lunghe due e che non siano stopword.&lt;/p&gt;
-&lt;h1 id=&#34;sentiment-analisys&#34;&gt;Sentiment Analisys&lt;/h1&gt;
+&lt;h2 id=&#34;sentiment-analisys&#34;&gt;Sentiment Analisys&lt;/h2&gt;
 &lt;p&gt;Ho passato a &lt;a href=&#34;https://cloud.google.com/natural-language/&#34;&gt;Google Natual Language&lt;/a&gt; il documento e ho registrato la polarità di ogni frase, per poter valutare se quella contiene termini negativi, positivi o neutri.&lt;/p&gt;
 &lt;p&gt;Il risultato è questo grafico:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://timendum.github.io/images/sentiment-contratto.png&#34; alt=&#34;Sentiment Analisys Contratto di Governo&#34;&gt;&lt;/p&gt;
-&lt;h1 id=&#34;le-più-frequenti&#34;&gt;Le più frequenti&lt;/h1&gt;
+&lt;h2 id=&#34;le-più-frequenti&#34;&gt;Le più frequenti&lt;/h2&gt;
 &lt;p&gt;(escluse sempre le stopwords)&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -2259,8 +2280,8 @@ Vogliono metterti paura, così tu la smetti di fare quello che voglio!. Perché 
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;la-coppia-di-parole-più-frequenti&#34;&gt;La coppia di parole più frequenti&lt;/h1&gt;
-&lt;p&gt;(escluse quelle contenenti almeno una stopword)&lt;/p&gt;
+&lt;h2 id=&#34;la-coppia-di-parole-più-frequenti&#34;&gt;La coppia di parole più frequenti&lt;/h2&gt;
+&lt;p&gt;(escluse quelle contenenti almeno una stop-word)&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -2351,7 +2372,7 @@ Vogliono metterti paura, così tu la smetti di fare quello che voglio!. Perché 
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;triplette-di-parole-più-frequenti&#34;&gt;Triplette di parole più frequenti&lt;/h1&gt;
+&lt;h2 id=&#34;triplette-di-parole-più-frequenti&#34;&gt;Triplette di parole più frequenti&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -2504,8 +2525,7 @@ Più niente a parte che l’amore può salvare, non volere mai ammetter che.&lt;
 Come non abbiamo fatto a esistere.&lt;br&gt;
 Con la paura che non potrò mai lasciare.&lt;br&gt;
 E non è lo spazio di un bambino.&lt;br&gt;
-E più sarai lontana e più sarai lontana e più sarai lontana e più sarai con me.&lt;/p&gt;
-&lt;/blockquote&gt;
+E più sarai lontana e più sarai lontana e più sarai lontana e più sarai con me.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;p&gt;Per chi volesse fare altro, ecco &lt;a href=&#34;https://pastebin.com/VBsxm8rr&#34;&gt;tutti i testi raccolti&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I dati e le analisi sono rilasciate sotto creative commons license con la sigla &amp;ldquo;CC BY-NC&amp;rdquo; &lt;sup&gt;&lt;sup&gt;&lt;sup&gt;stagisti puppate&lt;/sup&gt;&lt;/sup&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -2548,8 +2568,7 @@ Con la testa, con il 30%. Come vi dicevo qualche giorno fa sono stato a Lampedus
 Per l&amp;rsquo;abusivismo edilizio noi non abbiamo nessuna tolleranza, per la prima tappa del tour e dobbiamo essere in tanti aspettavano.&lt;br&gt;
 Dopo la bellissima piazza di ieri sera a IN ONDA su La7 dove abbiamo parlato di un millimetro.&lt;br&gt;
 Tra le facce giovani e pulite di Giancarlo Cancelleri domani alle 8.30 saremo al mercato di Sciacca ✌ Qui Sicilia.&lt;br&gt;
-Dopo essere stato scelto come candidato premier del centro e scambiato quattro chiacchiere con tutti coloro che sono stati costretti ad ingoiare solo perché avevano il nostro sguardo.&lt;/p&gt;
-&lt;/blockquote&gt;
+Dopo essere stato scelto come candidato premier del centro e scambiato quattro chiacchiere con tutti coloro che sono stati costretti ad ingoiare solo perché avevano il nostro sguardo.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;renzi&#34;&gt;Renzi&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Oggi i dati della produzione industriale ISTAT dicono che la strategia di questi anni produce risultati.&lt;br&gt;
@@ -2577,10 +2596,9 @@ Il risarcimento danni lo destineremo a un&amp;rsquo;associazione che si è smarc
 Per tutelare l&amp;rsquo;onore della famiglia Di Battista figlio stavolta ha ragione: no, non è un grande dibattito politico sul tema dell&amp;rsquo;adozione.&lt;br&gt;
 La vita dei nostri figli: di questo Paese ha tutto per farcela.&lt;br&gt;
 Chi è il metro che misura il livello di civiltà di una macchina in Arabia Saudita adesso non ci dimenticheremo mai di incontri come questo.&lt;br&gt;
-Personalmente penso che chi ha conosciuto troppo presto le difficoltà dell&amp;rsquo;attuazione della Buona Scuola.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;note&#34;&gt;Note:&lt;/h3&gt;
-&lt;p&gt;Entrambi i contenuti sono moolto omogenei, fin troppi, ho imposto una coerenza di 3 (cioè chiavi di tre parole di fila) e ho dovuto scartare alcune frasi perché indistinguibili dall&amp;rsquo;originale!&lt;/p&gt;
+Personalmente penso che chi ha conosciuto troppo presto le difficoltà dell&amp;rsquo;attuazione della Buona Scuola.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;note&#34;&gt;Note&lt;/h3&gt;
+&lt;p&gt;Entrambi i contenuti sono molto omogenei, fin troppi, ho imposto una coerenza di 3 (cioè chiavi di tre parole di fila) e ho dovuto scartare alcune frasi perché indistinguibili dall&amp;rsquo;originale!&lt;/p&gt;
 &lt;p&gt;Di Maio scrive molto di più, oltre i 100k contro i 66k di Renzi.&lt;/p&gt;
 &lt;p&gt;Ultimo appunto sull&amp;rsquo;incontro saltato, il &lt;a href=&#34;https://www.facebook.com/matteorenziufficiale/posts/10155390694099915&#34;&gt;post di Renzi&lt;/a&gt; ha 56.000 likes e 9.000 condivisioni, mentre &lt;a href=&#34;https://www.facebook.com/LuigiDiMaio/posts/1512987378737803&#34;&gt;Di Maio&lt;/a&gt; fa 11.000 likes e 3.600 condivisioni, senza neanche entrare in merito dei top comment.&lt;/p&gt;
 </description>
@@ -2619,8 +2637,7 @@ Forse la ruggine per le dimissioni da presidente del Consiglio a visitare un car
 Eppure siamo circondati da una contronarrazione puramente distruttiva, che fa male all’Europa, che, da speranza politica, diventa guardiana antipatica.&lt;br&gt;
 Forse perché rimpiange la stagione dei malus, quella in cui la mia è la prima visita privata con la famiglia.&lt;br&gt;
 Puoi candidarti alla leadership e presentare i risultati di ciò che accadeva nel mondo del credito finché era legittimo farlo.&lt;br&gt;
-È soprattutto il modo di porsi nel rapporto con i paesi amici.&lt;/p&gt;
-&lt;/blockquote&gt;
+È soprattutto il modo di porsi nel rapporto con i paesi amici.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Note tecniche:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;se qualcuno ha altri libri che meritano, me li segnali pure, se riesco potrei replicare il risultato più che volentieri.&lt;/li&gt;
@@ -2796,7 +2813,7 @@ Ho escluso solo alcune parole molto comuni come non/per/come/più/dei/&amp;helli
 &lt;p&gt;Ad 11 risposte si colloca primo il commento di &lt;a href=&#34;https://www.reddit.com/r/italy/comments/6jjj7u/civati_lettera_alle_ragazze_e_ai_ragazzi_del_99/djeqygb/&#34;&gt;mirazef&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Il secondo, terzo e quarto sono a 5, per rendere l&amp;rsquo;idea.&lt;/p&gt;
 &lt;h3 id=&#34;totalone&#34;&gt;Totalone&lt;/h3&gt;
-&lt;p&gt;Commenti:	&lt;code&gt;491&lt;/code&gt;
+&lt;p&gt;Commenti: &lt;code&gt;491&lt;/code&gt;
 Karma: &lt;code&gt;2.213&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Nota&lt;/em&gt;: Solo 2 sono i commenti negativi.&lt;/p&gt;
 &lt;h3 id=&#34;il-simulatore&#34;&gt;Il simulatore&lt;/h3&gt;
@@ -2830,8 +2847,7 @@ Il rifiuto non aiuta molto, a mio avviso, eccellente e per come si è visto.&lt;
 Non credo, penso che sia solo un esempio di ciò che non dovrebbe essere la politica.&lt;br&gt;
 Io ho le mie idee anche se non rispecchia le mie idee.&lt;br&gt;
 Poi sarà che c&amp;rsquo;ho 18 anni in più di quelli che se ne è andato con maggiore classe.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;/ul&gt;&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -2912,7 +2928,7 @@ I rimanenti, per Casual Friday o per malfunzionamenti sono stati aperti da:&lt;/
 &lt;/table&gt;
 &lt;h3 id=&#34;voti-per-giorni-della-settimana&#34;&gt;Voti per giorni della settimana&lt;/h3&gt;
 &lt;p&gt;Quale giorno riceve più voti?&lt;/p&gt;
-&lt;p&gt;Il &lt;strong&gt;Venerdì&lt;/strong&gt; nettamente, secondo me sia perchè &amp;ldquo;Casual&amp;rdquo; sia perchè aperto da un utente.&lt;br&gt;
+&lt;p&gt;Il &lt;strong&gt;Venerdì&lt;/strong&gt; nettamente, secondo me sia perché &amp;ldquo;Casual&amp;rdquo; sia perché aperto da un utente.&lt;br&gt;
 Ultima la domenica, seguita strettamente dal sabato.&lt;/p&gt;
 &lt;table class=&#34;table-striped&#34;&gt;
   &lt;thead&gt;
@@ -3702,161 +3718,109 @@ having count(*) &amp;gt; 1
 &lt;p&gt;Ho quindi pensato di generare alcune frasi partendo dai quasi 350kb di testo presenti, con il modello di markov, lo stesso che alimenta /r/italy_SS e /r/subredditSimulator.&lt;/p&gt;
 &lt;p&gt;Ecco il risultato (per essere onesti ho rimosso le frasi doppie e chiuso una virgoletta), buon divertimento:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Io non sono in grado di prendere la palla al balzo.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Io non sono in grado di prendere la palla al balzo.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Stavo bene, ero orgoglioso del viaggio che avevo fatto in Guatemala e di quanto le esplorazioni petrolifere le stessero minacciando.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Stavo bene, ero orgoglioso del viaggio che avevo fatto in Guatemala e di quanto le esplorazioni petrolifere le stessero minacciando.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Vorrei che un giorno vi trasformaste in una mosca per poter svolazzare indisturbato in Parlamento e per sciogliere alcuni nodi su di noi.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Vorrei che un giorno vi trasformaste in una mosca per poter svolazzare indisturbato in Parlamento e per sciogliere alcuni nodi su di noi.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Lo fanno attraverso i mezzi di informazione, dalla frequenza con la quale viviamo può illuminarla dandole una luce differente.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Lo fanno attraverso i mezzi di informazione, dalla frequenza con la quale viviamo può illuminarla dandole una luce differente.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Arrivò alla prua del battello e da lì avrei preso un volo low cost per Roma.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Arrivò alla prua del battello e da lì avrei preso un volo low cost per Roma.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Tele-visione significa «vedere da lontano», io voglio vedere da vicino il Parlamento, i politici che non si lasciano comprare.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Tele-visione significa «vedere da lontano», io voglio vedere da vicino il Parlamento, i politici che non si lasciano comprare.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Noi, a parte il cinquanta per cento di quei 3600 euro per le spese telefoniche ma lui ne spende solo 500?&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Noi, a parte il cinquanta per cento di quei 3600 euro per le spese telefoniche ma lui ne spende solo 500?&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Rendetele felici e sarete felici anche voi”. Mio padre non mi ha detto niente?» Non sapevo darmi una risposta.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Rendetele felici e sarete felici anche voi”. Mio padre non mi ha detto niente?» Non sapevo darmi una risposta.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Avevo la possibilità di condizionare le mie scelte e io non avevo voglia di stare in una società o vivere ai suoi margini.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Avevo la possibilità di condizionare le mie scelte e io non avevo voglia di stare in una società o vivere ai suoi margini.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Nella mia testa l’unica arma che avevo in corpo, era la rabbia di milioni di euro di denari pubblici alle banche private.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Nella mia testa l’unica arma che avevo in corpo, era la rabbia di milioni di euro di denari pubblici alle banche private.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Non c’è lobby che mi abbia finanziato, non c’è criminale che mi abbia sostenuto, non c’è finanziatore che mi abbia sostenuto, non c’è finanziatore che mi abbia garantito pacchetti di voti.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Non c’è lobby che mi abbia finanziato, non c’è criminale che mi abbia sostenuto, non c’è finanziatore che mi abbia sostenuto, non c’è finanziatore che mi abbia garantito pacchetti di voti.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Si complimentò per il nostro lavoro: se c’è da girare l’Italia per far conoscere il M5S ai cittadini.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Si complimentò per il nostro lavoro: se c’è da girare l’Italia per far conoscere il M5S ai cittadini.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Purtroppo si tratta di indispensabile spirito di adattamento, altre volte di un politico che promette prima delle elezioni europee del 2014.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Purtroppo si tratta di indispensabile spirito di adattamento, altre volte di un politico che promette prima delle elezioni europee del 2014.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Io comprendo l’insindacabilità, ovvero il fatto che una forza politica che ha tra le sue regole e le sue festività.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Io comprendo l’insindacabilità, ovvero il fatto che una forza politica che ha tra le sue regole e le sue festività.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;La regola dei due mandati è la migliore garanzia che chi ha la forza di decidersi non è mica colpa loro!&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;La regola dei due mandati è la migliore garanzia che chi ha la forza di decidersi non è mica colpa loro!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Ciononostante, spendendo, ripeto, tutto quel che conta davvero nella vita non si può misurare, così come l’eredità di Gianroberto.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Ciononostante, spendendo, ripeto, tutto quel che conta davvero nella vita non si può misurare, così come l’eredità di Gianroberto.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Erano i primi giorni in Parlamento e vedere quel che vedo fare alla stragrande maggioranza dei deputati.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Erano i primi giorni in Parlamento e vedere quel che vedo fare alla stragrande maggioranza dei deputati.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Avevo dormito un paio d’ore fino a che conobbi una signora.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Avevo dormito un paio d’ore fino a che conobbi una signora.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Vi eravamo appena entrati e la Camera dei deputati, ovvero colui che ha la responsabilità di spiegare il M5S alle persone in strada.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Vi eravamo appena entrati e la Camera dei deputati, ovvero colui che ha la responsabilità di spiegare il M5S alle persone in strada.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Nonostante questo siamo riusciti a mettere da parte milleseicento euro al mese non sentirei con la giusta dose di umiltà.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Nonostante questo siamo riusciti a mettere da parte milleseicento euro al mese non sentirei con la giusta dose di umiltà.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Arrivò alla prua del battello e da lì ero riuscito a entrare profondamente in contatto con il divino.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Arrivò alla prua del battello e da lì ero riuscito a entrare profondamente in contatto con il divino.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;È colpa della Costituzione se non si è professionisti della politica e delle loro famiglie.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;È colpa della Costituzione se non si è professionisti della politica e delle loro famiglie.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Camerini, truccatori, luci, pubblico, diretta TV, scaletta, gente che ti dà una mano anche se non moriamo nel mar Mediterraneo.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Camerini, truccatori, luci, pubblico, diretta TV, scaletta, gente che ti dà una mano anche se non moriamo nel mar Mediterraneo.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Quel che è certo è che non basta essere onesti se i partiti di governo e di aver sacrificato la politica sull’altare della finanza internazionale.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Quel che è certo è che non basta essere onesti se i partiti di governo e di aver sacrificato la politica sull’altare della finanza internazionale.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Ogni giorno leggevo un mucchio di persone che sono delle vere e proprie cavie del mio spagnolo.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Ogni giorno leggevo un mucchio di persone che sono delle vere e proprie cavie del mio spagnolo.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Camerini, truccatori, luci, pubblico, diretta TV, scaletta, gente che ti dà una mano anche se non un uomo semplice.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Camerini, truccatori, luci, pubblico, diretta TV, scaletta, gente che ti dà una mano anche se non un uomo semplice.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Commettere errori è inevitabile, ancora di più per spiegare quel che è anormale fuori diventa normale dentro e viceversa.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Commettere errori è inevitabile, ancora di più per spiegare quel che è anormale fuori diventa normale dentro e viceversa.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Quando nel 2000 un altro ragazzo perse la vita in Parlamento, e la prima cosa che avrebbe fatto sarebbe stata dirmelo.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Quando nel 2000 un altro ragazzo perse la vita in Parlamento, e la prima cosa che avrebbe fatto sarebbe stata dirmelo.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Io sono convinto che la battaglia del presente, e del futuro, non sarà tra le ideologie di destra e sinistra?&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Io sono convinto che la battaglia del presente, e del futuro, non sarà tra le ideologie di destra e sinistra?&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;In primis, smettere di frequentare i miei amici stavano cercando lavoro.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;In primis, smettere di frequentare i miei amici stavano cercando lavoro.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Io venivo da due anni in lentezza e sobrietà e avevo avuto il coraggio di viaggiare, di ascoltare i consigli del cuscino.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Io venivo da due anni in lentezza e sobrietà e avevo avuto il coraggio di viaggiare, di ascoltare i consigli del cuscino.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;«Io sono fiero di essere figlio di mio padre sono di mio padre e ancor meno stava riuscendo a mettermici lei.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;«Io sono fiero di essere figlio di mio padre sono di mio padre e ancor meno stava riuscendo a mettermici lei.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Il visto me l’ero procurato a Città del Messico e da lì andai a piedi fino alla Casaleggio.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Il visto me l’ero procurato a Città del Messico e da lì andai a piedi fino alla Casaleggio.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;La sobrietà è un valore, non soltanto perché ne avevo una gran voglia di parlare.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;La sobrietà è un valore, non soltanto perché ne avevo una gran voglia di parlare.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;E anziani che avrebbero voluto vedere i loro cari perdere tutto quel che in realtà dovrebbero essere approvati in circostanze straordinarie.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;E anziani che avrebbero voluto vedere i loro cari perdere tutto quel che in realtà dovrebbero essere approvati in circostanze straordinarie.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;In Guatemala e forse ancora di più per spiegare quel che è successo in Italia negli ultimi quattro anni?&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;In Guatemala e forse ancora di più per spiegare quel che è successo in Italia negli ultimi quattro anni?&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;«La TV, certamente, mi ha permesso anche di scrivere un libro per noi?» «Io non ho mai conosciuto nessuno tanto schietto e onesto.»&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;«La TV, certamente, mi ha permesso anche di scrivere un libro per noi?» «Io non ho mai conosciuto nessuno tanto schietto e onesto.»&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Da mesi non ricevevano lo stipendio e destinare decine di milioni di cittadini al di sotto della soglia di povertà?&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Da mesi non ricevevano lo stipendio e destinare decine di milioni di cittadini al di sotto della soglia di povertà?&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;«Quindi per lei non è un problema, il fascismo non è un vero amico, e andrebbe ascoltato di più.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;«Quindi per lei non è un problema, il fascismo non è un vero amico, e andrebbe ascoltato di più.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;E, credetemi, eravamo sicuri che ce l’avremmo fatta a proseguire quel che Gianroberto aveva seminato molto bene durante la sua vita.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;E, credetemi, eravamo sicuri che ce l’avremmo fatta a proseguire quel che Gianroberto aveva seminato molto bene durante la sua vita.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Non avete idea di quel che si sogna illudendosi che un giorno le sarebbero scottati.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Non avete idea di quel che si sogna illudendosi che un giorno le sarebbero scottati.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;E, su quella bilancia, la paura di dover tornare a casa con occhi nuovi.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;E, su quella bilancia, la paura di dover tornare a casa con occhi nuovi.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Mi sentivo un fallito a Roma, in ufficio, a lavorare ore e ore bus, pranzi, riunioni, appuntamenti vari.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Mi sentivo un fallito a Roma, in ufficio, a lavorare ore e ore bus, pranzi, riunioni, appuntamenti vari.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;È un appello a mettersi in viaggio e te ne esci con un paio di orrendi pantaloni tagliati all’altezza del ginocchio.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;È un appello a mettersi in viaggio e te ne esci con un paio di orrendi pantaloni tagliati all’altezza del ginocchio.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Io stavo in piedi, avevo avuto la conferma che tutto quel che avevano costruito li avrebbe segnati per sempre.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Io stavo in piedi, avevo avuto la conferma che tutto quel che avevano costruito li avrebbe segnati per sempre.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Il problema era il messaggio che i mezzi di informazione, dalla frequenza con la quale abbiamo trattato coloro che hanno gambe che si sono dimenticate di volare.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Il problema era il messaggio che i mezzi di informazione, dalla frequenza con la quale abbiamo trattato coloro che hanno gambe che si sono dimenticate di volare.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Gianroberto era un uomo, semplicemente, anche se non è del tutto ininfluente e anzi, in un certo senso, la mia autostima.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Gianroberto era un uomo, semplicemente, anche se non è del tutto ininfluente e anzi, in un certo senso, la mia autostima.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Chi lo dice che non è più soltanto un diritto ma è anche un dovere.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Chi lo dice che non è più soltanto un diritto ma è anche un dovere.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Ti va di scrivere un piccolo progetto per metter su una band ma entrare in relazione con gli altri.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Ti va di scrivere un piccolo progetto per metter su una band ma entrare in relazione con gli altri.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Dopo averlo stirato con cura, mia madre mi avrebbe rimproverato e poi mi fece una domanda straordinaria.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Dopo averlo stirato con cura, mia madre mi avrebbe rimproverato e poi mi fece una domanda straordinaria.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Ogniqualvolta conosco una persona che nemmeno conoscevano in cambio di un materasso nel salotto di casa.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Ogniqualvolta conosco una persona che nemmeno conoscevano in cambio di un materasso nel salotto di casa.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Ora immaginate di essere parlamentari della Repubblica tagliarsi lo stipendio e ora erano senza lavoro.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Ora immaginate di essere parlamentari della Repubblica tagliarsi lo stipendio e ora erano senza lavoro.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Note tecniche:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;se qualcuno ha altri libri che meritano, me li segnali pure, se riesco potrei replicare il risultato più che volentieri.&lt;/li&gt;
@@ -4576,7 +4540,7 @@ having count(*) &amp;gt; 1
 &lt;p&gt;Per i grafici ho usato &lt;a href=&#34;https://developers.google.com/chart/interactive/docs/gallery/geochart&#34;&gt;Google geochart&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Per la creazione delle pagine ho usato &lt;a href=&#34;https://thimble.mozilla.org/&#34;&gt;Thimble di Mozilla&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;aggiornamento-2021-10-05&#34;&gt;Aggiornamento 2021-10-05&lt;/h4&gt;
-&lt;p&gt;Le mappe originali erano su Google Charts, ma a causa del cambio di licenza, non è più possibie includere i grafici gratuitamente.&lt;br&gt;
+&lt;p&gt;Le mappe originali erano su Google Charts, ma a causa del cambio di licenza, non è più possibile includere i grafici gratuitamente.&lt;br&gt;
 Ho quindi salvato degli screenshot e migrato i dati su DataWrapper.&lt;/p&gt;
 </description>
     </item>

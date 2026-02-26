@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parole on Timendum</title>
+    <link>https://timendum.github.io/tags/parole/</link>
+    <description>Recent content in Parole on Timendum</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0200</lastBuildDate>
+    <atom:link href="https://timendum.github.io/tags/parole/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trova le parole in griglia</title>
+      <link>https://timendum.github.io/posts/trova-parole-griglia/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0200</pubDate>
+      <guid>https://timendum.github.io/posts/trova-parole-griglia/</guid>
+      <description>Una pagina per trovare le parole più lunghe in una griglia di lettere.</description>
+    </item>
+  </channel>
+</rss>

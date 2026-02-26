@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Timendum</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://timendum.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trova le parole in griglia</title>
+      <link>https://timendum.github.io/posts/trova-parole-griglia/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0200</pubDate>
+      <guid>https://timendum.github.io/posts/trova-parole-griglia/</guid>
+      <description>Una pagina per trovare le parole più lunghe in una griglia di lettere.</description>
+    </item>
     <item>
       <title>Uso avanzato delle liste in Python</title>
       <link>https://timendum.github.io/posts/liste-python/</link>
@@ -27,7 +34,7 @@
       <link>https://timendum.github.io/posts/tintoria-puntante-cachemire/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0200</pubDate>
       <guid>https://timendum.github.io/posts/tintoria-puntante-cachemire/</guid>
-      <description>Rappresentazione grafica delle puntate dei podcast Titoria e Cachemire.</description>
+      <description>Rappresentazione grafica delle puntate dei podcast Tintoria e Cachemire.</description>
     </item>
     <item>
       <title>Un confronto delle etichette di alcuni cibi</title>
