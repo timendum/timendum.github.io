@@ -5,10 +5,183 @@
     <description>Recent content on Timendum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="https://timendum.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fai 10, soluzioni e le alternative</title>
+      <link>https://timendum.github.io/posts/fai-dieci/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://timendum.github.io/posts/fai-dieci/</guid>
+      <description>&lt;p&gt;Ho trovato per Android il gioco &lt;a href=&#34;https://play.google.com/store/apps/details?id=app.fourequalsten.fourequalsten_app&#34;&gt;4=10&lt;/a&gt;,
+completamente offline e ottimo per passare qualche minuto in attesa senza fare doom-scrolling
+e da lì è partita la curiosità.&lt;/p&gt;
+&lt;h2 id=&#34;fai-10&#34;&gt;Fai 10&lt;/h2&gt;
+&lt;p&gt;Il gioco è semplice: dati un quattro numeri,
+lo scopo è ottenere il numero &lt;code&gt;10&lt;/code&gt; usando tutti e quattro i numeri esattamente una volta,
+combinandoli con operazioni matematiche.&lt;/p&gt;
+&lt;p&gt;Nella mia versione sono ammesse:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;addizione&lt;/li&gt;
+&lt;li&gt;sottrazione&lt;/li&gt;
+&lt;li&gt;moltiplicazione&lt;/li&gt;
+&lt;li&gt;divisione&lt;/li&gt;
+&lt;li&gt;parentesi per cambiare l’ordine delle operazioni&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Poi ci sono altre varianti in cui
+la posizione di una o più cifre è fissa,
+oppure viene negata la possiblità di utilizzare partentesi,
+o si possono sare solo alcune operazioni,
+o alcune operazioni hanno una posizione fissa,
+o simili costrizioni.&lt;/p&gt;
+&lt;h3 id=&#34;esempio&#34;&gt;Esempio&lt;/h3&gt;
+&lt;p&gt;Mi vengono fornite queste quattro cifre: &lt;code&gt;4&lt;/code&gt;, &lt;code&gt;8&lt;/code&gt;, &lt;code&gt;4&lt;/code&gt;, &lt;code&gt;7&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Alcune delle soluzioni sono:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;8 / 4 × 7 − 4 = 10&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;7 + (4 + 8) / 4 = 10&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Più le tante variazioni matematiche, come:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;(8 + 4) / 4 + 7&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;8 / (4 / 7) - 4&lt;/code&gt; (che equivale a &lt;code&gt;8 / 4 * 7 - 4&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;la-storia&#34;&gt;La storia&lt;/h2&gt;
+&lt;p&gt;Sembra che il gioco sia nato come &amp;ldquo;The Sydney Train Game&amp;rdquo;,
+perchè a Sydney le carrozze dei treni sono indentificate da quattro cifre
+e i pendolari hanno iniziato ad utilizzarle mentalmente per arrivare a 10.&lt;br&gt;
+Nel tempo è diventato una piccola tradizione tra gli utenti e il nomer è rimasto.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;ho trovato descritto su &lt;a href=&#34;https://www.reddit.com/r/sydney/comments/gzx2d/cityrail_number_game/&#34;&gt;Reddit nel 2011&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;soluzioni&#34;&gt;Soluzioni&lt;/h2&gt;
+&lt;p&gt;Ho scritto &lt;a href=&#34;https://gist.github.com/timendum/328086fc7ee29b7a901725308108716a#file-find_solution-py&#34;&gt;questo piccolo script&lt;/a&gt;
+in Python che trova tutte le soluzioni, gestisce restrizioni sulle operazioni disponibili,
+cioè è possibile elencare le operazioni che possono apparire nella soluzione, se non sono tutte.&lt;/p&gt;
+&lt;p&gt;Se non ho sbagliato l&amp;rsquo;implementazione, ci sono 549 possibili soluzioni
+del problema base con obliettivo 10 se ammettiamo le parentesi,
+che diventano 439 senza parentesi.&lt;/p&gt;
+&lt;h2 id=&#34;alternative&#34;&gt;Alternative&lt;/h2&gt;
+&lt;p&gt;Come passo successivo mi sono chiesto se ci fossero dei numeri alternativi a 10,
+per lo stesso problema, cioè quale sia il migliore obbiettivo del problema.&lt;/p&gt;
+&lt;p&gt;Quindi ho scritto &lt;a href=&#34;https://gist.github.com/timendum/328086fc7ee29b7a901725308108716a#file-sol_count-py&#34;&gt;quest altro piccolo script&lt;/a&gt;
+che fa il giro e prova tutto, di default si ferma alla prima soluzione,
+ma potrebbe trovarle tutte.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;target&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;con parentesi&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;senza parentesi&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;656&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;583&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;654&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;573&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;612&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;529&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;606&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;509&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;604&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;485&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;612&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;498&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;597&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;471&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;595&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;471&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;587&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;465&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;549&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;439&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;11&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;495&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;424&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;12&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;541&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;400&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;13&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;447&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;372&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;14&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;483&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;377&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;15&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;478&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;357&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;16&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;487&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;340&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;17&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;390&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;303&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;18&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;471&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;294&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;19&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;361&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;269&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;20&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;422&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;249&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Quindi 12 sarebbe un buon candidato alternativo nel caso di parentesi.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Trova le parole in griglia</title>

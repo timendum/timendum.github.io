@@ -6,8 +6,22 @@
     <description>Recent content in Tags on Timendum</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://timendum.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Matematica</title>
+      <link>https://timendum.github.io/tags/matematica/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0200</pubDate>
+      <guid>https://timendum.github.io/tags/matematica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://timendum.github.io/tags/python/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0200</pubDate>
+      <guid>https://timendum.github.io/tags/python/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Parole</title>
       <link>https://timendum.github.io/tags/parole/</link>
@@ -20,13 +34,6 @@
       <link>https://timendum.github.io/tags/programmazione/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0200</pubDate>
       <guid>https://timendum.github.io/tags/programmazione/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://timendum.github.io/tags/python/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0200</pubDate>
-      <guid>https://timendum.github.io/tags/python/</guid>
       <description></description>
     </item>
     <item>

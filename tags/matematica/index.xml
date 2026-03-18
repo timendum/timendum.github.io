@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on Timendum</title>
-    <link>https://timendum.github.io/tags/python/</link>
-    <description>Recent content in Python on Timendum</description>
+    <title>Matematica on Timendum</title>
+    <link>https://timendum.github.io/tags/matematica/</link>
+    <description>Recent content in Matematica on Timendum</description>
     <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0200</lastBuildDate>
-    <atom:link href="https://timendum.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://timendum.github.io/tags/matematica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fai 10, soluzioni e le alternative</title>
       <link>https://timendum.github.io/posts/fai-dieci/</link>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0200</pubDate>
       <guid>https://timendum.github.io/posts/fai-dieci/</guid>
       <description>Descrizione del gioco &lt;em&gt;Make 10&lt;/em&gt;, uno script per trovale le soluzioni e la ricerca di soluzioni diverse da 10.</description>
-    </item>
-    <item>
-      <title>Uso avanzato delle liste in Python</title>
-      <link>https://timendum.github.io/posts/liste-python/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0200</pubDate>
-      <guid>https://timendum.github.io/posts/liste-python/</guid>
-      <description>Schemi per usare l&amp;rsquo;oggetto list di Python in maniera più efficace.</description>
     </item>
   </channel>
 </rss>

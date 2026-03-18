@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="it-it">
+<head>
+    <meta charset="utf-8">
+    
+    <title>Fai 10, soluzioni e le alternative | Timendum</title>
+    <meta name="description" content="Raccolta di produzioni di Timendum">
+    <meta name="author" content="">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://timendum.github.io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://timendum.github.io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://timendum.github.io/favicon-16x16.png">
+    <link rel="manifest" href="https://timendum.github.io/site.webmanifest">
+    <link rel="mask-icon" href="https://timendum.github.io/safari-pinned-tab.svg" color="#00416a">
+    <link rel="feed" type="application/rss+xml" href="./index.xml" title="Fai 10, soluzioni e le alternative" />
+    <link rel="alternate" type="application/rss+xml" href="./index.xml" title="Fai 10, soluzioni e le alternative" />
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="theme-color" content="#ffffff">
+    
+    
+    
+    
+    
+    <link rel="stylesheet" href="https://timendum.github.io/css/fonts.css" />
+    <link rel="stylesheet" href="https://timendum.github.io/css/style.css" />
+    <link rel="stylesheet" href="https://timendum.github.io/css/custom.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <header>
+        <nav>
+    
+    <div id="page-nav">
+        <div class="page-nav-item">
+            <a href="https://timendum.github.io/">Home</a>
+        </div>
+        
+    </div>
+</nav>
+        
+    </header>
+
+
+
+<div id="content">
+    <article class="h-entry">
+        <header>
+            <h1 class="post-title p-name">Fai 10, soluzioni e le alternative</h1>
+            
+            <p class="post-date">Scritto il 
+                <time class="dt-published" datetime="2026-03-18T00:00:00&#43;02:00">
+                    18-03-2026
+                </time>  da <a href="https://timendum.github.io/" class="p-author h-card"
+                    rel="author">Timendum</a>
+            </p>
+            
+            
+			
+        </header>
+        <section class="content e-content">
+            <p>Ho trovato per Android il gioco <a href="https://play.google.com/store/apps/details?id=app.fourequalsten.fourequalsten_app">4=10</a>,
+completamente offline e ottimo per passare qualche minuto in attesa senza fare doom-scrolling
+e da lì è partita la curiosità.</p>
+<h2 id="fai-10">Fai 10</h2>
+<p>Il gioco è semplice: dati un quattro numeri,
+lo scopo è ottenere il numero <code>10</code> usando tutti e quattro i numeri esattamente una volta,
+combinandoli con operazioni matematiche.</p>
+<p>Nella mia versione sono ammesse:</p>
+<ul>
+<li>addizione</li>
+<li>sottrazione</li>
+<li>moltiplicazione</li>
+<li>divisione</li>
+<li>parentesi per cambiare l’ordine delle operazioni</li>
+</ul>
+<p>Poi ci sono altre varianti in cui
+la posizione di una o più cifre è fissa,
+oppure viene negata la possiblità di utilizzare partentesi,
+o si possono sare solo alcune operazioni,
+o alcune operazioni hanno una posizione fissa,
+o simili costrizioni.</p>
+<h3 id="esempio">Esempio</h3>
+<p>Mi vengono fornite queste quattro cifre: <code>4</code>, <code>8</code>, <code>4</code>, <code>7</code>.</p>
+<p>Alcune delle soluzioni sono:</p>
+<ul>
+<li><code>8 / 4 × 7 − 4 = 10</code></li>
+<li><code>7 + (4 + 8) / 4 = 10</code></li>
+</ul>
+<p>Più le tante variazioni matematiche, come:</p>
+<ul>
+<li><code>(8 + 4) / 4 + 7</code></li>
+<li><code>8 / (4 / 7) - 4</code> (che equivale a <code>8 / 4 * 7 - 4</code>)</li>
+</ul>
+<h2 id="la-storia">La storia</h2>
+<p>Sembra che il gioco sia nato come &ldquo;The Sydney Train Game&rdquo;,
+perchè a Sydney le carrozze dei treni sono indentificate da quattro cifre
+e i pendolari hanno iniziato ad utilizzarle mentalmente per arrivare a 10.<br>
+Nel tempo è diventato una piccola tradizione tra gli utenti e il nomer è rimasto.</p>
+<p>L&rsquo;ho trovato descritto su <a href="https://www.reddit.com/r/sydney/comments/gzx2d/cityrail_number_game/">Reddit nel 2011</a>.</p>
+<h2 id="soluzioni">Soluzioni</h2>
+<p>Ho scritto <a href="https://gist.github.com/timendum/328086fc7ee29b7a901725308108716a#file-find_solution-py">questo piccolo script</a>
+in Python che trova tutte le soluzioni, gestisce restrizioni sulle operazioni disponibili,
+cioè è possibile elencare le operazioni che possono apparire nella soluzione, se non sono tutte.</p>
+<p>Se non ho sbagliato l&rsquo;implementazione, ci sono 549 possibili soluzioni
+del problema base con obliettivo 10 se ammettiamo le parentesi,
+che diventano 439 senza parentesi.</p>
+<h2 id="alternative">Alternative</h2>
+<p>Come passo successivo mi sono chiesto se ci fossero dei numeri alternativi a 10,
+per lo stesso problema, cioè quale sia il migliore obbiettivo del problema.</p>
+<p>Quindi ho scritto <a href="https://gist.github.com/timendum/328086fc7ee29b7a901725308108716a#file-sol_count-py">quest altro piccolo script</a>
+che fa il giro e prova tutto, di default si ferma alla prima soluzione,
+ma potrebbe trovarle tutte.</p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">target</th>
+          <th style="text-align: left">con parentesi</th>
+          <th style="text-align: left">senza parentesi</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">656</td>
+          <td style="text-align: left">583</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2</td>
+          <td style="text-align: left">654</td>
+          <td style="text-align: left">573</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">3</td>
+          <td style="text-align: left">612</td>
+          <td style="text-align: left">529</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">4</td>
+          <td style="text-align: left">606</td>
+          <td style="text-align: left">509</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">5</td>
+          <td style="text-align: left">604</td>
+          <td style="text-align: left">485</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">6</td>
+          <td style="text-align: left">612</td>
+          <td style="text-align: left">498</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">7</td>
+          <td style="text-align: left">597</td>
+          <td style="text-align: left">471</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">8</td>
+          <td style="text-align: left">595</td>
+          <td style="text-align: left">471</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">9</td>
+          <td style="text-align: left">587</td>
+          <td style="text-align: left">465</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">10</td>
+          <td style="text-align: left">549</td>
+          <td style="text-align: left">439</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">11</td>
+          <td style="text-align: left">495</td>
+          <td style="text-align: left">424</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">12</td>
+          <td style="text-align: left">541</td>
+          <td style="text-align: left">400</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">13</td>
+          <td style="text-align: left">447</td>
+          <td style="text-align: left">372</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">14</td>
+          <td style="text-align: left">483</td>
+          <td style="text-align: left">377</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">15</td>
+          <td style="text-align: left">478</td>
+          <td style="text-align: left">357</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">16</td>
+          <td style="text-align: left">487</td>
+          <td style="text-align: left">340</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">17</td>
+          <td style="text-align: left">390</td>
+          <td style="text-align: left">303</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">18</td>
+          <td style="text-align: left">471</td>
+          <td style="text-align: left">294</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">19</td>
+          <td style="text-align: left">361</td>
+          <td style="text-align: left">269</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">20</td>
+          <td style="text-align: left">422</td>
+          <td style="text-align: left">249</td>
+      </tr>
+  </tbody>
+</table>
+<p>Quindi 12 sarebbe un buon candidato alternativo nel caso di parentesi.</p>
+
+        </section>
+        <footer>
+            
+            <hr class="post-underline">
+            <p class="post-tag">Questo post ha i seguenti tag:
+                
+                <a href="https://timendum.github.io/tags/python" class="post-tag p-category">python</a>
+                
+                <a href="https://timendum.github.io/tags/matematica" class="post-tag p-category">matematica</a>
+                
+            </p>
+            
+        </footer>
+    </article>
+</div>
+
+    
+    <div id="footer">
+      
+      <nav id="article-skip">
+        <div class="next">
+          
+          <p>&nbsp;</p>
+          
+        </div>
+        <div class="top">
+          <a alt="Vai all'inizio della pagina" href="#">Sopra</a>
+        </div>
+        <div class="prev">
+          
+                <a alt="Articolo successivo" href="https://timendum.github.io/posts/trova-parole-griglia/">Successivo &rarr;</a>
+          
+        </div>
+      </nav>
+      
+      <aside id="social">
+  <div id="social-icons">
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="GitHub profile" href="https://github.com/timendum"><img src="https://timendum.github.io/icons/github.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Reddit profile" href="https://www.reddit.com/user/timendum"><img src="https://timendum.github.io/icons/reddit-alien.svg" height="24px" width="24px" /></a>
+    </div>
+    
+    
+    
+    
+    
+  </div>
+</aside>
+
+      
+    </div>
+
+
+</body>
+</html>
